@@ -37,6 +37,18 @@
 	  p position = 3.42591,10.7205,3.19284,0x3d040e67;
 	}
 }
+[t:crystals_cav_12,n:0x040001cd]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.15642;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999962,0,0.00872632;
+	  p position = -3.86804,4,1.47104,0xa47bce0a;
+	}
+}
 [t:crystals_cav_05,n:0x0400001c]
 {
 	[placement]
@@ -45,24 +57,16 @@
 	  p position = 0.646198,3.65,0.405907,0xbb083117;
 	}
 }
-[t:crystals_cav_11,n:0x040001d1]
+[t:crystals_cav_12,n:0x040001c8]
 {
 	[aspect]
 	{
-	  f scale_multiplier = 0.882925;
+	  f scale_multiplier = 1.16719;
 	}
 	[placement]
 	{
-	  q orientation = 0,0.996195,0,-0.0871551;
-	  p position = -3.1283,2,-1.31944,0x405048c9;
-	}
-}
-[t:crystals_cav_08,n:0x04000010]
-{
-	[placement]
-	{
-	  q orientation = 0,1,0,0;
-	  p position = -8.22559,-3.95321,-1.84394,0x49c4e90a;
+	  q orientation = 0,-0.766044,0,0.642788;
+	  p position = 0.0486927,3.65,-1.47726,0xbb083117;
 	}
 }
 [t:crystals_cav_04,n:0x04000032]
@@ -71,6 +75,14 @@
 	{
 	  q orientation = -0.193859,-0.228759,-0.046541,0.952849;
 	  p position = -0.229142,3.85103,0.16814,0x672e4264;
+	}
+}
+[t:crystals_cav_08,n:0x04000010]
+{
+	[placement]
+	{
+	  q orientation = 0,1,0,0;
+	  p position = -8.22559,-3.95321,-1.84394,0x49c4e90a;
 	}
 }
 [t:crystals_cav_12,n:0x040001a1]
@@ -339,30 +351,6 @@
 	  p position = -1.58423,2.00004,-1.83905,0x405048c9;
 	}
 }
-[t:crystals_cav_12,n:0x040001c8]
-{
-	[aspect]
-	{
-	  f scale_multiplier = 1.16719;
-	}
-	[placement]
-	{
-	  q orientation = 0,-0.766044,0,0.642788;
-	  p position = 0.0486927,3.65,-1.47726,0xbb083117;
-	}
-}
-[t:crystals_cav_12,n:0x040001cd]
-{
-	[aspect]
-	{
-	  f scale_multiplier = 1.15642;
-	}
-	[placement]
-	{
-	  q orientation = 0,0.999962,0,0.00872632;
-	  p position = -3.86804,4,1.47104,0xa47bce0a;
-	}
-}
 [t:crystals_cav_12,n:0x040001ce]
 {
 	[aspect]
@@ -373,6 +361,18 @@
 	{
 	  q orientation = 0,0.0871558,0,0.996195;
 	  p position = -2.22429,2,1.36372,0x405048c9;
+	}
+}
+[t:crystals_cav_11,n:0x040001d1]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.882925;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.996195,0,-0.0871551;
+	  p position = -3.1283,2,-1.31944,0x405048c9;
 	}
 }
 [t:crystals_cav_11,n:0x040001d2]

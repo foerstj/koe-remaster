@@ -1,3 +1,51 @@
+[t:elevator_2s_1c_1n_act_deact,n:0x072000fb]
+{
+	[common]
+	{
+		dev_instance_text = "ELEVATOR";
+	}
+	[elevator_2s_1c_1n_act_deact]
+	{
+	  i connect_door_level1 = 7;
+	  i connect_door_level2 = 10;
+	  x connect_node = 0x29A9F496;
+	  f duration = 0.5;
+	  i elevator_door_level1 = 2;
+	  i elevator_door_level2 = 2;
+	  x elevator_node = 0xDFFA7FF5;
+		level1_message = we_req_deactivate;
+	  x level1_scid = 0x048000CB;
+	  x level2_scid = 0x048000CB;
+	}
+	[placement]
+	{
+	  p position = 1.27728,2.53641,-0.121471,0xbde5ad1f;
+	}
+}
+[t:elevator_2s_1c_1n_act_deact,n:0x072000fd]
+{
+	[common]
+	{
+		dev_instance_text = "ELEVATOR";
+	}
+	[elevator_2s_1c_1n_act_deact]
+	{
+	  i connect_door_level1 = 7;
+	  i connect_door_level2 = 10;
+	  x connect_node = 0x5BB2E42E;
+	  f duration = 0.5;
+	  i elevator_door_level1 = 2;
+	  i elevator_door_level2 = 2;
+	  x elevator_node = 0x42A1732C;
+		level1_message = we_req_deactivate;
+	  x level1_scid = 0x048000CB;
+	  x level2_scid = 0x048000CB;
+	}
+	[placement]
+	{
+	  p position = -1.14053,2.5364,-0.117774,0xbde5ad1f;
+	}
+}
 [t:elevator_hidden_stairwell_act_deact,n:0x072000c0]
 {
 	[common]
@@ -73,6 +121,64 @@
 	[placement]
 	{
 	  p position = 0.00209641,2.90953,-6.42564,0x8d6cfd7a;
+	}
+}
+[t:elevator_2s_1c_1n_act_deact,n:0x048000c3]
+{
+	[common]
+	{
+		dev_instance_text = "SCRIPTED EVENT";
+	}
+	[elevator_2s_1c_1n_act_deact]
+	{
+	  i connect_door_level1 = 7;
+	  i connect_door_level2 = 10;
+	  x connect_node = 0x185ABF1D;
+	  f duration = 0.25;
+	  i elevator_door_level1 = 2;
+	  i elevator_door_level2 = 2;
+	  x elevator_node = 0x62DFC894;
+		level1_message = we_req_deactivate;
+	  x level1_scid = 0x072000C3;
+	  x level2_scid = 0x072000C3;
+	}
+	[gizmo]
+	{
+	  v diffuse_color = 0.9,0.4,0.9;
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,0;
+	  p position = 0.124384,1.82375,-1.33816,0x9e85f750;
+	}
+}
+[t:elevator_2s_1c_1n_act_deact,n:0x048000c4]
+{
+	[common]
+	{
+		dev_instance_text = "SCRIPTED EVENT";
+	}
+	[elevator_2s_1c_1n_act_deact]
+	{
+	  i connect_door_level1 = 7;
+	  i connect_door_level2 = 10;
+	  x connect_node = 0x0834D31D;
+	  f duration = 0.25;
+	  i elevator_door_level1 = 2;
+	  i elevator_door_level2 = 2;
+	  x elevator_node = 0xBD2265E9;
+		level1_message = we_req_deactivate;
+	  x level1_scid = 0x072000C3;
+	  x level2_scid = 0x072000C3;
+	}
+	[gizmo]
+	{
+	  v diffuse_color = 0.9,0.4,0.9;
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,1.52588e-007;
+	  p position = -0.0205479,2.26738,1.27091,0x9e85f750;
 	}
 }
 [t:elevator_hidden_stairwell_act_deact,n:0x072000c2]
@@ -196,7 +302,7 @@
 	  p position = -0.12677,-4.09237,0.139743,0x5cc5a697;
 	}
 }
-[t:elevator_2s_1c_1n_act_deact,n:0x048000c4]
+[t:elevator_2s_1c_1n_act_deact,n:0x048000c0]
 {
 	[common]
 	{
@@ -206,23 +312,44 @@
 	{
 	  i connect_door_level1 = 7;
 	  i connect_door_level2 = 10;
-	  x connect_node = 0x0834D31D;
+	  x connect_node = 0x040A2A1D;
 	  f duration = 0.25;
 	  i elevator_door_level1 = 2;
 	  i elevator_door_level2 = 2;
-	  x elevator_node = 0xBD2265E9;
+	  x elevator_node = 0x4C291C5F;
 		level1_message = we_req_deactivate;
-	  x level1_scid = 0x072000C3;
-	  x level2_scid = 0x072000C3;
-	}
-	[gizmo]
-	{
-	  v diffuse_color = 0.9,0.4,0.9;
+	  x level1_scid = 0x072000CC;
+	  x level2_scid = 0x072000CC;
 	}
 	[placement]
 	{
-	  q orientation = 0,1,0,1.52588e-007;
-	  p position = -0.0205479,2.26738,1.27091,0x9e85f750;
+	  q orientation = 0,1,0,-3.05176e-008;
+	  p position = -0.0501745,2.25499,0.82361,0x9c7771bd;
+	}
+}
+[t:elevator_2s_1c_1n_act_deact,n:0x048000c5]
+{
+	[common]
+	{
+		dev_instance_text = "SCRIPTED EVENT";
+	}
+	[elevator_2s_1c_1n_act_deact]
+	{
+	  i connect_door_level1 = 7;
+	  i connect_door_level2 = 10;
+	  x connect_node = 0xED162BE4;
+	  f duration = 0.25;
+	  i elevator_door_level1 = 2;
+	  i elevator_door_level2 = 2;
+	  x elevator_node = 0xFF94A527;
+		level1_message = we_req_deactivate;
+	  x level1_scid = 0x072000CC;
+	  x level2_scid = 0x072000CC;
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,0;
+	  p position = -0.0317272,2.11785,-1.18471,0x9c7771bd;
 	}
 }
 [t:elevator_hidden_stairwell_act_deact,n:0x048000ca]
@@ -346,31 +473,6 @@
 	  p position = 0.181427,-3.72044,-0.0448256,0x91b9e0fd;
 	}
 }
-[t:elevator_2s_1c_1n_act_deact,n:0x048000c0]
-{
-	[common]
-	{
-		dev_instance_text = "SCRIPTED EVENT";
-	}
-	[elevator_2s_1c_1n_act_deact]
-	{
-	  i connect_door_level1 = 7;
-	  i connect_door_level2 = 10;
-	  x connect_node = 0x040A2A1D;
-	  f duration = 0.25;
-	  i elevator_door_level1 = 2;
-	  i elevator_door_level2 = 2;
-	  x elevator_node = 0x4C291C5F;
-		level1_message = we_req_deactivate;
-	  x level1_scid = 0x072000CC;
-	  x level2_scid = 0x072000CC;
-	}
-	[placement]
-	{
-	  q orientation = 0,1,0,-3.05176e-008;
-	  p position = -0.0501745,2.25499,0.82361,0x9c7771bd;
-	}
-}
 [t:elevator_2s_1c_1n_act_deact,n:0x07200101]
 {
 	[common]
@@ -413,107 +515,5 @@
 	{
 	  q orientation = 0,0.707107,0,0.707107;
 	  p position = 1.35878,-0.45,-1.8513,0xd6aa1a5f;
-	}
-}
-[t:elevator_2s_1c_1n_act_deact,n:0x048000c5]
-{
-	[common]
-	{
-		dev_instance_text = "SCRIPTED EVENT";
-	}
-	[elevator_2s_1c_1n_act_deact]
-	{
-	  i connect_door_level1 = 7;
-	  i connect_door_level2 = 10;
-	  x connect_node = 0xED162BE4;
-	  f duration = 0.25;
-	  i elevator_door_level1 = 2;
-	  i elevator_door_level2 = 2;
-	  x elevator_node = 0xFF94A527;
-		level1_message = we_req_deactivate;
-	  x level1_scid = 0x072000CC;
-	  x level2_scid = 0x072000CC;
-	}
-	[placement]
-	{
-	  q orientation = 0,1,0,0;
-	  p position = -0.0317272,2.11785,-1.18471,0x9c7771bd;
-	}
-}
-[t:elevator_2s_1c_1n_act_deact,n:0x048000c3]
-{
-	[common]
-	{
-		dev_instance_text = "SCRIPTED EVENT";
-	}
-	[elevator_2s_1c_1n_act_deact]
-	{
-	  i connect_door_level1 = 7;
-	  i connect_door_level2 = 10;
-	  x connect_node = 0x185ABF1D;
-	  f duration = 0.25;
-	  i elevator_door_level1 = 2;
-	  i elevator_door_level2 = 2;
-	  x elevator_node = 0x62DFC894;
-		level1_message = we_req_deactivate;
-	  x level1_scid = 0x072000C3;
-	  x level2_scid = 0x072000C3;
-	}
-	[gizmo]
-	{
-	  v diffuse_color = 0.9,0.4,0.9;
-	}
-	[placement]
-	{
-	  q orientation = 0,1,0,0;
-	  p position = 0.124384,1.82375,-1.33816,0x9e85f750;
-	}
-}
-[t:elevator_2s_1c_1n_act_deact,n:0x072000fd]
-{
-	[common]
-	{
-		dev_instance_text = "ELEVATOR";
-	}
-	[elevator_2s_1c_1n_act_deact]
-	{
-	  i connect_door_level1 = 7;
-	  i connect_door_level2 = 10;
-	  x connect_node = 0x5BB2E42E;
-	  f duration = 0.5;
-	  i elevator_door_level1 = 2;
-	  i elevator_door_level2 = 2;
-	  x elevator_node = 0x42A1732C;
-		level1_message = we_req_deactivate;
-	  x level1_scid = 0x048000CB;
-	  x level2_scid = 0x048000CB;
-	}
-	[placement]
-	{
-	  p position = -1.14053,2.5364,-0.117774,0xbde5ad1f;
-	}
-}
-[t:elevator_2s_1c_1n_act_deact,n:0x072000fb]
-{
-	[common]
-	{
-		dev_instance_text = "ELEVATOR";
-	}
-	[elevator_2s_1c_1n_act_deact]
-	{
-	  i connect_door_level1 = 7;
-	  i connect_door_level2 = 10;
-	  x connect_node = 0x29A9F496;
-	  f duration = 0.5;
-	  i elevator_door_level1 = 2;
-	  i elevator_door_level2 = 2;
-	  x elevator_node = 0xDFFA7FF5;
-		level1_message = we_req_deactivate;
-	  x level1_scid = 0x048000CB;
-	  x level2_scid = 0x048000CB;
-	}
-	[placement]
-	{
-	  p position = 1.27728,2.53641,-0.121471,0xbde5ad1f;
 	}
 }
