@@ -26,6 +26,14 @@
 	  p position = -2.61074,0,0.0307627,0xb0f71a08;
 	}
 }
+[t:use_point,n:0x04700114]
+{
+	[placement]
+	{
+	  q orientation = 0,-5.96046e-008,0,1;
+	  p position = 1.16101,-1.75,-1.94326,0x96e0dcd4;
+	}
+}
 [t:trigger_fade_nodes_box,n:0x04700011]
 {
 	[common]
@@ -204,13 +212,5 @@
 	[placement]
 	{
 	  p position = -0.174622,-0.999999,0.047163,0x619b145a;
-	}
-}
-[t:use_point,n:0x04700114]
-{
-	[placement]
-	{
-	  q orientation = 0,-5.96046e-008,0,1;
-	  p position = 1.16101,-1.75,-1.94326,0x96e0dcd4;
 	}
 }

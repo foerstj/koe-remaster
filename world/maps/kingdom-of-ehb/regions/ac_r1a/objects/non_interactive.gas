@@ -132,6 +132,20 @@
 	  p position = -1.15367,-3.8147e-006,1.67607,0xd7366519;
 	}
 }
+[t:bush_ice_rhod_01,n:0x0790023d]
+{
+	[aspect]
+	{
+	  f lodfi_lower = 0;
+	  f lodfi_upper = 0;
+	  f scale_multiplier = 1.0825;
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.34202,0,0.939693;
+	  p position = -0.804282,2.86102e-006,-0.793186,0xd7366519;
+	}
+}
 [t:tree_ice_pine_01,n:0x07900173]
 {
 	[aspect]
@@ -4289,19 +4303,5 @@
 	{
 	  q orientation = 0,-0.061049,0,0.998135;
 	  p position = -0.489919,-6,-5.47947,0x2f7b005f;
-	}
-}
-[t:bush_ice_rhod_01,n:0x0790023d]
-{
-	[aspect]
-	{
-	  f lodfi_lower = 0;
-	  f lodfi_upper = 0;
-	  f scale_multiplier = 1.0825;
-	}
-	[placement]
-	{
-	  q orientation = 0,-0.34202,0,0.939693;
-	  p position = -0.804282,2.86102e-006,-0.793186,0xd7366519;
 	}
 }
