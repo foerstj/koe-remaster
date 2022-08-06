@@ -2,7 +2,6 @@
 {
 	[generic_emitter]
 	{
-		
 	  f rep_freq_max = 1.5;
 	  f rep_freq_min = 0.6;
 	  b water_wave = true;
@@ -31,7 +30,6 @@
 {
 	[generic_emitter]
 	{
-		
 	  f rep_freq_max = 1.5;
 	  f rep_freq_min = 0.6;
 	  b water_wave = true;

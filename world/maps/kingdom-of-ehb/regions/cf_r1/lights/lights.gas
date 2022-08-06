@@ -141,10 +141,10 @@
 	  f outer_radius = 2.000000;
 		[position]
 		{
-		  x node = 0xA183A2AC;
-		  f x = 3.093590;
-		  f y = 7.357358;
-		  f z = -8.182784;
+		  x node = 0x64DA9D5A;
+		  f x = 5.543587;
+		  f y = -4.642642;
+		  f z = 39.817215;
 		}
 	}
 	[t:directional,n:light_0x8828d907]
@@ -204,10 +204,10 @@
 	  f outer_radius = 1.000000;
 		[position]
 		{
-		  x node = 0xA183A2AC;
-		  f x = -1.870994;
-		  f y = 7.493308;
-		  f z = -8.146544;
+		  x node = 0x64DA9D5A;
+		  f x = 0.579002;
+		  f y = -4.506692;
+		  f z = 39.853455;
 		}
 	}
 	[t:point,n:light_0xce6f3db7]
