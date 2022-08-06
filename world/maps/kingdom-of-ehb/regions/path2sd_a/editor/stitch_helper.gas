@@ -7,7 +7,7 @@
 		dest_region = path2sd;
 		[node_ids]
 		{
-			0xaca12001 = 0xebb92580,5;
+			0xaca12001 = 0xEBB92580,5;
 		}
 	}
 }

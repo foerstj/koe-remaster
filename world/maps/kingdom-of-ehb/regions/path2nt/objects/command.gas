@@ -30,6 +30,13 @@
 	  p position = 1.10897,-1.35,-1.65301,0x0a3c25f7;
 	}
 }
+[t:cmd_auto_save,n:0x04c00717]
+{
+	[placement]
+	{
+	  p position = -2.69429,-1.35,-1.75352,0x0a3c25f7;
+	}
+}
 [t:cmd_ai_c_patrol,n:0x04c00347]
 {
 	[cmd_ai_dojob]
@@ -207,12 +214,5 @@
 	{
 	  q orientation = 0,-0.707107,0,0.707107;
 	  p position = 0.593674,0,1.78754,0xc15b2bf8;
-	}
-}
-[t:cmd_auto_save,n:0x04c00717]
-{
-	[placement]
-	{
-	  p position = -2.69429,-1.35,-1.75352,0x0a3c25f7;
 	}
 }

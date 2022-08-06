@@ -127,8 +127,6 @@
 }
 [t:chest_csl_03_dm_r8,n:0x035001a9]
 {
-	 
-	
 	[placement]
 	{
 	  p position = -1.14854,0,-1.58467,0x70300e20;

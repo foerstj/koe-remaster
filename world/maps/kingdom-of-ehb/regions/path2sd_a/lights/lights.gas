@@ -6,7 +6,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -16744333;
+	  x color = 0xFF008073;
 	  b draw_shadow = false;
 	  f inner_radius = 0.000000;
 	  f intensity = 1.000000;
@@ -27,7 +27,7 @@
 	  b affects_actors = false;
 	  b affects_items = true;
 	  b affects_terrain = false;
-	  i color = -13748910;
+	  x color = 0xFF2E3552;
 	  b draw_shadow = false;
 	  f inner_radius = 0.000000;
 	  f intensity = 1.000000;
@@ -48,7 +48,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -2517944;
+	  x color = 0xFFD99448;
 	  b draw_shadow = true;
 	  f inner_radius = 1.000000;
 	  f intensity = 1.000000;
@@ -69,7 +69,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -2517944;
+	  x color = 0xFFD99448;
 	  b draw_shadow = true;
 	  f inner_radius = 1.000000;
 	  f intensity = 1.000000;
@@ -90,7 +90,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -13748910;
+	  x color = 0xFF2E3552;
 	  b draw_shadow = false;
 	  f inner_radius = 0.000000;
 	  f intensity = 1.000000;
@@ -111,7 +111,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -16760704;
+	  x color = 0xFF004080;
 	  b draw_shadow = false;
 	  f inner_radius = 0.000000;
 	  f intensity = 1.000000;
@@ -132,7 +132,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -13748910;
+	  x color = 0xFF2E3552;
 	  b draw_shadow = false;
 	  f inner_radius = 0.000000;
 	  f intensity = 1.000000;
@@ -153,7 +153,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -1987729;
+	  x color = 0xFFE1AB6F;
 	  b draw_shadow = true;
 	  f inner_radius = 1.000000;
 	  f intensity = 1.000000;
@@ -174,7 +174,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -16760704;
+	  x color = 0xFF004080;
 	  b draw_shadow = false;
 	  f inner_radius = 0.000000;
 	  f intensity = 1.000000;
@@ -195,7 +195,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -2517944;
+	  x color = 0xFFD99448;
 	  b draw_shadow = true;
 	  f inner_radius = 1.000000;
 	  f intensity = 1.000000;
@@ -216,7 +216,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -13748910;
+	  x color = 0xFF2E3552;
 	  b draw_shadow = false;
 	  f inner_radius = 0.000000;
 	  f intensity = 1.000000;
@@ -237,7 +237,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -13748910;
+	  x color = 0xFF2E3552;
 	  b draw_shadow = false;
 	  f inner_radius = 0.000000;
 	  f intensity = 1.000000;
@@ -258,7 +258,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -2517944;
+	  x color = 0xFFD99448;
 	  b draw_shadow = true;
 	  f inner_radius = 1.000000;
 	  f intensity = 1.000000;
@@ -279,7 +279,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -2517944;
+	  x color = 0xFFD99448;
 	  b draw_shadow = true;
 	  f inner_radius = 1.000000;
 	  f intensity = 1.000000;
@@ -300,7 +300,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -13748910;
+	  x color = 0xFF2E3552;
 	  b draw_shadow = false;
 	  f inner_radius = 0.000000;
 	  f intensity = 1.000000;
@@ -321,7 +321,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -2517944;
+	  x color = 0xFFD99448;
 	  b draw_shadow = true;
 	  f inner_radius = 1.000000;
 	  f intensity = 1.000000;
@@ -342,7 +342,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -13748910;
+	  x color = 0xFF2E3552;
 	  b draw_shadow = false;
 	  f inner_radius = 0.000000;
 	  f intensity = 1.000000;
@@ -363,7 +363,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -13748910;
+	  x color = 0xFF2E3552;
 	  b draw_shadow = false;
 	  f inner_radius = 0.000000;
 	  f intensity = 1.000000;
@@ -384,7 +384,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -1587332;
+	  x color = 0xFFE7C77C;
 	  b draw_shadow = true;
 	  f inner_radius = 1.000000;
 	  f intensity = 1.000000;
@@ -405,7 +405,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -13748910;
+	  x color = 0xFF2E3552;
 	  b draw_shadow = false;
 	  f inner_radius = 0.000000;
 	  f intensity = 1.000000;
@@ -426,7 +426,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -13748910;
+	  x color = 0xFF2E3552;
 	  b draw_shadow = false;
 	  f inner_radius = 0.000000;
 	  f intensity = 1.000000;
@@ -447,7 +447,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -13748910;
+	  x color = 0xFF2E3552;
 	  b draw_shadow = false;
 	  f inner_radius = 0.000000;
 	  f intensity = 1.000000;
@@ -468,7 +468,7 @@
 	  b affects_actors = true;
 	  b affects_items = true;
 	  b affects_terrain = true;
-	  i color = -15305;
+	  x color = 0xFFFFC437;
 	  b draw_shadow = true;
 	  f inner_radius = 1.000000;
 	  f intensity = 0.900000;

@@ -12,6 +12,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -46,6 +47,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = true;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -74,6 +76,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -101,6 +104,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -128,6 +132,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -166,6 +171,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = true;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -191,6 +197,17 @@
 	[placement]
 	{
 	  p position = 6.06556,-2,1.40545,0xbefe863e;
+	}
+}
+[t:set_bool,n:0x06f00137]
+{
+	[placement]
+	{
+	  p position = 5.0185,-2,2.50176,0xbefe863e;
+	}
+	[set_bool]
+	{
+		bool_variable = "path2sd_a_axe_taken";
 	}
 }
 [t:use_point,n:0x06f00136]
@@ -228,6 +245,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = true;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -239,16 +257,5 @@
 	[placement]
 	{
 	  p position = -1.8577,1.75,-2.23224,0xd9b659d7;
-	}
-}
-[t:set_bool,n:0x06f00137]
-{
-	[placement]
-	{
-	  p position = 5.0185,-2,2.50176,0xbefe863e;
-	}
-	[set_bool]
-	{
-		bool_variable = "path2sd_a_axe_taken";
 	}
 }

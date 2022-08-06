@@ -14,6 +14,13 @@
 		event_sound = "amb_wind_01b";
 	}
 }
+[t:emitter_glb_smoke_01,n:0x02700086]
+{
+	[placement]
+	{
+	  p position = -5.43277,3.83103,3.56917,0x358482c6;
+	}
+}
 [t:emt_sound,n:0x0270056a]
 {
 	[common]
@@ -56,6 +63,36 @@
 	{
 	  b continual_loop = true;
 		event_sound = "amb_tavern";
+	}
+}
+[t:emitter_glb_smoke_01,n:0x02700085]
+{
+	[placement]
+	{
+	  p position = -4.97878,4.06824,0.195328,0x0ff1b583;
+	}
+}
+[t:emitter_glb_smoke_01,n:0x02700082]
+{
+	[placement]
+	{
+	  q orientation = 0.115683,-0.691297,0.11772,0.703469;
+	  p position = -0.283722,4.24361,0.32074,0xa2634105;
+	}
+}
+[t:emitter_glb_smoke_01,n:0x0270012c]
+{
+	[placement]
+	{
+	  q orientation = 0.165041,0.008607,0.00144,0.986248;
+	  p position = 0.160156,4.24361,1.3925,0xa2634105;
+	}
+}
+[t:emitter_glb_smoke_01,n:0x02700084]
+{
+	[placement]
+	{
+	  p position = 4.13635,4.51578,4.64638,0x5a8ec3c6;
 	}
 }
 [t:emt_sound,n:0x0270056d]

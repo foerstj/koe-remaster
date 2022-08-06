@@ -3613,8 +3613,8 @@
 	  f outer_radius = 3.000000;
 		[position]
 		{
-		  x node = 0xF60416BF;
-		  f x = 0.551147;
+		  x node = 0x534AF430;
+		  f x = 0.601150;
 		  f y = -0.832054;
 		  f z = 1.447888;
 		}
@@ -5671,8 +5671,8 @@
 	  f outer_radius = 3.000000;
 		[position]
 		{
-		  x node = 0xD92BCCC2;
-		  f x = 1.083936;
+		  x node = 0x152FBC7E;
+		  f x = 1.133935;
 		  f y = -0.632095;
 		  f z = 1.057322;
 		}
