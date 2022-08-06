@@ -1116,6 +1116,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = false;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -1144,6 +1145,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = false;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -1183,17 +1185,6 @@
 	  p position = -0.731628,10.4684,0.84445,0x204b6791;
 	}
 }
-[t:cmd_ai_c_patrol,n:0x01e003ab]
-{
-	[cmd_ai_dojob]
-	{
-	  x next_scid = 0x01E003AA;
-	}
-	[placement]
-	{
-	  p position = -0.133923,0,0.57518,0xab730c44;
-	}
-}
 [t:cmd_camera_command,n:0x01e006dc]
 {
 	[cmd_camera_command]
@@ -1206,5 +1197,16 @@
 	{
 	  q orientation = 0.166681,0.181282,-0.0311927,0.968701;
 	  p position = -1.79362,5.7502,0.831501,0x204b6791;
+	}
+}
+[t:cmd_ai_c_patrol,n:0x01e003ab]
+{
+	[cmd_ai_dojob]
+	{
+	  x next_scid = 0x01E003AA;
+	}
+	[placement]
+	{
+	  p position = -0.133923,0,0.57518,0xab730c44;
 	}
 }
