@@ -107,7 +107,7 @@
 		{
 			[normal]
 			{
-			  i required_level = 46;
+				required_level = 46;
 			}
 		}
 	}
@@ -2144,7 +2144,7 @@
 		{
 			[normal]
 			{
-			  i required_level = 42;
+				required_level = 42;
 			}
 		}
 	}
@@ -2255,7 +2255,7 @@
 		{
 			[normal]
 			{
-			  i required_level = 22;
+				required_level = 22;
 			}
 		}
 	}
@@ -2473,7 +2473,7 @@
 		{
 			[normal]
 			{
-			  i required_level = 38;
+				required_level = 38;
 			}
 		}
 	}
@@ -2584,7 +2584,7 @@
 		{
 			[normal]
 			{
-			  i required_level = 7;
+				required_level = 7;
 			}
 		}
 	}
@@ -2695,7 +2695,7 @@
 		{
 			[normal]
 			{
-			  i required_level = 17;
+				required_level = 17;
 			}
 		}
 	}
@@ -2806,7 +2806,7 @@
 		{
 			[normal]
 			{
-			  i required_level = 32;
+				required_level = 32;
 			}
 		}
 	}
@@ -2917,7 +2917,7 @@
 		{
 			[normal]
 			{
-			  i required_level = 3;
+				required_level = 3;
 			}
 		}
 	}
@@ -3028,7 +3028,7 @@
 		{
 			[normal]
 			{
-			  i required_level = 11;
+				required_level = 11;
 			}
 		}
 	}
