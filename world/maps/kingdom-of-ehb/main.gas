@@ -3,7 +3,7 @@
 {
 	description          	= "The original single-player campaign. Playable in both single and multiplayer modes.";
 	name                 	= map_world;
-	screen_name			 	= "Kingdom of Ehb";
+	screen_name			 	= "Kingdom of Ehb (remastered)";
 	world_frustum_radius 	= 45;
 	world_interest_radius	= 10;
 	notes                	= none;
