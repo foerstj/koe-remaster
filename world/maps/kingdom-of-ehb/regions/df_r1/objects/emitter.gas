@@ -1,17 +1,3 @@
-[t:emt_sound,n:0x00c009da]
-{
-	[placement]
-	{
-	  q orientation = 0,-0.366501,0,0.930418;
-	  p position = -1.41798,0.0511901,0.650799,0xde7a884b;
-	}
-	[sound_emitter]
-	{
-		event_sound = "amb_crickets";
-	  f max_repeat_rate = 60;
-	  f repeat_rate = 23;
-	}
-}
 [t:emt_sound,n:0x00c009db]
 {
 	[placement]
@@ -40,6 +26,20 @@
 	  f repeat_rate = 25;
 	}
 }
+[t:emt_sound,n:0x00c009da]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.366501,0,0.930418;
+	  p position = -1.41798,0.0511901,0.650799,0xde7a884b;
+	}
+	[sound_emitter]
+	{
+		event_sound = "amb_crickets";
+	  f max_repeat_rate = 60;
+	  f repeat_rate = 23;
+	}
+}
 [t:emt_sound,n:0x00c00520]
 {
 	[placement]
@@ -66,20 +66,6 @@
 		event_sound = "amb_crickets";
 	  f max_repeat_rate = 20;
 	  f repeat_rate = 1;
-	}
-}
-[t:emt_sound,n:0x00c009d2]
-{
-	[placement]
-	{
-	  q orientation = 0,0.398749,0,0.91706;
-	  p position = -5.1235,-0.05,-1.20821,0xa84471d8;
-	}
-	[sound_emitter]
-	{
-		event_sound = "env_wolf_howl";
-	  f max_repeat_rate = 55;
-	  f repeat_rate = 35;
 	}
 }
 [t:emt_sound,n:0x00c009e2]
@@ -124,19 +110,6 @@
 	  f repeat_rate = 30;
 	}
 }
-[t:emt_sound,n:0x00c00d12]
-{
-	[placement]
-	{
-	  q orientation = 0,0.398749,0,0.91706;
-	  p position = 2.04132,5.32329,4.06081,0x11f20b6f;
-	}
-	[sound_emitter]
-	{
-	  b continual_loop = true;
-		event_sound = "env_brook";
-	}
-}
 [t:emt_sound,n:0x00c00cab]
 {
 	[placement]
@@ -151,6 +124,20 @@
 	  f repeat_rate = 20;
 	}
 }
+[t:emt_sound,n:0x00c009d2]
+{
+	[placement]
+	{
+	  q orientation = 0,0.398749,0,0.91706;
+	  p position = -5.1235,-0.05,-1.20821,0xa84471d8;
+	}
+	[sound_emitter]
+	{
+		event_sound = "env_wolf_howl";
+	  f max_repeat_rate = 55;
+	  f repeat_rate = 35;
+	}
+}
 [t:emt_sound,n:0x00c00c80]
 {
 	[placement]
@@ -163,6 +150,19 @@
 		event_sound = "amb_crickets";
 	  f max_repeat_rate = 45;
 	  f repeat_rate = 15;
+	}
+}
+[t:emt_sound,n:0x00c00d12]
+{
+	[placement]
+	{
+	  q orientation = 0,0.398749,0,0.91706;
+	  p position = 2.04132,5.32329,4.06081,0x11f20b6f;
+	}
+	[sound_emitter]
+	{
+	  b continual_loop = true;
+		event_sound = "env_brook";
 	}
 }
 [t:emt_sound,n:0x00c009df]

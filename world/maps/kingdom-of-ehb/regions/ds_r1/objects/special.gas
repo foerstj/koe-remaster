@@ -1197,6 +1197,138 @@
 	  p position = 0.13748,0.5,-4.36198,0x1c2fafce;
 	}
 }
+[t:trigger_generic,n:0x01600d7b]
+{
+	[common]
+	{
+		dev_instance_text = "check quest filter";
+		[instance_triggers]
+		{
+			[*]
+			{
+				action* = send_world_message("we_req_activate",0x01600B30,0f,"default","every",0);
+			  b can_self_destruct = true;
+				condition* = receive_world_message("we_req_activate",0,"on_first_message");
+			  f delay = 0.000000;
+			  b flip_flop = false;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = true;
+			  b single_shot = true;
+			  b start_active = true;
+			}
+		}
+	}
+	[gizmo]
+	{
+	  v diffuse_color = 0,0,0.9;
+	}
+	[placement]
+	{
+	  p position = 0.963741,0.499999,4.68569,0x1c2fafce;
+	}
+}
+[t:trigger_generic,n:0x01600d7c]
+{
+	[common]
+	{
+		dev_instance_text = "check bool filter";
+		[instance_triggers]
+		{
+			[*]
+			{
+				action* = send_world_message("we_req_activate",0x01600B30,0f,"default","every",0);
+			  b can_self_destruct = true;
+				condition* = receive_world_message("we_req_activate",0,"on_first_message");
+			  f delay = 0.000000;
+			  b flip_flop = false;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = true;
+			  b single_shot = true;
+			  b start_active = true;
+			}
+		}
+	}
+	[gizmo]
+	{
+	  v diffuse_color = 0,0.25,0;
+	}
+	[placement]
+	{
+	  p position = 0.95636,0.5,3.81679,0x1c2fafce;
+	}
+}
+[t:trigger_generic,n:0x01600d7e]
+{
+	[common]
+	{
+		dev_instance_text = "check bool filter";
+		[instance_triggers]
+		{
+			[*]
+			{
+				action* = send_world_message("we_req_activate",0x0160099E,0f,"default","every",0);
+			  b can_self_destruct = true;
+				condition* = receive_world_message("we_req_activate",0,"on_first_message");
+			  f delay = 0.000000;
+			  b flip_flop = false;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = true;
+			  b single_shot = true;
+			  b start_active = true;
+			}
+		}
+	}
+	[gizmo]
+	{
+	  v diffuse_color = 0,0.25,0;
+	}
+	[placement]
+	{
+	  p position = 0.947861,0.5,2.01555,0x1c2fafce;
+	}
+}
+[t:trigger_generic,n:0x01600d7f]
+{
+	[common]
+	{
+		dev_instance_text = "check quest filter";
+		[instance_triggers]
+		{
+			[*]
+			{
+				action* = send_world_message("we_req_activate",0x0160099E,0f,"default","every",0);
+			  b can_self_destruct = true;
+				condition* = receive_world_message("we_req_activate",0,"on_first_message");
+			  f delay = 0.000000;
+			  b flip_flop = false;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = true;
+			  b single_shot = true;
+			  b start_active = true;
+			}
+		}
+	}
+	[gizmo]
+	{
+	  v diffuse_color = 0,0,0.9;
+	}
+	[placement]
+	{
+	  p position = 0.95108,0.5,2.7966,0x1c2fafce;
+	}
+}
 [t:trigger_generic,n:0x0160121e]
 {
 	[common]
@@ -1538,137 +1670,5 @@
 	{
 	  q orientation = 0,-0.707107,0,0.707107;
 	  p position = 1.93529,-2.67029e-005,0.58429,0xe3a35f4c;
-	}
-}
-[t:trigger_generic,n:0x01600d7b]
-{
-	[common]
-	{
-		dev_instance_text = "check quest filter";
-		[instance_triggers]
-		{
-			[*]
-			{
-				action* = send_world_message("we_req_activate",0x01600B30,0f,"default","every",0);
-			  b can_self_destruct = true;
-				condition* = receive_world_message("we_req_activate",0,"on_every_message");
-			  f delay = 0.000000;
-			  b flip_flop = false;
-			  b multi_player = true;
-			  b no_trig_bits = false;
-				occupants_group = ;
-			  f reset_duration = 0.000000;
-			  b single_player = true;
-			  b single_shot = true;
-			  b start_active = true;
-			}
-		}
-	}
-	[gizmo]
-	{
-	  v diffuse_color = 0,0,0.9;
-	}
-	[placement]
-	{
-	  p position = 0.963741,0.499999,4.68569,0x1c2fafce;
-	}
-}
-[t:trigger_generic,n:0x01600d7c]
-{
-	[common]
-	{
-		dev_instance_text = "check bool filter";
-		[instance_triggers]
-		{
-			[*]
-			{
-				action* = send_world_message("we_req_activate",0x01600B30,0f,"default","every",0);
-			  b can_self_destruct = true;
-				condition* = receive_world_message("we_req_activate",0,"on_first_message");
-			  f delay = 0.000000;
-			  b flip_flop = false;
-			  b multi_player = true;
-			  b no_trig_bits = false;
-				occupants_group = ;
-			  f reset_duration = 0.000000;
-			  b single_player = true;
-			  b single_shot = true;
-			  b start_active = true;
-			}
-		}
-	}
-	[gizmo]
-	{
-	  v diffuse_color = 0,0.25,0;
-	}
-	[placement]
-	{
-	  p position = 0.95636,0.5,3.81679,0x1c2fafce;
-	}
-}
-[t:trigger_generic,n:0x01600d7e]
-{
-	[common]
-	{
-		dev_instance_text = "check bool filter";
-		[instance_triggers]
-		{
-			[*]
-			{
-				action* = send_world_message("we_req_activate",0x0160099E,0f,"default","every",0);
-			  b can_self_destruct = true;
-				condition* = receive_world_message("we_req_activate",0,"on_first_message");
-			  f delay = 0.000000;
-			  b flip_flop = false;
-			  b multi_player = true;
-			  b no_trig_bits = false;
-				occupants_group = ;
-			  f reset_duration = 0.000000;
-			  b single_player = true;
-			  b single_shot = true;
-			  b start_active = true;
-			}
-		}
-	}
-	[gizmo]
-	{
-	  v diffuse_color = 0,0.25,0;
-	}
-	[placement]
-	{
-	  p position = 0.947861,0.5,2.01555,0x1c2fafce;
-	}
-}
-[t:trigger_generic,n:0x01600d7f]
-{
-	[common]
-	{
-		dev_instance_text = "check quest filter";
-		[instance_triggers]
-		{
-			[*]
-			{
-				action* = send_world_message("we_req_activate",0x0160099E,0f,"default","every",0);
-			  b can_self_destruct = true;
-				condition* = receive_world_message("we_req_activate",0,"on_first_message");
-			  f delay = 0.000000;
-			  b flip_flop = false;
-			  b multi_player = true;
-			  b no_trig_bits = false;
-				occupants_group = ;
-			  f reset_duration = 0.000000;
-			  b single_player = true;
-			  b single_shot = true;
-			  b start_active = true;
-			}
-		}
-	}
-	[gizmo]
-	{
-	  v diffuse_color = 0,0,0.9;
-	}
-	[placement]
-	{
-	  p position = 0.95108,0.5,2.7966,0x1c2fafce;
 	}
 }

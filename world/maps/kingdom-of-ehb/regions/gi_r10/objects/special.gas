@@ -22,6 +22,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -59,6 +60,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -89,6 +91,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -140,6 +143,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -171,6 +175,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -210,6 +215,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -248,6 +254,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -300,6 +307,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -329,6 +337,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -362,6 +371,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -398,6 +408,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -437,6 +448,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -466,6 +478,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -503,6 +516,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -530,6 +544,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -560,6 +575,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -576,6 +592,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -603,6 +620,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -633,6 +651,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -649,6 +668,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -685,6 +705,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -725,6 +746,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -764,6 +786,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -800,6 +823,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -830,6 +854,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -841,6 +866,13 @@
 	[placement]
 	{
 	  p position = 0.262594,0,-0.805782,0x0886b3a3;
+	}
+}
+[t:use_point,n:0x06c0035e]
+{
+	[placement]
+	{
+	  p position = 1.83588,2,0.117298,0xd4390b1d;
 	}
 }
 [t:trigger_generic,n:0x06c00002]
@@ -858,6 +890,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -894,6 +927,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -906,6 +940,13 @@
 	{
 	  q orientation = 0,-0.707107,0,0.707107;
 	  p position = -1.90008,5.72205e-006,-3.59132,0x9952098a;
+	}
+}
+[t:use_point,n:0x06c0032d]
+{
+	[placement]
+	{
+	  p position = -0.453907,2.38419e-006,0.807554,0xda8973e8;
 	}
 }
 [t:trigger_generic,n:0x06c001a7]
@@ -930,6 +971,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -960,6 +1002,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -995,6 +1038,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -1082,6 +1126,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -1094,6 +1139,13 @@
 	{
 	  q orientation = 0,0.707107,0,0.707107;
 	  p position = 2.61573,0,3.76272,0x621eba20;
+	}
+}
+[t:use_point,n:0x06c00331]
+{
+	[placement]
+	{
+	  p position = -0.818739,0.4,0.88533,0x8ecebbcc;
 	}
 }
 [t:trigger_generic,n:0x06c00344]
@@ -1111,6 +1163,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -1140,6 +1193,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -1169,6 +1223,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -1183,6 +1238,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -1235,6 +1291,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -1270,6 +1327,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -1282,6 +1340,13 @@
 	{
 	  q orientation = 0,1,0,0;
 	  p position = -3.59318,-2,2.40372,0x85044aed;
+	}
+}
+[t:use_point,n:0x06c0032e]
+{
+	[placement]
+	{
+	  p position = -1.65904,1.43051e-006,1.9512,0xe58c726d;
 	}
 }
 [t:trigger_generic,n:0x06c00264]
@@ -1300,6 +1365,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -1328,6 +1394,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -1357,6 +1424,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -1386,6 +1454,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -1424,6 +1493,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -1435,6 +1505,20 @@
 	[placement]
 	{
 	  p position = 0.349136,2,0.110207,0x0930537f;
+	}
+}
+[t:use_point,n:0x06c00330]
+{
+	[placement]
+	{
+	  p position = -1.88319,2,0.226936,0x0930537f;
+	}
+}
+[t:use_point,n:0x06c0032f]
+{
+	[placement]
+	{
+	  p position = -1.0367,0.4,0.748398,0xc9092155;
 	}
 }
 [t:trigger_generic,n:0x06c00279]
@@ -1458,6 +1542,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -1487,6 +1572,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -1518,6 +1604,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -1557,6 +1644,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -1605,47 +1693,5 @@
 	[placement]
 	{
 	  p position = 0.600601,4,-0.0751114,0x8ded5285;
-	}
-}
-[t:use_point,n:0x06c0032d]
-{
-	[placement]
-	{
-	  p position = -0.453907,2.38419e-006,0.807554,0xda8973e8;
-	}
-}
-[t:use_point,n:0x06c0032e]
-{
-	[placement]
-	{
-	  p position = -1.65904,1.43051e-006,1.9512,0xe58c726d;
-	}
-}
-[t:use_point,n:0x06c0032f]
-{
-	[placement]
-	{
-	  p position = -1.0367,0.4,0.748398,0xc9092155;
-	}
-}
-[t:use_point,n:0x06c00330]
-{
-	[placement]
-	{
-	  p position = -1.88319,2,0.226936,0x0930537f;
-	}
-}
-[t:use_point,n:0x06c00331]
-{
-	[placement]
-	{
-	  p position = -0.818739,0.4,0.88533,0x8ecebbcc;
-	}
-}
-[t:use_point,n:0x06c0035e]
-{
-	[placement]
-	{
-	  p position = 1.83588,2,0.117298,0xd4390b1d;
 	}
 }

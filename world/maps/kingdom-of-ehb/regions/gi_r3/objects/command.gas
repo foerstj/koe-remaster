@@ -97,6 +97,14 @@
 	  p position = -1.40826,-4,-21.5673,0x364c230f;
 	}
 }
+[t:cmd_auto_save,n:0x0510027e]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.707107,0,0.707107;
+	  p position = -5.10861,-4,-21.7966,0x364c230f;
+	}
+}
 [t:camera_quake,n:0x051001cd]
 {
 	[camera_quake]
@@ -1652,13 +1660,5 @@
 	{
 	  q orientation = 0.00393069,0.977321,-0.21151,0.00962631;
 	  p position = -0.139303,0.709123,1.74043,0xd9aa76dc;
-	}
-}
-[t:cmd_auto_save,n:0x0510027e]
-{
-	[placement]
-	{
-	  q orientation = 0,-0.707107,0,0.707107;
-	  p position = -5.10861,-4,-21.7966,0x364c230f;
 	}
 }

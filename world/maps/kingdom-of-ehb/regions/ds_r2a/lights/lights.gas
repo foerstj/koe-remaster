@@ -142,7 +142,7 @@
 		[position]
 		{
 		  x node = 0x646B85E2;
-		  f x = 1.175727;
+		  f x = 1.175728;
 		  f y = -2.207600;
 		  f z = 2.803749;
 		}
@@ -205,9 +205,9 @@
 		[position]
 		{
 		  x node = 0xCC2CDEC4;
-		  f x = 4.168256;
+		  f x = 4.168255;
 		  f y = 5.394866;
-		  f z = 5.764143;
+		  f z = 5.764145;
 		}
 	}
 	[t:point,n:light_0x3137b2a5]
@@ -289,7 +289,7 @@
 		[position]
 		{
 		  x node = 0x1469BC61;
-		  f x = 1.887818;
+		  f x = 1.887817;
 		  f y = 0.473985;
 		  f z = 0.926879;
 		}
@@ -310,9 +310,9 @@
 		[position]
 		{
 		  x node = 0xCC2CDEC4;
-		  f x = 2.619116;
+		  f x = 2.619118;
 		  f y = 2.849137;
-		  f z = 5.346288;
+		  f z = 5.346287;
 		}
 	}
 	[t:point,n:light_0x58a929ab]
@@ -564,7 +564,7 @@
 		  x node = 0x8206CC3C;
 		  f x = 0.363912;
 		  f y = -2.217918;
-		  f z = -0.685663;
+		  f z = -0.685661;
 		}
 	}
 	[t:point,n:light_0x9d58cbe3]
@@ -583,9 +583,9 @@
 		[position]
 		{
 		  x node = 0xCC2CDEC4;
-		  f x = -2.703539;
+		  f x = -2.703537;
 		  f y = 0.177225;
-		  f z = 5.875171;
+		  f z = 5.875172;
 		}
 	}
 	[t:point,n:light_0x9f07cec8]
@@ -625,9 +625,9 @@
 		[position]
 		{
 		  x node = 0xCC2CDEC4;
-		  f x = -2.420477;
+		  f x = -2.420479;
 		  f y = 2.849137;
-		  f z = 5.355624;
+		  f z = 5.355625;
 		}
 	}
 	[t:point,n:light_0xaab51409]
@@ -646,7 +646,7 @@
 		[position]
 		{
 		  x node = 0xBBF9087C;
-		  f x = -1.670365;
+		  f x = -1.670364;
 		  f y = 0.570341;
 		  f z = -1.271178;
 		}
@@ -709,9 +709,9 @@
 		[position]
 		{
 		  x node = 0xCC2CDEC4;
-		  f x = -3.686720;
+		  f x = -3.686722;
 		  f y = 5.403282;
-		  f z = 5.226294;
+		  f z = 5.226295;
 		}
 	}
 	[t:point,n:light_0xc2f0bc63]
@@ -793,7 +793,7 @@
 		[position]
 		{
 		  x node = 0xCC2CDEC4;
-		  f x = -0.479724;
+		  f x = -0.479725;
 		  f y = 5.045456;
 		  f z = 7.328411;
 		}
@@ -816,7 +816,7 @@
 		  x node = 0x59906F62;
 		  f x = 0.474772;
 		  f y = 0.570337;
-		  f z = 0.927980;
+		  f z = 0.927979;
 		}
 	}
 	[t:point,n:light_0xd94c68d6]
@@ -835,7 +835,7 @@
 		[position]
 		{
 		  x node = 0x39BDF5C3;
-		  f x = 1.116441;
+		  f x = 1.116440;
 		  f y = -2.929652;
 		  f z = -3.513062;
 		}
@@ -877,9 +877,9 @@
 		[position]
 		{
 		  x node = 0xCC2CDEC4;
-		  f x = 2.437875;
+		  f x = 2.437874;
 		  f y = 0.177224;
-		  f z = 5.762898;
+		  f z = 5.762897;
 		}
 	}
 	[t:point,n:light_0xe0c03e79]

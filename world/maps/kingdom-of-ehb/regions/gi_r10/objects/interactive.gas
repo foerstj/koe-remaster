@@ -161,7 +161,7 @@
 	[placement]
 	{
 	  p position = 1.97186,1.99999,-1.26177,0xd4390b1d;
-		use_point_scids = 0x06C00331,0x06C0035E;
+		use_point_scids = 0x06c00331,0x06c0035e;
 	}
 }
 [t:lever_glb_06,n:0x06c00069]
@@ -194,7 +194,7 @@
 	{
 	  q orientation = 0,-0.707107,0,0.707107;
 	  p position = -1.91346,0,1.57772,0xda8973e8;
-		use_point_scids = 0x06C0032D,0x06C00331;
+		use_point_scids = 0x06c0032d,0x06c00331;
 	}
 }
 [t:lever_glb_05,n:0x06c00267]
@@ -216,7 +216,7 @@
 	{
 	  q orientation = 0,-0.707107,0,0.707107;
 	  p position = -1.87471,0,3.42002,0xe58c726d;
-		use_point_scids = 0x06C0032E,0x06C0032F;
+		use_point_scids = 0x06c0032e,0x06c0032f;
 	}
 }
 [t:lever_glb_05,n:0x06c00265]
@@ -235,7 +235,7 @@
 	[placement]
 	{
 	  p position = -1.96064,2,-1.00931,0x0930537f;
-		use_point_scids = 0x06C00330,0x06C0032F;
+		use_point_scids = 0x06c00330,0x06c0032f;
 	}
 }
 [t:door_gob_metal_02,n:0x06c000a8]

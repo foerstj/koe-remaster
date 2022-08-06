@@ -11,10 +11,11 @@
 				action* = fade_nodes_global(0x54919A49,1,5,-1,"out:black");
 				action* = send_world_message("we_req_activate",0x0840014E,0f,"default","every",0);
 			  b can_self_destruct = true;
-				condition* = receive_world_message("we_req_activate",0,"on_every_message");
+				condition* = receive_world_message("we_req_activate",0,"on_first_message");
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -70,6 +71,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -103,6 +105,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -130,6 +133,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -171,6 +175,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -209,6 +214,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -255,6 +261,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -294,6 +301,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -332,6 +340,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -376,6 +385,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -429,6 +439,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -457,6 +468,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -492,6 +504,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;

@@ -14,6 +14,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -41,6 +42,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -68,6 +70,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -97,6 +100,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -109,18 +113,6 @@
 	{
 	  q orientation = 0,1,0,0;
 	  p position = -0.0158772,0.0500009,1.8326,0x75ba548a;
-	}
-}
-[t:emitter_glb_fire_01,n:0x08c000db]
-{
-	[light_flicker_lightweight]
-	{
-	  x siege_light = 0x6D1B6FA4;
-	}
-	[placement]
-	{
-	  q orientation = 0,1,0,-6.55651e-007;
-	  p position = -0.0229005,0.29006,-0.19367,0xf6ad20db;
 	}
 }
 [t:trigger_generic,n:0x08c000fb]
@@ -139,6 +131,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -150,30 +143,6 @@
 	[placement]
 	{
 	  p position = 0.128494,0.0500019,-1.54137,0x10292d24;
-	}
-}
-[t:emitter_glb_fire_01,n:0x08c000dd]
-{
-	[light_flicker_lightweight]
-	{
-	  x siege_light = 0xC628F1F5;
-	}
-	[placement]
-	{
-	  q orientation = 0,1,0,-6.10948e-007;
-	  p position = -0.00704289,0.290058,-0.243774,0x1d3d6716;
-	}
-}
-[t:emitter_glb_fire_01,n:0x08c000f1]
-{
-	[light_flicker_lightweight]
-	{
-	  x siege_light = 0xAC3D4A09;
-	}
-	[placement]
-	{
-	  q orientation = 0,1,0,-2.23517e-007;
-	  p position = 0.0362549,0.290047,-0.180927,0x2f9b2b62;
 	}
 }
 [t:use_point,n:0x08c0011a]
@@ -189,17 +158,5 @@
 	[placement]
 	{
 	  p position = 2.84886,-1.75,-3.16452,0x10aa9797;
-	}
-}
-[t:emitter_glb_fire_01,n:0x08c000f3]
-{
-	[light_flicker_lightweight]
-	{
-	  x siege_light = 0x682BE8A8;
-	}
-	[placement]
-	{
-	  q orientation = 0,1,0,5.81145e-007;
-	  p position = 0.0413534,0.290057,-0.127655,0x34dda41c;
 	}
 }
