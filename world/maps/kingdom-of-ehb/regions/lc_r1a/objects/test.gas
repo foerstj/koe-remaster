@@ -338,19 +338,6 @@
 	  p position = 3.61589,-3.8147e-006,2.6358,0xde359c0b;
 	}
 }
-[t:dev_path_point,n:0x06b0001d]
-{
-	[dev_path_point]
-	{
-	  x next_scid = 0x06B0001E;
-		path_name = "lc_r1a_main_path";
-	  f radius = 15;
-	}
-	[placement]
-	{
-	  p position = 1.77028,2.00004,1.95728,0xb808c151;
-	}
-}
 [t:dev_path_point,n:0x06b00021]
 {
 	[dev_path_point]
@@ -363,6 +350,19 @@
 	{
 	  q orientation = 0,-0.707107,0,0.707107;
 	  p position = -3.86943,2,-3.69665,0xfbfbc9f5;
+	}
+}
+[t:dev_path_point,n:0x06b0001d]
+{
+	[dev_path_point]
+	{
+	  x next_scid = 0x06B0001E;
+		path_name = "lc_r1a_main_path";
+	  f radius = 15;
+	}
+	[placement]
+	{
+	  p position = 1.77028,2.00004,1.95728,0xb808c151;
 	}
 }
 [t:dev_path_point,n:0x06b00020]

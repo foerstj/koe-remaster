@@ -4,7 +4,7 @@
 	{
 	  q orientation = 0,0.824126,0,0.566406;
 	  p position = 1.37506,-0.25,-1.48396,0x38ab0f5f;
-		use_point_scids = 0x00B00291;
+		use_point_scids = 0x00b00291;
 	}
 }
 [t:sign_glb_01,n:0x00b00297]

@@ -1380,7 +1380,7 @@
 	  f outer_radius = 15.000000;
 		[position]
 		{
-		  x node = 0x4157AE4A;
+		  x node = 0x4E19BA09;
 		  f x = 0.367405;
 		  f y = 2.220688;
 		  f z = -4.855225;

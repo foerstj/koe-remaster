@@ -183,7 +183,7 @@
 	  f outer_radius = 0.785398;
 		[direction]
 		{
-		  x node = 0x57BA1B89;
+		  x node = 0x1A5B8D87;
 		  f x = 0.000000;
 		  f y = -1.000000;
 		  f z = 0.000000;
@@ -1163,7 +1163,7 @@
 	  f outer_radius = 8.000000;
 		[position]
 		{
-		  x node = 0x702D7B73;
+		  x node = 0xBF627F53;
 		  f x = 0.294590;
 		  f y = -8.551432;
 		  f z = -3.715958;
@@ -1688,7 +1688,7 @@
 	  f outer_radius = 18.000000;
 		[position]
 		{
-		  x node = 0x702D7B73;
+		  x node = 0xBF627F53;
 		  f x = -0.429348;
 		  f y = -5.511983;
 		  f z = -0.622017;

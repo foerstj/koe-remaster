@@ -1536,10 +1536,6 @@
 }
 [t:torch_glb_hands,n:0x01f00317]
 {
-	[effect_manager_server]
-	{
-		start_msg = we_entered_world;
-	}
 	[placement]
 	{
 	  q orientation = 0,0.909961,0,0.414693;
@@ -1548,10 +1544,6 @@
 }
 [t:torch_glb_hands,n:0x01f00319]
 {
-	[effect_manager_server]
-	{
-		start_msg = we_entered_world;
-	}
 	[placement]
 	{
 	  q orientation = 0,0.909961,0,0.414693;

@@ -6487,6 +6487,22 @@
 	  p position = 0.673153,0,-0.253708,0x40e0aed6;
 	}
 }
+[t:rock_grs_03,n:0x08900263]
+{
+	[placement]
+	{
+	  q orientation = 0,0.92388,0,0.382683;
+	  p position = -0.904049,0,-1.11817,0x40e0aed6;
+	}
+}
+[t:rock_grs_02,n:0x08900265]
+{
+	[placement]
+	{
+	  q orientation = 0,-1.2207e-007,0,1;
+	  p position = 0.518211,0,0.486546,0x40e0aed6;
+	}
+}
 [t:cart_glb,n:0x08900347]
 {
 	[placement]
@@ -6596,6 +6612,40 @@
 	  p position = 7.57082,0,-1.63186,0xea4df901;
 	}
 }
+[t:bench_csl_02,n:0x08900261]
+{
+	[aspect]
+	{
+	  b does_block_path = true;
+	  f lodfi_lower = 0;
+	  f lodfi_upper = 0;
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.707107,0,0.707107;
+	  p position = 3.8658,0,1.48011,0xea4df901;
+	}
+}
+[t:rock_grs_03,n:0x08900262]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.8;
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.382683,0,0.92388;
+	  p position = 5.35379,0,-0.314302,0xea4df901;
+	}
+}
+[t:rock_grs_02,n:0x08900264]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.382683,0,0.92388;
+	  p position = 6.41843,0,-1.83795,0xea4df901;
+	}
+}
 [t:dirt_csl_02,n:0x0890034a]
 {
 	[aspect]
@@ -6675,6 +6725,13 @@
 	{
 	  q orientation = 0,0.92388,0,-0.382683;
 	  p position = 7.26953,7.15256e-006,0.65616,0x8eed8ade;
+	}
+}
+[t:rock_grs_02,n:0x0890028b]
+{
+	[placement]
+	{
+	  p position = -3.24509,-1.5,1.38909,0x6b1f533f;
 	}
 }
 [t:planter_glb_01,n:0x08900351]
@@ -9928,62 +9985,5 @@
 	{
 	  q orientation = 0,-0.0523359,0,0.99863;
 	  p position = 1.44301,-4,-0.522576,0xa634c93a;
-	}
-}
-[t:bench_csl_02,n:0x08900261]
-{
-	[aspect]
-	{
-	  b does_block_path = true;
-	  f lodfi_lower = 0;
-	  f lodfi_upper = 0;
-	}
-	[placement]
-	{
-	  q orientation = 0,-0.707107,0,0.707107;
-	  p position = 3.8658,0,1.48011,0xea4df901;
-	}
-}
-[t:rock_grs_03,n:0x08900262]
-{
-	[aspect]
-	{
-	  f scale_multiplier = 0.8;
-	}
-	[placement]
-	{
-	  q orientation = 0,-0.382683,0,0.92388;
-	  p position = 5.35379,0,-0.314302,0xea4df901;
-	}
-}
-[t:rock_grs_03,n:0x08900263]
-{
-	[placement]
-	{
-	  q orientation = 0,0.92388,0,0.382683;
-	  p position = -0.904049,0,-1.11817,0x40e0aed6;
-	}
-}
-[t:rock_grs_02,n:0x08900264]
-{
-	[placement]
-	{
-	  q orientation = 0,-0.382683,0,0.92388;
-	  p position = 6.41843,0,-1.83795,0xea4df901;
-	}
-}
-[t:rock_grs_02,n:0x08900265]
-{
-	[placement]
-	{
-	  q orientation = 0,-1.2207e-007,0,1;
-	  p position = 0.518211,0,0.486546,0x40e0aed6;
-	}
-}
-[t:rock_grs_02,n:0x0890028b]
-{
-	[placement]
-	{
-	  p position = -3.24509,-1.5,1.38909,0x6b1f533f;
 	}
 }

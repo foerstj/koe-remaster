@@ -13,6 +13,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -40,6 +41,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -67,6 +69,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.100000;
 			  b single_player = true;
@@ -83,6 +86,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = true;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -137,6 +141,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -165,6 +170,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -198,6 +204,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -225,6 +232,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = lc_r1a_fade_01;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -236,6 +244,14 @@
 	[placement]
 	{
 	  p position = 0.0383148,-11.9999,-1.87178,0xd7730559;
+	}
+}
+[t:use_point,n:0x06b0019c]
+{
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = 1.47336,0,1.07452,0xb1d7f900;
 	}
 }
 [t:trigger_change_mood_box,n:0x06b00074]
@@ -252,6 +268,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -279,6 +296,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -306,6 +324,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -334,6 +353,7 @@
 			  f delay = 0.000000;
 			  b flip_flop = false;
 			  b multi_player = true;
+			  b no_trig_bits = false;
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
@@ -346,13 +366,5 @@
 	{
 	  q orientation = 0,0.707107,0,0.707106;
 	  p position = 0.00617218,-3.99301,-5.37192,0x543d366b;
-	}
-}
-[t:use_point,n:0x06b0019c]
-{
-	[placement]
-	{
-	  q orientation = 0,0.707107,0,0.707107;
-	  p position = 1.47336,0,1.07452,0xb1d7f900;
 	}
 }

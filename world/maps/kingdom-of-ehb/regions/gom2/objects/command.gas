@@ -9,6 +9,13 @@
 	  p position = -0.320004,0.25,0.843926,0xb25b96c6;
 	}
 }
+[t:cmd_auto_save,n:0x00200253]
+{
+	[placement]
+	{
+	  p position = -1.35803,1.85,4.31285,0xb25b96c6;
+	}
+}
 [t:cmd_auto_save,n:0x00200101]
 {
 	[common]
@@ -909,12 +916,5 @@
 	[placement]
 	{
 	  p position = -0.175156,0.388376,7.07542,0x8daa367a;
-	}
-}
-[t:cmd_auto_save,n:0x00200253]
-{
-	[placement]
-	{
-	  p position = -1.35803,1.85,4.31285,0xb25b96c6;
 	}
 }

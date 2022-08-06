@@ -516,6 +516,13 @@
 	  p position = 4.37226,9.91944,2.28625,0x859902da;
 	}
 }
+[t:cmd_auto_save,n:0x01f003b5]
+{
+	[placement]
+	{
+	  p position = -0.0465722,-1.95,1.35902,0x9807407a;
+	}
+}
 [t:rock_beast_stomp,n:0x01f00307]
 {
 	[camera_stomp]
@@ -1386,12 +1393,5 @@
 	[placement]
 	{
 	  p position = 3.85746,-2,-1.53302,0x7e9b35c7;
-	}
-}
-[t:cmd_auto_save,n:0x01f003b5]
-{
-	[placement]
-	{
-	  p position = -0.0465722,-1.95,1.35902,0x9807407a;
 	}
 }

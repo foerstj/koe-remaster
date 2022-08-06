@@ -52,6 +52,13 @@
 	  p position = 13.6557,20.9028,-30.7728,0x4a217ab7;
 	}
 }
+[t:cmd_auto_save,n:0x00d001a2]
+{
+	[placement]
+	{
+	  p position = 30.1373,20.2454,-27.3823,0x4a217ab7;
+	}
+}
 [t:cmd_ai_c_send_message,n:0x00d001a0]
 {
 	[cmd_send_world_message]
@@ -79,12 +86,5 @@
 	[placement]
 	{
 	  p position = -0.680626,-11.925,11.4453,0x1c142654;
-	}
-}
-[t:cmd_auto_save,n:0x00d001a2]
-{
-	[placement]
-	{
-	  p position = 30.1373,20.2454,-27.3823,0x4a217ab7;
 	}
 }
