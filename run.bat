@@ -2,7 +2,7 @@
 :: TankCreator is expected to be in a sibling dir.
 
 :: name of map
-set map=map_world
+set map=kingdom-of-ehb
 :: path of DSLOA documents dir (where Bits are)
 set doc_dsloa=%USERPROFILE%\Documents\Dungeon Siege LoA
 :: path of DS installation
