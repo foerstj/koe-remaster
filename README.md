@@ -14,7 +14,14 @@ This map is re-buildable and editable. I opened & saved every region in Siege Ed
   The generated file name is *Dungeon Siege/Maps/Kingdom of Ehb.dsmap*.\
   The ingame name is *Kingdom of Ehb (remastered)*.
 
+## How to build
+
 GasPy repo: https://github.com/foerstj/gaspy
+
+- Put TankCreator and gaspy on the same folder level as your Dungeon Siege installation. Basically in the upper folder, you should have a "Dungeon Siege" folder, a "TankCreator" folder, and a "gaspy" folder.
+- Put this repo as "Bits" into your personal Dungeon Siege LoA folder (where the savegames & screenshots are).
+- Go into your Dungeon Siege installation folder and open CMD there.
+- %USERPROFILE%\Documents\Dungeon Siege LoA\Bits\build.bat
 
 ## Attribution
 
