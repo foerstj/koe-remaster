@@ -105,9 +105,17 @@
 		}
 		[world_levels]
 		{
-			[normal]
+			[elite]
+			{
+			  i required_level = 105;
+			}
+			[regular]
 			{
 			  i required_level = 46;
+			}
+			[veteran]
+			{
+			  i required_level = 79;
 			}
 		}
 	}
@@ -2142,9 +2150,17 @@
 		}
 		[world_levels]
 		{
-			[normal]
+			[elite]
+			{
+			  i required_level = 103;
+			}
+			[regular]
 			{
 			  i required_level = 42;
+			}
+			[veteran]
+			{
+			  i required_level = 77;
 			}
 		}
 	}
@@ -2253,9 +2269,17 @@
 		}
 		[world_levels]
 		{
-			[normal]
+			[elite]
+			{
+			  i required_level = 98;
+			}
+			[regular]
 			{
 			  i required_level = 22;
+			}
+			[veteran]
+			{
+			  i required_level = 67;
 			}
 		}
 	}
@@ -2364,6 +2388,18 @@
 		}
 		[world_levels]
 		{
+			[elite]
+			{
+			  i required_level = 83;
+			}
+			[regular]
+			{
+			  i required_level = 0;
+			}
+			[veteran]
+			{
+			  i required_level = 54;
+			}
 		}
 	}
 	[t:start_group,n:fortress_kroth]
@@ -2471,9 +2507,17 @@
 		}
 		[world_levels]
 		{
-			[normal]
+			[elite]
+			{
+			  i required_level = 102;
+			}
+			[regular]
 			{
 			  i required_level = 38;
+			}
+			[veteran]
+			{
+			  i required_level = 75;
 			}
 		}
 	}
@@ -2582,9 +2626,17 @@
 		}
 		[world_levels]
 		{
-			[normal]
+			[elite]
+			{
+			  i required_level = 89;
+			}
+			[regular]
 			{
 			  i required_level = 7;
+			}
+			[veteran]
+			{
+			  i required_level = 58;
 			}
 		}
 	}
@@ -2693,9 +2745,17 @@
 		}
 		[world_levels]
 		{
-			[normal]
+			[elite]
+			{
+			  i required_level = 95;
+			}
+			[regular]
 			{
 			  i required_level = 17;
+			}
+			[veteran]
+			{
+			  i required_level = 64;
 			}
 		}
 	}
@@ -2804,9 +2864,17 @@
 		}
 		[world_levels]
 		{
-			[normal]
+			[elite]
+			{
+			  i required_level = 100;
+			}
+			[regular]
 			{
 			  i required_level = 32;
+			}
+			[veteran]
+			{
+			  i required_level = 72;
 			}
 		}
 	}
@@ -2915,9 +2983,17 @@
 		}
 		[world_levels]
 		{
-			[normal]
+			[elite]
+			{
+			  i required_level = 86;
+			}
+			[regular]
 			{
 			  i required_level = 3;
+			}
+			[veteran]
+			{
+			  i required_level = 56;
 			}
 		}
 	}
@@ -3026,9 +3102,17 @@
 		}
 		[world_levels]
 		{
-			[normal]
+			[elite]
+			{
+			  i required_level = 91;
+			}
+			[regular]
 			{
 			  i required_level = 11;
+			}
+			[veteran]
+			{
+			  i required_level = 61;
 			}
 		}
 	}
