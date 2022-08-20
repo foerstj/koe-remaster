@@ -11,7 +11,7 @@ set ds=.
 set tc=..\TankCreator
 
 :: Compile dsmap file
-call "%doc_dsloa%\Bits\build.bat"
+call "%doc_dsloa%\Bits\build.bat" %*
 
 ::pause
 
