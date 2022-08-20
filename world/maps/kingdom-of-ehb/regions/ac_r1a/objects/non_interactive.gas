@@ -1652,8 +1652,13 @@
 }
 [t:bush_ice_rhod_01,n:0x079000dc]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 1.13536;
+	}
 	[placement]
 	{
+	  q orientation = 0,0.896398,0,-0.44325;
 	  p position = 3.44434,9.53674e-007,0.540259,0x07707317;
 	}
 }
@@ -1665,48 +1670,79 @@
 	}
 	[placement]
 	{
+	  q orientation = 0,0.499456,0,0.866339;
 	  p position = 3.07534,0,-0.871974,0x03d8607d;
 	}
 }
 [t:tree_ice_pine_04,n:0x079000e1]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 1.19331;
+	}
 	[placement]
 	{
+	  q orientation = 0,0.975178,0,-0.221422;
 	  p position = 1.95204,0,1.07328,0x03d8607d;
 	}
 }
 [t:bush_ice_rhod_01,n:0x079000e7]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 1.0472;
+	}
 	[placement]
 	{
+	  q orientation = 0,0.937749,0,0.347313;
 	  p position = 3.01235,4.76837e-007,1.50726,0x03d8607d;
 	}
 }
 [t:bush_ice_rhod_01,n:0x079000e8]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 1.17853;
+	}
 	[placement]
 	{
+	  q orientation = 0,0.899042,0,-0.437862;
 	  p position = 2.96236,0,-1.8104,0x03d8607d;
 	}
 }
 [t:bush_ice_rhod_01,n:0x079000dd]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 1.06413;
+	}
 	[placement]
 	{
+	  q orientation = 0,0.591831,0,0.806062;
 	  p position = -2.74699,9.53674e-007,-0.178898,0x967ce3bb;
 	}
 }
 [t:bush_ice_rhod_01,n:0x079000de]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 1.11325;
+	}
 	[placement]
 	{
+	  q orientation = 0,0.417893,0,0.908496;
 	  p position = -0.0913572,0,-0.902837,0x967ce3bb;
 	}
 }
 [t:tree_ice_pine_04,n:0x079000df]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 0.90525;
+	}
 	[placement]
 	{
+	  q orientation = 0,0.775354,0,-0.631527;
 	  p position = -0.974503,9.53674e-007,0.189815,0x967ce3bb;
 	}
 }
@@ -1718,27 +1754,43 @@
 	}
 	[placement]
 	{
+	  q orientation = 0,0.916287,0,-0.400523;
 	  p position = 3.60472,-4.76837e-007,0.929008,0x967ce3bb;
 	}
 }
 [t:tree_ice_pine_04,n:0x079000e3]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 1.06681;
+	}
 	[placement]
 	{
+	  q orientation = 0,0.150115,0,0.988669;
 	  p position = -0.730633,0,0.327968,0x378dc8c1;
 	}
 }
 [t:bush_ice_rhod_01,n:0x079000e4]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 0.951;
+	}
 	[placement]
 	{
+	  q orientation = 0,0.326008,0,-0.945367;
 	  p position = -1.7199,0,-1.64538,0x378dc8c1;
 	}
 }
 [t:bush_ice_rhod_01,n:0x079000e6]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 0.98507;
+	}
 	[placement]
 	{
+	  q orientation = 0,0.843946,0,0.536428;
 	  p position = -0.276281,0,0.015316,0x378dc8c1;
 	}
 }

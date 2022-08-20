@@ -5428,6 +5428,7 @@
 	}
 	[placement]
 	{
+	  q orientation = 0,0.501433,0,0.865197;
 	  p position = 1.03197,1.05,0.329733,0x3901ce5d;
 	}
 }
@@ -5463,6 +5464,7 @@
 	}
 	[placement]
 	{
+	  q orientation = 0,0.195055,0,0.980792;
 	  p position = -1.36377,0.5,0.176933,0xa19da5b2;
 	}
 }

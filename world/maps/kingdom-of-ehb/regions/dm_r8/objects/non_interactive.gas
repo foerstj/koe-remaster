@@ -451,12 +451,12 @@
 				action* = send_world_message("we_req_activate",0x03500021,0f,"default","",0), delay(1.5);
 			  b can_self_destruct = true;
 				condition* = receive_world_message("we_req_use",0,"on_every_message");
-			  f delay = 0.000000;
+			  f delay = 0;
 			  b flip_flop = false;
 			  b multi_player = true;
 			  b no_trig_bits = false;
 				occupants_group = ;
-			  f reset_duration = 0.000000;
+			  f reset_duration = 0;
 			  b single_player = true;
 			  b single_shot = false;
 			  b start_active = true;
@@ -1177,23 +1177,33 @@
 }
 [t:moss_swp_03,n:0x035002de]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 0.95264;
+	}
 	[common]
 	{
 	  b is_single_player = false;
 	}
 	[placement]
 	{
+	  q orientation = 0,0.346849,0,-0.937921;
 	  p position = 1.92119,0,0.749633,0xd8628331;
 	}
 }
 [t:moss_swp_03,n:0x035002df]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 0.83205;
+	}
 	[common]
 	{
 	  b is_single_player = false;
 	}
 	[placement]
 	{
+	  q orientation = 0,0.987962,0,0.154699;
 	  p position = 2.31311,0,1.48934,0xd8628331;
 	}
 }

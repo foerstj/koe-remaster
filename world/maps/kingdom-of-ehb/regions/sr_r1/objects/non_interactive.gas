@@ -320,6 +320,10 @@
 }
 [t:mushroom_glb_08,n:0x03e0020e]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 1.11247;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.104529,0,0.994522;
@@ -1683,6 +1687,7 @@
 	}
 	[placement]
 	{
+	  q orientation = 0,0.669182,0,-0.743099;
 	  p position = 1.15936,0,0.699602,0xdf43088f;
 	}
 }
@@ -1826,6 +1831,7 @@
 	}
 	[placement]
 	{
+	  q orientation = 0,0.999814,0,-0.019291;
 	  p position = 0.929717,9.53674e-007,-0.399947,0xdf43088f;
 	}
 }
@@ -2653,6 +2659,7 @@
 	}
 	[placement]
 	{
+	  q orientation = 0,0.989729,0,0.142959;
 	  p position = 0.896179,1,2.28907,0xf11bd2b9;
 	}
 }

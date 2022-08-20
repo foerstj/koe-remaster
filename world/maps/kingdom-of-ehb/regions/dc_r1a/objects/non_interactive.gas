@@ -247,6 +247,10 @@
 }
 [t:tree_des_dead_03,n:0x0780013c]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 0.98949;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.713251,0,0.700909;
@@ -407,6 +411,10 @@
 }
 [t:tree_des_dead_03,n:0x0780013b]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 1.02488;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.656059,0,-0.75471;
@@ -607,6 +615,10 @@
 }
 [t:tree_des_dead_03,n:0x0780013d]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 0.85959;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.748956,0,0.66262;
