@@ -10,7 +10,7 @@
 	start_region_name    	= fh_r1;
 	show_intro			 	= true;
 	timeofday			 	= 22h00m;
-  b use_node_mesh_index = false;
+  b use_node_mesh_index 	= true;
 
 	[camera]
 	{

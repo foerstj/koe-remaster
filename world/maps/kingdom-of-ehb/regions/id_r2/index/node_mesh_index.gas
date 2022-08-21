@@ -1,0 +1,31 @@
+[node_mesh_index]
+{
+	0x00000001 = t_xxx_dgn_flr_08x04-a;
+	0x00000002 = t_xxx_dgn_wal_archway-b;
+	0x00000003 = t_xxx_dgn_wal_ex-thin-a;
+	0x00000004 = t_xxx_dgn_cnr_ex-ccav-c;
+	0x00000005 = t_xxx_dgn_wal_ex-thick-a;
+	0x00000006 = t_xxx_dgn_flr_mist-16x08-a;
+	0x00000007 = t_xxx_dgn_cap-04x04-a;
+	0x00000008 = t_xxx_dgn_wal_ex-diag-L;
+	0x00000009 = t_xxx_dgn_cap-02x02-a;
+	0x0000000A = t_xxx_dgn_cap-archway-b-2-a;
+	0x0000000B = t_xxx_dgn_flr_04x04-a;
+	0x0000000C = t_xxx_dgn_cap-04x04-2-a;
+	0x0000000D = t_xxx_dgn_cnr_in-ccav-a;
+	0x0000000E = t_xxx_dgn_cap-08x08-a;
+	0x0000000F = t_xxx_dgn_flr_mist-16x16-a;
+	0x00000010 = t_xxx_dgn_wal_ex-alcove-b;
+	0x00000011 = t_xxx_dgn_cnr_ex-cnvx-c;
+	0x00000012 = t_xxx_dgn_wal_ex-diag-R;
+	0x00000013 = t_xxx_dgn_cap-02x04-2-a;
+	0x00000014 = t_xxx_dgn_wal_in-thin-a;
+	0x00000015 = t_xxx_dgn_cnr_in-cnvx-a;
+	0x00000016 = t_xxx_dgn_cap-02x04-a;
+	0x00000017 = t_xxx_dgn_cap-04x04-b;
+	0x00000018 = t_xxx_dgn_stair_ex-a;
+	0x00000019 = t_xxx_dgn_cap-08x04-a;
+	0x0000001A = t_xxx_dgn_flr_mist-08x08-a;
+	0x0000001B = t_xxx_dgn_wal_in-thick-a;
+	0x0000001C = t_xxx_dgn_cap-archway-b;
+}

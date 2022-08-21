@@ -1,0 +1,15 @@
+[node_mesh_index]
+{
+	0x00000001 = t_xxx_dgn_cnr_ex-ccav-c;
+	0x00000002 = t_xxx_dgn_wal_ex-thin-a;
+	0x00000003 = t_xxx_dgn_flr_grate-04x04-a;
+	0x00000004 = t_xxx_dgn_flr_ele-big-btm-04x04-a;
+	0x00000005 = t_xxx_dgn_flr_08x04-a;
+	0x00000006 = t_xxx_dgn_wal_ex-thick-a;
+	0x00000007 = t_xxx_dgn_flr_grate-cover-a;
+	0x00000008 = t_xxx_dgn_flr_04x04-a;
+	0x00000009 = t_xxx_dgn_wal_archway-b;
+	0x0000000A = t_xxx_dgn_flr_08x08-a;
+	0x0000000B = t_xxx_dgn_flr_h2o_well-08x08-a;
+	0x0000000C = t_xxx_dgn_flr_ele-big-tube-04x04-c;
+}
