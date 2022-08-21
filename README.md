@@ -5,7 +5,7 @@ The original Kingdom of Ehb map, remastered.
 ## What I did
 
 This map is re-buildable and editable. I opened & saved every region in Siege Editor v1.7. The dsmap file can be rebuilt using the batch scripts, provided you have the folder structure of Dungeon Siege, TankCreator and gaspy.
-- The map had to explicitly not use node_mesh_index, else SE would get confused
+- Converted the map to use node mesh index
 - Some regions had hotpoints unsupported by SE. All north vectors were fixed.
 - SE saves the "required_level" attributes for multiplayer start positions with an "i" in front, which however breaks the level requirement.\
   This is fixed during build by a gaspy script.
