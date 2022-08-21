@@ -1,20 +1,20 @@
 [node_mesh_index]
 {
-	0x00000001 = t_xxx_dgn_wal_h2o_ex-pillar-a;
-	0x00000002 = t_xxx_dgn_flr_h2o_08x04-a;
-	0x00000003 = t_xxx_dgn_wal_ex-alcove-a;
-	0x00000004 = t_xxx_ruin_flr-sinkhole-spacer-a;
-	0x00000005 = t_xxx_dgn_flr_h2o_pillar-c;
-	0x00000006 = t_xxx_dgn_cnr_h2o_ex-ccav-a;
-	0x00000007 = t_xxx_dgn_cnr_h2o_ex-cnvx-a;
-	0x00000008 = t_xxx_dgn_wal_h2o_ex-alcove-a;
-	0x00000009 = t_xxx_dgn_wal_h2o_ex-alcove-b;
-	0x0000000A = t_xxx_dgn_wal_h2o_ex-thin-a;
-	0x0000000B = t_xxx_dgn_stair_h2o_ex-a;
-	0x0000000C = t_xxx_dgn_flr_h2o_stair-cnvx-a;
-	0x0000000D = t_xxx_dgn_flr_h2o_04x04-a;
-	0x0000000E = t_xxx_dgn_flr_h2o_08x08-a;
-	0x0000000F = t_xxx_ruin_flr-sinkhole-bottom-h2o-a;
-	0x00000010 = t_xxx_dgn_flr_04x04-a;
-	0x00000011 = t_xxx_dgn_stair_ex-a;
+	0x087005af = t_xxx_dgn_cnr_h2o_ex-ccav-a;
+	0x087005b3 = t_xxx_dgn_cnr_h2o_ex-cnvx-a;
+	0x087005c5 = t_xxx_dgn_flr_h2o_04x04-a;
+	0x087005c6 = t_xxx_dgn_flr_h2o_08x04-a;
+	0x087005c7 = t_xxx_dgn_flr_h2o_08x08-a;
+	0x087005db = t_xxx_dgn_flr_h2o_pillar-c;
+	0x087005e1 = t_xxx_dgn_flr_h2o_stair-cnvx-a;
+	0x087005ec = t_xxx_dgn_flr_04x04-a;
+	0x08700634 = t_xxx_dgn_stair_h2o_ex-a;
+	0x0870063c = t_xxx_dgn_stair_ex-a;
+	0x0870064c = t_xxx_dgn_wal_h2o_ex-alcove-a;
+	0x0870064d = t_xxx_dgn_wal_h2o_ex-alcove-b;
+	0x08700651 = t_xxx_dgn_wal_h2o_ex-pillar-a;
+	0x08700655 = t_xxx_dgn_wal_h2o_ex-thin-a;
+	0x0870065c = t_xxx_dgn_wal_ex-alcove-a;
+	0x08700932 = t_xxx_ruin_flr-sinkhole-bottom-h2o-a;
+	0x08700935 = t_xxx_ruin_flr-sinkhole-spacer-a;
 }

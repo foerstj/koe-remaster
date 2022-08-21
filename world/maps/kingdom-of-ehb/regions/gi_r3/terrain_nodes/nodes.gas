@@ -13,7 +13,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x00608280;
-	  x mesh_guid = 0x00000001;
+	  x mesh_guid = 0x05100bd6;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -104,7 +104,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0066D89D;
-	  x mesh_guid = 0x00000002;
+	  x mesh_guid = 0x05100337;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -123,7 +123,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x008E1B54;
-	  x mesh_guid = 0x00000003;
+	  x mesh_guid = 0x05100adc;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -160,7 +160,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x00BC4827;
-	  x mesh_guid = 0x00000004;
+	  x mesh_guid = 0x05100250;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -197,7 +197,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x00CF15AB;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -234,7 +234,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0112397B;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -271,7 +271,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x034DE53B;
-	  x mesh_guid = 0x00000007;
+	  x mesh_guid = 0x05100adb;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -308,7 +308,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0383ED7A;
-	  x mesh_guid = 0x00000003;
+	  x mesh_guid = 0x05100adc;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -345,7 +345,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x03F82553;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -394,7 +394,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x043DB0D3;
-	  x mesh_guid = 0x00000009;
+	  x mesh_guid = 0x05100ade;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -431,7 +431,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x052EE26C;
-	  x mesh_guid = 0x0000000A;
+	  x mesh_guid = 0x05100c29;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -462,7 +462,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0577E178;
-	  x mesh_guid = 0x0000000B;
+	  x mesh_guid = 0x05100b7d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -487,7 +487,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x062A70F7;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -524,7 +524,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0640BC31;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -573,7 +573,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x067992AD;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -598,7 +598,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x06DBE800;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -659,7 +659,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x06E54C5D;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -690,7 +690,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x06FA7A53;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -715,7 +715,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x07019A84;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -776,7 +776,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = true;
 	  x guid = 0x07218B58;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -795,7 +795,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x07E4B8CF;
-	  x mesh_guid = 0x0000000F;
+	  x mesh_guid = 0x05100336;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -826,7 +826,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x08FB6DE7;
-	  x mesh_guid = 0x00000010;
+	  x mesh_guid = 0x05100afd;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -887,7 +887,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x09AF6B11;
-	  x mesh_guid = 0x00000011;
+	  x mesh_guid = 0x051006ff;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -936,7 +936,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0A20B91B;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -973,7 +973,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0A241B74;
-	  x mesh_guid = 0x00000012;
+	  x mesh_guid = 0x05100ada;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1028,7 +1028,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0A31E055;
-	  x mesh_guid = 0x00000013;
+	  x mesh_guid = 0x05100b29;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1071,7 +1071,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0A5E1E62;
-	  x mesh_guid = 0x00000014;
+	  x mesh_guid = 0x05100b83;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1120,7 +1120,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0A635A9D;
-	  x mesh_guid = 0x00000009;
+	  x mesh_guid = 0x05100ade;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1157,7 +1157,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0A94656B;
-	  x mesh_guid = 0x00000015;
+	  x mesh_guid = 0x05100c2a;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1194,7 +1194,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0AA406D1;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1243,7 +1243,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0ABBADC5;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1280,7 +1280,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0B4D4C5C;
-	  x mesh_guid = 0x00000016;
+	  x mesh_guid = 0x05100c00;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1299,7 +1299,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0BD61BC6;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1324,7 +1324,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0BE51268;
-	  x mesh_guid = 0x0000000A;
+	  x mesh_guid = 0x05100c29;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1355,7 +1355,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0CE57F7F;
-	  x mesh_guid = 0x00000018;
+	  x mesh_guid = 0x05100acf;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1404,7 +1404,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0CEC2030;
-	  x mesh_guid = 0x00000019;
+	  x mesh_guid = 0x05100b5f;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0xFFFFFFFF;
@@ -1483,7 +1483,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0D579303;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1526,7 +1526,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0D6F2E1D;
-	  x mesh_guid = 0x0000001A;
+	  x mesh_guid = 0x05100c16;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1563,7 +1563,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0D85B62B;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1624,7 +1624,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0D97C381;
-	  x mesh_guid = 0x0000001C;
+	  x mesh_guid = 0x05100ad3;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1661,7 +1661,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0E722DE9;
-	  x mesh_guid = 0x0000001D;
+	  x mesh_guid = 0x05100bf6;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1692,7 +1692,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0EA9B0AC;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1741,7 +1741,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0F40BA54;
-	  x mesh_guid = 0x00000013;
+	  x mesh_guid = 0x05100b29;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1784,7 +1784,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x0FED7E8F;
-	  x mesh_guid = 0x0000001E;
+	  x mesh_guid = 0x05100bd4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1833,7 +1833,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x10F5D892;
-	  x mesh_guid = 0x0000001F;
+	  x mesh_guid = 0x051006f4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1882,7 +1882,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x11575C80;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1919,7 +1919,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x116A50D5;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1956,7 +1956,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x118354A9;
-	  x mesh_guid = 0x00000003;
+	  x mesh_guid = 0x05100adc;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -1993,7 +1993,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x123FCDE8;
-	  x mesh_guid = 0x00000020;
+	  x mesh_guid = 0x05100b13;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2030,7 +2030,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x12590EB2;
-	  x mesh_guid = 0x00000015;
+	  x mesh_guid = 0x05100c2a;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2067,7 +2067,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x12D67E02;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2128,7 +2128,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1331B511;
-	  x mesh_guid = 0x00000021;
+	  x mesh_guid = 0x05100b85;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2171,7 +2171,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1355B805;
-	  x mesh_guid = 0x00000009;
+	  x mesh_guid = 0x05100ade;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2208,7 +2208,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x135A53C9;
-	  x mesh_guid = 0x0000001F;
+	  x mesh_guid = 0x051006f4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2269,7 +2269,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x13B45944;
-	  x mesh_guid = 0x00000014;
+	  x mesh_guid = 0x05100b83;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2318,7 +2318,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x13DA9F9F;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2355,7 +2355,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1453F4C1;
-	  x mesh_guid = 0x0000001F;
+	  x mesh_guid = 0x051006f4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2404,7 +2404,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x14FDF124;
-	  x mesh_guid = 0x00000022;
+	  x mesh_guid = 0x051006f3;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2453,7 +2453,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x156E55EF;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2490,7 +2490,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = true;
 	  x guid = 0x15B291DD;
-	  x mesh_guid = 0x00000023;
+	  x mesh_guid = 0x05100b79;
 	  x nodelevel = 0x00000002;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2509,7 +2509,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1631BAB9;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2546,7 +2546,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x16915D42;
-	  x mesh_guid = 0x00000024;
+	  x mesh_guid = 0x05100be4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2595,7 +2595,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x16E825DC;
-	  x mesh_guid = 0x00000013;
+	  x mesh_guid = 0x05100b29;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2638,7 +2638,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x172C161E;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2675,7 +2675,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1756B453;
-	  x mesh_guid = 0x0000001F;
+	  x mesh_guid = 0x051006f4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2718,7 +2718,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1773E740;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2755,7 +2755,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1787A75D;
-	  x mesh_guid = 0x00000025;
+	  x mesh_guid = 0x0510068a;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2774,7 +2774,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1792C9F8;
-	  x mesh_guid = 0x00000026;
+	  x mesh_guid = 0x05100ad2;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2811,7 +2811,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1821B531;
-	  x mesh_guid = 0x00000027;
+	  x mesh_guid = 0x051000e3;
 	  x nodelevel = 0x00000006;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2842,7 +2842,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1821E59D;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2885,7 +2885,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x183DBCD3;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2910,7 +2910,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1852A0E7;
-	  x mesh_guid = 0x00000028;
+	  x mesh_guid = 0x05100c2f;
 	  x nodelevel = 0x00000003;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2929,7 +2929,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x18ACFE0C;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -2990,7 +2990,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1981D5F0;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3051,7 +3051,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x19D941F1;
-	  x mesh_guid = 0x00000029;
+	  x mesh_guid = 0x05100af0;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3088,7 +3088,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1AAA7742;
-	  x mesh_guid = 0x00000021;
+	  x mesh_guid = 0x05100b85;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3131,7 +3131,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = true;
 	  x guid = 0x1AD46EE5;
-	  x mesh_guid = 0x0000002A;
+	  x mesh_guid = 0x05100b5c;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0xFFFFFFFF;
@@ -3150,7 +3150,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1B006FBE;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3199,7 +3199,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1B5BCF55;
-	  x mesh_guid = 0x0000002B;
+	  x mesh_guid = 0x051002ef;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3248,7 +3248,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1B798354;
-	  x mesh_guid = 0x0000001D;
+	  x mesh_guid = 0x05100bf6;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3279,7 +3279,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1BB395EF;
-	  x mesh_guid = 0x0000000B;
+	  x mesh_guid = 0x05100b7d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3304,7 +3304,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1C0D1E89;
-	  x mesh_guid = 0x00000025;
+	  x mesh_guid = 0x0510068a;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3323,7 +3323,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1C4D44FD;
-	  x mesh_guid = 0x00000004;
+	  x mesh_guid = 0x05100250;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3360,7 +3360,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1CAB895F;
-	  x mesh_guid = 0x00000015;
+	  x mesh_guid = 0x05100c2a;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3397,7 +3397,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1D8341A2;
-	  x mesh_guid = 0x00000002;
+	  x mesh_guid = 0x05100337;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3416,7 +3416,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1DDDD06B;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3477,7 +3477,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1DFB964F;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3538,7 +3538,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1E69A64D;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3587,7 +3587,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1E8A42A9;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3648,7 +3648,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1EB8D84B;
-	  x mesh_guid = 0x0000000B;
+	  x mesh_guid = 0x05100b7d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3673,7 +3673,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1F0633DD;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3710,7 +3710,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1F43998C;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3747,7 +3747,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1F65775C;
-	  x mesh_guid = 0x00000011;
+	  x mesh_guid = 0x051006ff;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3796,7 +3796,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1F9D7EA2;
-	  x mesh_guid = 0x00000013;
+	  x mesh_guid = 0x05100b29;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3839,7 +3839,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x206F1CA7;
-	  x mesh_guid = 0x0000002C;
+	  x mesh_guid = 0x05100ad7;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3876,7 +3876,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x21279CAE;
-	  x mesh_guid = 0x0000002C;
+	  x mesh_guid = 0x05100ad7;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3913,7 +3913,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x2148A2F3;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3968,7 +3968,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x216FBB2E;
-	  x mesh_guid = 0x0000000A;
+	  x mesh_guid = 0x05100c29;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -3999,7 +3999,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x216FF28C;
-	  x mesh_guid = 0x00000002;
+	  x mesh_guid = 0x05100337;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -4018,7 +4018,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x217A7882;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000004;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -4055,7 +4055,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x2191E385;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -4104,7 +4104,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = true;
 	  x guid = 0x22260BC3;
-	  x mesh_guid = 0x00000023;
+	  x mesh_guid = 0x05100b79;
 	  x nodelevel = 0x00000002;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -4123,7 +4123,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x222AB932;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -4172,7 +4172,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x228E4CD9;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -4221,7 +4221,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x22CB515C;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -4282,7 +4282,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x24E026AD;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -4343,7 +4343,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x25633069;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -4398,7 +4398,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x2567EA21;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -4459,7 +4459,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x262A2744;
-	  x mesh_guid = 0x0000002E;
+	  x mesh_guid = 0x051003c2;
 	  x nodelevel = 0x00000008;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -4520,7 +4520,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x262D1495;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -4557,7 +4557,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x26F3E4BB;
-	  x mesh_guid = 0x0000002F;
+	  x mesh_guid = 0x05100be9;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -4600,7 +4600,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x2719C587;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -4631,7 +4631,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x272FC2D6;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -4656,7 +4656,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x2800F2F6;
-	  x mesh_guid = 0x00000001;
+	  x mesh_guid = 0x05100bd6;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -4759,7 +4759,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x29251069;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -4820,7 +4820,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x2948E479;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000004;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -4863,7 +4863,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x298CDFF5;
-	  x mesh_guid = 0x00000030;
+	  x mesh_guid = 0x05100308;
 	  x nodelevel = 0x00000007;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -4900,7 +4900,7 @@
 	  b bounds_camera = true;
 	  b camera_fade = false;
 	  x guid = 0x29E23CD3;
-	  x mesh_guid = 0x00000031;
+	  x mesh_guid = 0x05100c38;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0xFFFFFFFF;
@@ -4919,7 +4919,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x29EDC616;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000004;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -4968,7 +4968,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x2A113C60;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5005,7 +5005,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x2A240701;
-	  x mesh_guid = 0x00000025;
+	  x mesh_guid = 0x0510068a;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5024,7 +5024,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x2A24CE47;
-	  x mesh_guid = 0x00000032;
+	  x mesh_guid = 0x05100af1;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5061,7 +5061,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x2ADF6DD9;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5110,7 +5110,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x2BA912BE;
-	  x mesh_guid = 0x00000033;
+	  x mesh_guid = 0x05100b06;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5213,7 +5213,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x2D0EBAB3;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5262,7 +5262,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x2DBBC5C3;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5299,7 +5299,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x2E947A37;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5348,7 +5348,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x2EE16494;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5397,7 +5397,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x2F7A9B69;
-	  x mesh_guid = 0x0000001E;
+	  x mesh_guid = 0x05100bd4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5446,7 +5446,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x2FDC74E7;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5507,7 +5507,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x2FE74C6B;
-	  x mesh_guid = 0x00000034;
+	  x mesh_guid = 0x05100c14;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5544,7 +5544,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = true;
 	  x guid = 0x304A13A3;
-	  x mesh_guid = 0x00000035;
+	  x mesh_guid = 0x05100b5d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0xFFFFFFFF;
@@ -5563,7 +5563,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x305EE08E;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5624,7 +5624,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x317D6FE8;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5655,7 +5655,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x318929EE;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5704,7 +5704,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x318E8CDC;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5741,7 +5741,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x31948672;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5784,7 +5784,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x31B8A42D;
-	  x mesh_guid = 0x00000036;
+	  x mesh_guid = 0x05100a4f;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5833,7 +5833,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x31EA7A8D;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5870,7 +5870,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x32467561;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5919,7 +5919,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x331B746C;
-	  x mesh_guid = 0x00000037;
+	  x mesh_guid = 0x05100b93;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -5974,7 +5974,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x338FA756;
-	  x mesh_guid = 0x00000011;
+	  x mesh_guid = 0x051006ff;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -6023,7 +6023,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3412D5C7;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -6048,7 +6048,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3423FD9D;
-	  x mesh_guid = 0x0000001E;
+	  x mesh_guid = 0x05100bd4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -6097,7 +6097,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3466363E;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -6134,7 +6134,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = true;
 	  x guid = 0x348AD2BB;
-	  x mesh_guid = 0x0000002A;
+	  x mesh_guid = 0x05100b5c;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0xFFFFFFFF;
@@ -6153,7 +6153,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x34B8AC1F;
-	  x mesh_guid = 0x0000001E;
+	  x mesh_guid = 0x05100bd4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -6202,7 +6202,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x35066863;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -6239,7 +6239,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x35188207;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -6264,7 +6264,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3536DDEB;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -6325,7 +6325,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = true;
 	  x guid = 0x359ED937;
-	  x mesh_guid = 0x00000035;
+	  x mesh_guid = 0x05100b5d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0xFFFFFFFF;
@@ -6344,7 +6344,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x359FA3DB;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -6405,7 +6405,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3602BE96;
-	  x mesh_guid = 0x00000038;
+	  x mesh_guid = 0x05100ae1;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -6442,7 +6442,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3640868A;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -6479,7 +6479,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x364C230F;
-	  x mesh_guid = 0x00000039;
+	  x mesh_guid = 0x05100c39;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -6690,7 +6690,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3665E548;
-	  x mesh_guid = 0x0000003A;
+	  x mesh_guid = 0x05100b16;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -6727,7 +6727,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x36674B32;
-	  x mesh_guid = 0x00000003;
+	  x mesh_guid = 0x05100adc;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -6764,7 +6764,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x37DA249D;
-	  x mesh_guid = 0x0000003B;
+	  x mesh_guid = 0x051006fd;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -6801,7 +6801,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x37E1377F;
-	  x mesh_guid = 0x0000003C;
+	  x mesh_guid = 0x051003c1;
 	  x nodelevel = 0x00000008;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -6832,7 +6832,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x380F7526;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -6881,7 +6881,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x38635D64;
-	  x mesh_guid = 0x0000003D;
+	  x mesh_guid = 0x05100b43;
 	  x nodelevel = 0x00000002;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -6900,7 +6900,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x38C653A7;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -6949,7 +6949,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x38E50155;
-	  x mesh_guid = 0x0000003E;
+	  x mesh_guid = 0x05100700;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7034,7 +7034,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3918BA1F;
-	  x mesh_guid = 0x0000003F;
+	  x mesh_guid = 0x05100aed;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7071,7 +7071,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x393C5835;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7108,7 +7108,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x39420EB3;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7157,7 +7157,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3969EB41;
-	  x mesh_guid = 0x00000040;
+	  x mesh_guid = 0x05100b78;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7176,7 +7176,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3A4D46F9;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7225,7 +7225,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3A74810D;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7262,7 +7262,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3BE7B674;
-	  x mesh_guid = 0x00000041;
+	  x mesh_guid = 0x05100bdd;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7305,7 +7305,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3D6D7D67;
-	  x mesh_guid = 0x00000024;
+	  x mesh_guid = 0x05100be4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7342,7 +7342,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3D77C5C0;
-	  x mesh_guid = 0x0000001D;
+	  x mesh_guid = 0x05100bf6;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7373,7 +7373,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3DEC9AD5;
-	  x mesh_guid = 0x00000042;
+	  x mesh_guid = 0x05100bf7;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7392,7 +7392,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3DF7A2A4;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7429,7 +7429,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3EA174C3;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7478,7 +7478,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3EC66C48;
-	  x mesh_guid = 0x00000015;
+	  x mesh_guid = 0x05100c2a;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7515,7 +7515,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3F0D957D;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7552,7 +7552,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3F713BD0;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7601,7 +7601,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3F7E911D;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7638,7 +7638,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3FF12C8D;
-	  x mesh_guid = 0x00000015;
+	  x mesh_guid = 0x05100c2a;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7675,7 +7675,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x400AAD82;
-	  x mesh_guid = 0x0000000F;
+	  x mesh_guid = 0x05100336;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7706,7 +7706,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x40780923;
-	  x mesh_guid = 0x00000043;
+	  x mesh_guid = 0x0510033d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7737,7 +7737,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x40F761CA;
-	  x mesh_guid = 0x00000044;
+	  x mesh_guid = 0x051006ef;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7774,7 +7774,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = true;
 	  x guid = 0x412838ED;
-	  x mesh_guid = 0x0000002A;
+	  x mesh_guid = 0x05100b5c;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0xFFFFFFFF;
@@ -7793,7 +7793,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x4157ECCC;
-	  x mesh_guid = 0x00000002;
+	  x mesh_guid = 0x05100337;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7812,7 +7812,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x4180244F;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7873,7 +7873,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x41D55C10;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7934,7 +7934,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x4235953D;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -7971,7 +7971,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x42CA117F;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8020,7 +8020,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x43032BD5;
-	  x mesh_guid = 0x0000001C;
+	  x mesh_guid = 0x05100ad3;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8057,7 +8057,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x43036BDA;
-	  x mesh_guid = 0x0000000A;
+	  x mesh_guid = 0x05100c29;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8088,7 +8088,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x431714DA;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8125,7 +8125,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = true;
 	  x guid = 0x43655CB3;
-	  x mesh_guid = 0x0000002A;
+	  x mesh_guid = 0x05100b5c;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0xFFFFFFFF;
@@ -8144,7 +8144,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x437B0A6A;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8181,7 +8181,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x4393C37E;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8218,7 +8218,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x43BCDE64;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8255,7 +8255,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x44A06947;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8316,7 +8316,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x44FEC1A6;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8353,7 +8353,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x45643E33;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8390,7 +8390,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x45A35F0E;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8427,7 +8427,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x4618C98A;
-	  x mesh_guid = 0x00000045;
+	  x mesh_guid = 0x05100b89;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8470,7 +8470,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x4640AB08;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8525,7 +8525,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x469E368E;
-	  x mesh_guid = 0x0000000A;
+	  x mesh_guid = 0x05100c29;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8556,7 +8556,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x46A45AE1;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8605,7 +8605,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x46FE5E30;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8648,7 +8648,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x47203388;
-	  x mesh_guid = 0x00000024;
+	  x mesh_guid = 0x05100be4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8697,7 +8697,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x473640C5;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8758,7 +8758,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x47704E5F;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8795,7 +8795,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x47A4AD7B;
-	  x mesh_guid = 0x00000013;
+	  x mesh_guid = 0x05100b29;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8838,7 +8838,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x481DA592;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8863,7 +8863,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x48518D32;
-	  x mesh_guid = 0x00000013;
+	  x mesh_guid = 0x05100b29;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8906,7 +8906,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x48D12A78;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -8955,7 +8955,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x48F484A4;
-	  x mesh_guid = 0x00000046;
+	  x mesh_guid = 0x05100b8d;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9004,7 +9004,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x4A60E796;
-	  x mesh_guid = 0x0000001E;
+	  x mesh_guid = 0x05100bd4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9053,7 +9053,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x4A7AECEA;
-	  x mesh_guid = 0x0000000A;
+	  x mesh_guid = 0x05100c29;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9084,7 +9084,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x4AA0F284;
-	  x mesh_guid = 0x00000047;
+	  x mesh_guid = 0x05100afb;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9121,7 +9121,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x4AD2D058;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9170,7 +9170,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x4BBDA12F;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000004;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9207,7 +9207,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x4BEB24D4;
-	  x mesh_guid = 0x00000041;
+	  x mesh_guid = 0x05100bdd;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9244,7 +9244,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x4C3719D0;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9281,7 +9281,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x4E1B7645;
-	  x mesh_guid = 0x00000048;
+	  x mesh_guid = 0x05100b91;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9312,7 +9312,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x4EB60B77;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9349,7 +9349,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x4F1E79A4;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9386,7 +9386,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x4F423068;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9411,7 +9411,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x4FDC025C;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9472,7 +9472,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x4FFB2A50;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9509,7 +9509,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x508BA34B;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9534,7 +9534,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x509E85E2;
-	  x mesh_guid = 0x00000047;
+	  x mesh_guid = 0x05100afb;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9571,7 +9571,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5100CA8D;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9632,7 +9632,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x530E58E1;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9693,7 +9693,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x541F395E;
-	  x mesh_guid = 0x00000009;
+	  x mesh_guid = 0x05100ade;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9730,7 +9730,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x54849243;
-	  x mesh_guid = 0x00000012;
+	  x mesh_guid = 0x05100ada;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9773,7 +9773,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x54DF2C2C;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9822,7 +9822,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x54E8D939;
-	  x mesh_guid = 0x00000049;
+	  x mesh_guid = 0x05100338;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9865,7 +9865,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5504941A;
-	  x mesh_guid = 0x00000026;
+	  x mesh_guid = 0x05100ad2;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9902,7 +9902,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5510F026;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9951,7 +9951,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5520FA7B;
-	  x mesh_guid = 0x0000004A;
+	  x mesh_guid = 0x05100afc;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -9970,7 +9970,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x55275C72;
-	  x mesh_guid = 0x0000002E;
+	  x mesh_guid = 0x051003c2;
 	  x nodelevel = 0x00000007;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10007,7 +10007,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x554B8420;
-	  x mesh_guid = 0x0000004B;
+	  x mesh_guid = 0x05100c2b;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10044,7 +10044,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x555D477A;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10081,7 +10081,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x55E380BB;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10106,7 +10106,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5628014C;
-	  x mesh_guid = 0x0000004C;
+	  x mesh_guid = 0x0510076b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10143,7 +10143,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x56869CE6;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10180,7 +10180,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x56A3E1F1;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10217,7 +10217,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x56A578E9;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10278,7 +10278,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5747F885;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10315,7 +10315,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x57828EC1;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10352,7 +10352,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x57BA25C2;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10377,7 +10377,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x581E33EF;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10426,7 +10426,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x58249851;
-	  x mesh_guid = 0x00000042;
+	  x mesh_guid = 0x05100bf7;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10445,7 +10445,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x583A8C1B;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10494,7 +10494,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5A3B7C29;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10543,7 +10543,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5B4BD313;
-	  x mesh_guid = 0x0000004D;
+	  x mesh_guid = 0x05100c0e;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10580,7 +10580,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5B5B5F19;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10641,7 +10641,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5B78CA71;
-	  x mesh_guid = 0x00000049;
+	  x mesh_guid = 0x05100338;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10684,7 +10684,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5B9E30B4;
-	  x mesh_guid = 0x00000040;
+	  x mesh_guid = 0x05100b78;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10703,7 +10703,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5C0A2DE3;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10764,7 +10764,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5C312FA5;
-	  x mesh_guid = 0x0000004E;
+	  x mesh_guid = 0x05100c1c;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10801,7 +10801,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = true;
 	  x guid = 0x5C32B5C3;
-	  x mesh_guid = 0x00000035;
+	  x mesh_guid = 0x05100b5d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0xFFFFFFFF;
@@ -10820,7 +10820,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5C38ED92;
-	  x mesh_guid = 0x0000004F;
+	  x mesh_guid = 0x051002ee;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10857,7 +10857,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5D0B585A;
-	  x mesh_guid = 0x0000003C;
+	  x mesh_guid = 0x051003c1;
 	  x nodelevel = 0x00000008;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10894,7 +10894,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5DADC092;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10931,7 +10931,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5DD6F2AC;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -10980,7 +10980,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5DDC4B42;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11017,7 +11017,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5E186EDB;
-	  x mesh_guid = 0x00000050;
+	  x mesh_guid = 0x05100b7b;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11060,7 +11060,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5E38EA2D;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11109,7 +11109,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5E7C83D9;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11170,7 +11170,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5E85EBC9;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11219,7 +11219,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5E97104C;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11256,7 +11256,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5ED3F616;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11293,7 +11293,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5FE0D897;
-	  x mesh_guid = 0x00000051;
+	  x mesh_guid = 0x0510033c;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11324,7 +11324,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x603ED6B7;
-	  x mesh_guid = 0x00000047;
+	  x mesh_guid = 0x05100afb;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11361,7 +11361,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x60C6729F;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11398,7 +11398,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x60F6A591;
-	  x mesh_guid = 0x00000052;
+	  x mesh_guid = 0x05100313;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11465,7 +11465,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x6106CACA;
-	  x mesh_guid = 0x00000053;
+	  x mesh_guid = 0x05100adf;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11502,7 +11502,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x61542222;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11539,7 +11539,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x616BAFAF;
-	  x mesh_guid = 0x00000024;
+	  x mesh_guid = 0x05100be4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11588,7 +11588,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x617D44B8;
-	  x mesh_guid = 0x0000002E;
+	  x mesh_guid = 0x051003c2;
 	  x nodelevel = 0x00000007;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11625,7 +11625,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x61F3CBB9;
-	  x mesh_guid = 0x00000027;
+	  x mesh_guid = 0x051000e3;
 	  x nodelevel = 0x00000006;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11650,7 +11650,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x627946BF;
-	  x mesh_guid = 0x0000001F;
+	  x mesh_guid = 0x051006f4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11699,7 +11699,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x63205CF3;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11748,7 +11748,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x63990A36;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11797,7 +11797,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x63B6EECD;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11858,7 +11858,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x63CFC70C;
-	  x mesh_guid = 0x00000054;
+	  x mesh_guid = 0x05100ace;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11895,7 +11895,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x63E1962B;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11938,7 +11938,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x6400309F;
-	  x mesh_guid = 0x00000044;
+	  x mesh_guid = 0x051006ef;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -11975,7 +11975,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x641B66E9;
-	  x mesh_guid = 0x0000000A;
+	  x mesh_guid = 0x05100c29;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12006,7 +12006,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x64BCC745;
-	  x mesh_guid = 0x00000044;
+	  x mesh_guid = 0x051006ef;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12037,7 +12037,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x64D10509;
-	  x mesh_guid = 0x00000009;
+	  x mesh_guid = 0x05100ade;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12074,7 +12074,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x64DAC14E;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12111,7 +12111,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x650EB662;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12148,7 +12148,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x673E30E0;
-	  x mesh_guid = 0x0000004B;
+	  x mesh_guid = 0x05100c2b;
 	  x nodelevel = 0x00000004;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12197,7 +12197,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x682C4E4A;
-	  x mesh_guid = 0x00000003;
+	  x mesh_guid = 0x05100adc;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12234,7 +12234,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x684EF63D;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12295,7 +12295,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x6873F19E;
-	  x mesh_guid = 0x00000034;
+	  x mesh_guid = 0x05100c14;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12332,7 +12332,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x68F27F43;
-	  x mesh_guid = 0x0000003C;
+	  x mesh_guid = 0x051003c1;
 	  x nodelevel = 0x00000008;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12363,7 +12363,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x6919CFCB;
-	  x mesh_guid = 0x0000001D;
+	  x mesh_guid = 0x05100bf6;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12394,7 +12394,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x694BEDA3;
-	  x mesh_guid = 0x0000004F;
+	  x mesh_guid = 0x051002ee;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12431,7 +12431,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x69F90412;
-	  x mesh_guid = 0x00000026;
+	  x mesh_guid = 0x05100ad2;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12468,7 +12468,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x6A129BC7;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12529,7 +12529,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x6A329729;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12590,7 +12590,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x6A8CD159;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12627,7 +12627,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x6ABD4485;
-	  x mesh_guid = 0x00000054;
+	  x mesh_guid = 0x05100ace;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12664,7 +12664,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x6B56BE1E;
-	  x mesh_guid = 0x00000021;
+	  x mesh_guid = 0x05100b85;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12707,7 +12707,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x6C6E0806;
-	  x mesh_guid = 0x00000003;
+	  x mesh_guid = 0x05100adc;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12744,7 +12744,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x6C7DC7DD;
-	  x mesh_guid = 0x00000055;
+	  x mesh_guid = 0x05100c0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12781,7 +12781,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x6CBF0368;
-	  x mesh_guid = 0x00000054;
+	  x mesh_guid = 0x05100ace;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12818,7 +12818,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x6CE097C3;
-	  x mesh_guid = 0x0000003C;
+	  x mesh_guid = 0x051003c1;
 	  x nodelevel = 0x00000007;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12855,7 +12855,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x6D0CF2A3;
-	  x mesh_guid = 0x00000056;
+	  x mesh_guid = 0x05100b2a;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12928,7 +12928,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x6D452048;
-	  x mesh_guid = 0x00000024;
+	  x mesh_guid = 0x05100be4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -12983,7 +12983,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x6F22B148;
-	  x mesh_guid = 0x0000003C;
+	  x mesh_guid = 0x051003c1;
 	  x nodelevel = 0x00000008;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13014,7 +13014,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x6F38C936;
-	  x mesh_guid = 0x00000024;
+	  x mesh_guid = 0x05100be4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13057,7 +13057,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x6F3DA634;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13094,7 +13094,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x70E37F83;
-	  x mesh_guid = 0x00000025;
+	  x mesh_guid = 0x0510068a;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13113,7 +13113,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x70EDA06A;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13162,7 +13162,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x728E608F;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13211,7 +13211,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x72E34F13;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13248,7 +13248,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x733E017B;
-	  x mesh_guid = 0x00000057;
+	  x mesh_guid = 0x05100b8a;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13303,7 +13303,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7350BB16;
-	  x mesh_guid = 0x00000009;
+	  x mesh_guid = 0x05100ade;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13346,7 +13346,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x735F71DE;
-	  x mesh_guid = 0x00000038;
+	  x mesh_guid = 0x05100ae1;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13383,7 +13383,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x738375CA;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13420,7 +13420,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7387634C;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13481,7 +13481,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x73953648;
-	  x mesh_guid = 0x0000001D;
+	  x mesh_guid = 0x05100bf6;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13512,7 +13512,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7440FF4C;
-	  x mesh_guid = 0x00000058;
+	  x mesh_guid = 0x0510077d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13549,7 +13549,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7457FF34;
-	  x mesh_guid = 0x00000059;
+	  x mesh_guid = 0x0510031a;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13622,7 +13622,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x74D0DCEC;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13659,7 +13659,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x751CB03F;
-	  x mesh_guid = 0x00000056;
+	  x mesh_guid = 0x05100b2a;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13732,7 +13732,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7571A0AA;
-	  x mesh_guid = 0x0000003B;
+	  x mesh_guid = 0x051006fd;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13769,7 +13769,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x75FD7389;
-	  x mesh_guid = 0x0000000A;
+	  x mesh_guid = 0x05100c29;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13794,7 +13794,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x76105ECE;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13831,7 +13831,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7659F6E9;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13892,7 +13892,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x76716159;
-	  x mesh_guid = 0x0000005A;
+	  x mesh_guid = 0x05100b7c;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13917,7 +13917,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x76F51F41;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -13978,7 +13978,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x77184554;
-	  x mesh_guid = 0x0000005B;
+	  x mesh_guid = 0x05100c1d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14015,7 +14015,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x77E73A36;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14064,7 +14064,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x78491494;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14101,7 +14101,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7875EEC7;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14138,7 +14138,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x795F66CA;
-	  x mesh_guid = 0x0000005C;
+	  x mesh_guid = 0x05100ae2;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14175,7 +14175,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x79A14022;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14236,7 +14236,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x79DA73BE;
-	  x mesh_guid = 0x00000037;
+	  x mesh_guid = 0x05100b93;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14291,7 +14291,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7A0D81EB;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14340,7 +14340,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7A15AA0E;
-	  x mesh_guid = 0x00000009;
+	  x mesh_guid = 0x05100ade;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14383,7 +14383,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7A16BF53;
-	  x mesh_guid = 0x0000005D;
+	  x mesh_guid = 0x05100542;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14414,7 +14414,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7A40A5AE;
-	  x mesh_guid = 0x00000003;
+	  x mesh_guid = 0x05100adc;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14451,7 +14451,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7A46A5D5;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14512,7 +14512,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7A6CBF5D;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14537,7 +14537,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7AF0BBBA;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14574,7 +14574,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7BB39C1A;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14623,7 +14623,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7BBB8998;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14666,7 +14666,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7BECC60B;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14715,7 +14715,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7CA3B92B;
-	  x mesh_guid = 0x0000005A;
+	  x mesh_guid = 0x05100b7c;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14740,7 +14740,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7CA6E960;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14801,7 +14801,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7CF3AF60;
-	  x mesh_guid = 0x0000005A;
+	  x mesh_guid = 0x05100b7c;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14826,7 +14826,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7D05EE6B;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14863,7 +14863,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7D3B2C68;
-	  x mesh_guid = 0x00000041;
+	  x mesh_guid = 0x05100bdd;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14906,7 +14906,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7D4DA172;
-	  x mesh_guid = 0x00000009;
+	  x mesh_guid = 0x05100ade;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14949,7 +14949,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7D974136;
-	  x mesh_guid = 0x00000025;
+	  x mesh_guid = 0x0510068a;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -14968,7 +14968,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = true;
 	  x guid = 0x7DA60AFC;
-	  x mesh_guid = 0x00000035;
+	  x mesh_guid = 0x05100b5d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0xFFFFFFFF;
@@ -14987,7 +14987,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7DD1D4F7;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15048,7 +15048,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7EC612B6;
-	  x mesh_guid = 0x0000005E;
+	  x mesh_guid = 0x05100769;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15079,7 +15079,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x7EF8590A;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15116,7 +15116,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x802E35CC;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15177,7 +15177,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x80624B95;
-	  x mesh_guid = 0x00000054;
+	  x mesh_guid = 0x05100ace;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15214,7 +15214,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x80D2D855;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15251,7 +15251,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x814DD7AB;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15306,7 +15306,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x81A115C7;
-	  x mesh_guid = 0x0000000B;
+	  x mesh_guid = 0x05100b7d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15331,7 +15331,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x827A27CA;
-	  x mesh_guid = 0x0000005F;
+	  x mesh_guid = 0x051006fe;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15362,7 +15362,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x828812F8;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15399,7 +15399,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x831D21DD;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15448,7 +15448,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x8340BE29;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15509,7 +15509,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x83577F6D;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15570,7 +15570,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x83E144B7;
-	  x mesh_guid = 0x0000001D;
+	  x mesh_guid = 0x05100bf6;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15601,7 +15601,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x84435057;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15662,7 +15662,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x84D90CDB;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000004;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15723,7 +15723,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x8572DF4E;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15784,7 +15784,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x85F9A212;
-	  x mesh_guid = 0x00000042;
+	  x mesh_guid = 0x05100bf7;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15803,7 +15803,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x86090061;
-	  x mesh_guid = 0x0000004B;
+	  x mesh_guid = 0x05100c2b;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15840,7 +15840,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x862DE9F4;
-	  x mesh_guid = 0x00000050;
+	  x mesh_guid = 0x05100b7b;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15883,7 +15883,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x864044F1;
-	  x mesh_guid = 0x00000011;
+	  x mesh_guid = 0x051006ff;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15944,7 +15944,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x87030AF7;
-	  x mesh_guid = 0x0000002F;
+	  x mesh_guid = 0x05100be9;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -15987,7 +15987,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x87576892;
-	  x mesh_guid = 0x00000026;
+	  x mesh_guid = 0x05100ad2;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16024,7 +16024,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x87B50CDA;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16049,7 +16049,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x88A89C10;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16086,7 +16086,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x88AF5336;
-	  x mesh_guid = 0x0000004B;
+	  x mesh_guid = 0x05100c2b;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16123,7 +16123,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x88D4B68C;
-	  x mesh_guid = 0x00000060;
+	  x mesh_guid = 0x05100b81;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16148,7 +16148,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x89521002;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16185,7 +16185,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x8A2FC66C;
-	  x mesh_guid = 0x00000055;
+	  x mesh_guid = 0x05100c0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16222,7 +16222,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x8ACF147C;
-	  x mesh_guid = 0x00000061;
+	  x mesh_guid = 0x05100af8;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16265,7 +16265,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x8BE7A8B0;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16302,7 +16302,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x8BEE0F65;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16363,7 +16363,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x8BFCF494;
-	  x mesh_guid = 0x00000003;
+	  x mesh_guid = 0x05100adc;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16400,7 +16400,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x8C069BD1;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16449,7 +16449,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x8C0FF770;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16510,7 +16510,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x8C5A9C56;
-	  x mesh_guid = 0x0000000A;
+	  x mesh_guid = 0x05100c29;
 	  x nodelevel = 0x00000006;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16529,7 +16529,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x8CBD0DF5;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16566,7 +16566,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x8CD49B82;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16627,7 +16627,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x8E172767;
-	  x mesh_guid = 0x00000011;
+	  x mesh_guid = 0x051006ff;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16688,7 +16688,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x8E95D7AB;
-	  x mesh_guid = 0x0000001E;
+	  x mesh_guid = 0x05100bd4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16737,7 +16737,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x8ED29991;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16774,7 +16774,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x8ED70EB0;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16811,7 +16811,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x8FC38FF9;
-	  x mesh_guid = 0x0000000A;
+	  x mesh_guid = 0x05100c29;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16842,7 +16842,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x8FC7F0ED;
-	  x mesh_guid = 0x00000062;
+	  x mesh_guid = 0x05100312;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16861,7 +16861,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9001B76F;
-	  x mesh_guid = 0x00000007;
+	  x mesh_guid = 0x05100adb;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16898,7 +16898,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9044DEF6;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16929,7 +16929,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x908223EA;
-	  x mesh_guid = 0x00000011;
+	  x mesh_guid = 0x051006ff;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -16978,7 +16978,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x914C4FCD;
-	  x mesh_guid = 0x00000053;
+	  x mesh_guid = 0x05100adf;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17015,7 +17015,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x92093C6C;
-	  x mesh_guid = 0x00000061;
+	  x mesh_guid = 0x05100af8;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17052,7 +17052,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x924A5289;
-	  x mesh_guid = 0x00000051;
+	  x mesh_guid = 0x0510033c;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17083,7 +17083,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9258221C;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17108,7 +17108,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x92C8438F;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17145,7 +17145,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x92CCE197;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17182,7 +17182,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x930DDD81;
-	  x mesh_guid = 0x00000063;
+	  x mesh_guid = 0x05100b1a;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17231,7 +17231,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9335F913;
-	  x mesh_guid = 0x00000064;
+	  x mesh_guid = 0x05100bdb;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17262,7 +17262,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x93DE123E;
-	  x mesh_guid = 0x0000004B;
+	  x mesh_guid = 0x05100c2b;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17299,7 +17299,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x94D5AAA8;
-	  x mesh_guid = 0x00000015;
+	  x mesh_guid = 0x05100c2a;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17336,7 +17336,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x95044E4C;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17361,7 +17361,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x951EF63C;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17422,7 +17422,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x95479F30;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17447,7 +17447,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x968E2CC4;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17490,7 +17490,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x96D1557C;
-	  x mesh_guid = 0x00000065;
+	  x mesh_guid = 0x05100b35;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17575,7 +17575,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x96F69260;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17612,7 +17612,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x979C5063;
-	  x mesh_guid = 0x00000066;
+	  x mesh_guid = 0x05100770;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17673,7 +17673,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x97A1F741;
-	  x mesh_guid = 0x0000001E;
+	  x mesh_guid = 0x05100bd4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17722,7 +17722,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x97CEB32F;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17771,7 +17771,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x97DB50CB;
-	  x mesh_guid = 0x0000004F;
+	  x mesh_guid = 0x051002ee;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17808,7 +17808,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x989E953A;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17857,7 +17857,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = true;
 	  x guid = 0x98D88A2E;
-	  x mesh_guid = 0x00000067;
+	  x mesh_guid = 0x05100b7f;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17882,7 +17882,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9902FB7D;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17943,7 +17943,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9AD0BEA8;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -17980,7 +17980,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9B37D7B5;
-	  x mesh_guid = 0x00000068;
+	  x mesh_guid = 0x05100a3f;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18041,7 +18041,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9BE2BD3D;
-	  x mesh_guid = 0x00000015;
+	  x mesh_guid = 0x05100c2a;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18078,7 +18078,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9BE62BCB;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18115,7 +18115,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9C3B635F;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18176,7 +18176,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9C3C598E;
-	  x mesh_guid = 0x00000015;
+	  x mesh_guid = 0x05100c2a;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18213,7 +18213,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9C5FC592;
-	  x mesh_guid = 0x0000003F;
+	  x mesh_guid = 0x05100aed;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18250,7 +18250,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9C9EBDD0;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18275,7 +18275,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9D1DC936;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18336,7 +18336,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9D31B180;
-	  x mesh_guid = 0x00000069;
+	  x mesh_guid = 0x05100541;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18367,7 +18367,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9D518E95;
-	  x mesh_guid = 0x00000015;
+	  x mesh_guid = 0x05100c2a;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18404,7 +18404,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9D68293C;
-	  x mesh_guid = 0x00000026;
+	  x mesh_guid = 0x05100ad2;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18441,7 +18441,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9DB93F8E;
-	  x mesh_guid = 0x0000003D;
+	  x mesh_guid = 0x05100b43;
 	  x nodelevel = 0x00000002;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18460,7 +18460,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9DE61C53;
-	  x mesh_guid = 0x00000011;
+	  x mesh_guid = 0x051006ff;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18521,7 +18521,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9DFA7D38;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18558,7 +18558,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9F07A415;
-	  x mesh_guid = 0x00000064;
+	  x mesh_guid = 0x05100bdb;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18595,7 +18595,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9F846C61;
-	  x mesh_guid = 0x00000003;
+	  x mesh_guid = 0x05100adc;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18632,7 +18632,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9F884330;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18669,7 +18669,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9FD2A33D;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18718,7 +18718,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x9FF7F933;
-	  x mesh_guid = 0x0000003A;
+	  x mesh_guid = 0x05100b16;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18755,7 +18755,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA0571F7E;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18798,7 +18798,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA0CBE3D1;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18823,7 +18823,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA1171419;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18860,7 +18860,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA1352174;
-	  x mesh_guid = 0x00000009;
+	  x mesh_guid = 0x05100ade;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18897,7 +18897,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA248CFEC;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -18940,7 +18940,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA3412F0A;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19001,7 +19001,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA3AD0E60;
-	  x mesh_guid = 0x00000049;
+	  x mesh_guid = 0x05100338;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19044,7 +19044,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA4436F2A;
-	  x mesh_guid = 0x0000001F;
+	  x mesh_guid = 0x051006f4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19075,7 +19075,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA45A0E51;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19124,7 +19124,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA4B18824;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19173,7 +19173,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA4BBBEE1;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19210,7 +19210,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA5CF8C2E;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19271,7 +19271,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA63E7BBA;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19308,7 +19308,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA6868205;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19345,7 +19345,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA6C58FA2;
-	  x mesh_guid = 0x00000025;
+	  x mesh_guid = 0x0510068a;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19364,7 +19364,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA6C7DD4B;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19401,7 +19401,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA757846F;
-	  x mesh_guid = 0x0000006A;
+	  x mesh_guid = 0x05100c3c;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000006;
@@ -19432,7 +19432,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA8DFD29E;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19481,7 +19481,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA9003219;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19518,7 +19518,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA90505F0;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19555,7 +19555,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA95F4B3E;
-	  x mesh_guid = 0x0000005A;
+	  x mesh_guid = 0x05100b7c;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19580,7 +19580,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xA986A579;
-	  x mesh_guid = 0x0000001D;
+	  x mesh_guid = 0x05100bf6;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19611,7 +19611,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xAACD4693;
-	  x mesh_guid = 0x00000001;
+	  x mesh_guid = 0x05100bd6;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19714,7 +19714,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xAAE3EE96;
-	  x mesh_guid = 0x0000002F;
+	  x mesh_guid = 0x05100be9;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19757,7 +19757,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xAB56AA88;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19806,7 +19806,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xAB69F911;
-	  x mesh_guid = 0x00000003;
+	  x mesh_guid = 0x05100adc;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19843,7 +19843,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xAC6154F5;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19904,7 +19904,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xACB993C9;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19965,7 +19965,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xAD5AF267;
-	  x mesh_guid = 0x0000005F;
+	  x mesh_guid = 0x051006fe;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -19996,7 +19996,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xAD5F0F5E;
-	  x mesh_guid = 0x00000021;
+	  x mesh_guid = 0x05100b85;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20039,7 +20039,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xAE1711CC;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20100,7 +20100,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xAE7102DC;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20119,7 +20119,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xAEBA2B97;
-	  x mesh_guid = 0x00000021;
+	  x mesh_guid = 0x05100b85;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20162,7 +20162,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xAEBCBFB4;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20187,7 +20187,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xAED5A2CC;
-	  x mesh_guid = 0x0000006B;
+	  x mesh_guid = 0x05100b7e;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20212,7 +20212,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xAF7E05CF;
-	  x mesh_guid = 0x0000003C;
+	  x mesh_guid = 0x051003c1;
 	  x nodelevel = 0x00000008;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20243,7 +20243,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB02BFD12;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20286,7 +20286,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB0882949;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20323,7 +20323,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB0A03C58;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000004;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20384,7 +20384,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB14FC62F;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20433,7 +20433,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB190AC75;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000004;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20482,7 +20482,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB1B78D22;
-	  x mesh_guid = 0x00000054;
+	  x mesh_guid = 0x05100ace;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20519,7 +20519,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB2CF50C4;
-	  x mesh_guid = 0x0000006C;
+	  x mesh_guid = 0x051002f2;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20556,7 +20556,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB2DD27C4;
-	  x mesh_guid = 0x0000001F;
+	  x mesh_guid = 0x051006f4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20617,7 +20617,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB460FBEF;
-	  x mesh_guid = 0x00000015;
+	  x mesh_guid = 0x05100c2a;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20648,7 +20648,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB4768E52;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20697,7 +20697,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB487360E;
-	  x mesh_guid = 0x0000006D;
+	  x mesh_guid = 0x05100b8e;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20746,7 +20746,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB48DB683;
-	  x mesh_guid = 0x0000006E;
+	  x mesh_guid = 0x05100b14;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20783,7 +20783,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB4C2AF81;
-	  x mesh_guid = 0x00000054;
+	  x mesh_guid = 0x05100ace;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20820,7 +20820,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB4DE52DE;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20863,7 +20863,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB58543B8;
-	  x mesh_guid = 0x0000004A;
+	  x mesh_guid = 0x05100afc;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20882,7 +20882,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB5B30F25;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20919,7 +20919,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = true;
 	  x guid = 0xB5E60003;
-	  x mesh_guid = 0x0000002A;
+	  x mesh_guid = 0x05100b5c;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0xFFFFFFFF;
@@ -20938,7 +20938,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB6584932;
-	  x mesh_guid = 0x0000006F;
+	  x mesh_guid = 0x0510033b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -20975,7 +20975,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB6935069;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21000,7 +21000,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB6B093E9;
-	  x mesh_guid = 0x00000064;
+	  x mesh_guid = 0x05100bdb;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21037,7 +21037,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB83B5B0F;
-	  x mesh_guid = 0x00000049;
+	  x mesh_guid = 0x05100338;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21080,7 +21080,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB85141EE;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21117,7 +21117,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB8528281;
-	  x mesh_guid = 0x00000001;
+	  x mesh_guid = 0x05100bd6;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21220,7 +21220,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB95864F9;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21257,7 +21257,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB96E5F1D;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21294,7 +21294,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB99DDED5;
-	  x mesh_guid = 0x00000070;
+	  x mesh_guid = 0x05100c2d;
 	  x nodelevel = 0x00000006;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21325,7 +21325,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xBA0742F9;
-	  x mesh_guid = 0x0000002C;
+	  x mesh_guid = 0x05100ad7;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21362,7 +21362,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xBA5A3566;
-	  x mesh_guid = 0x00000064;
+	  x mesh_guid = 0x05100bdb;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21399,7 +21399,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xBB4B4E57;
-	  x mesh_guid = 0x00000022;
+	  x mesh_guid = 0x051006f3;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21448,7 +21448,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xBB7D421F;
-	  x mesh_guid = 0x0000001E;
+	  x mesh_guid = 0x05100bd4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21497,7 +21497,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xBBA6081B;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21558,7 +21558,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = true;
 	  x guid = 0xBBB35E16;
-	  x mesh_guid = 0x00000023;
+	  x mesh_guid = 0x05100b79;
 	  x nodelevel = 0x00000002;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21577,7 +21577,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xBC58AD2A;
-	  x mesh_guid = 0x00000025;
+	  x mesh_guid = 0x0510068a;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21596,7 +21596,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xBCC21D3C;
-	  x mesh_guid = 0x00000071;
+	  x mesh_guid = 0x05100b5e;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21669,7 +21669,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xBCEC2FAE;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21718,7 +21718,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xBD21D37E;
-	  x mesh_guid = 0x00000003;
+	  x mesh_guid = 0x05100adc;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21755,7 +21755,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xBD4AA557;
-	  x mesh_guid = 0x00000015;
+	  x mesh_guid = 0x05100c2a;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21792,7 +21792,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xBD7C38AE;
-	  x mesh_guid = 0x0000005A;
+	  x mesh_guid = 0x05100b7c;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21817,7 +21817,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xBD8FB989;
-	  x mesh_guid = 0x0000002F;
+	  x mesh_guid = 0x05100be9;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21860,7 +21860,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xBEC3E44A;
-	  x mesh_guid = 0x00000072;
+	  x mesh_guid = 0x05100b1b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21921,7 +21921,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xBED7A937;
-	  x mesh_guid = 0x00000024;
+	  x mesh_guid = 0x05100be4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -21970,7 +21970,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xBF1ECAB9;
-	  x mesh_guid = 0x0000001E;
+	  x mesh_guid = 0x05100bd4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22019,7 +22019,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xBF373708;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22068,7 +22068,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xBF96FBD2;
-	  x mesh_guid = 0x00000054;
+	  x mesh_guid = 0x05100ace;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22105,7 +22105,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC005A32B;
-	  x mesh_guid = 0x00000015;
+	  x mesh_guid = 0x05100c2a;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22136,7 +22136,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC0C64FA0;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22185,7 +22185,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC0FB0E69;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22234,7 +22234,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC144933C;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22259,7 +22259,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC32088BA;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22308,7 +22308,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC3811BDF;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22345,7 +22345,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC4306FFD;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22382,7 +22382,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC4371A80;
-	  x mesh_guid = 0x0000004B;
+	  x mesh_guid = 0x05100c2b;
 	  x nodelevel = 0x00000004;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22413,7 +22413,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC43D4F7E;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22462,7 +22462,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC44B8179;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22499,7 +22499,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC4EC1DDA;
-	  x mesh_guid = 0x00000038;
+	  x mesh_guid = 0x05100ae1;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22536,7 +22536,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC5160130;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22579,7 +22579,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC5CF7D1E;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22640,7 +22640,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC6844C0E;
-	  x mesh_guid = 0x0000001E;
+	  x mesh_guid = 0x05100bd4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22689,7 +22689,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC6C659BC;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22738,7 +22738,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC6DAE71B;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22787,7 +22787,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC7666932;
-	  x mesh_guid = 0x0000005A;
+	  x mesh_guid = 0x05100b7c;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22806,7 +22806,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC78E379A;
-	  x mesh_guid = 0x00000011;
+	  x mesh_guid = 0x051006ff;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22855,7 +22855,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC79B4D81;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22904,7 +22904,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC7C6D3B7;
-	  x mesh_guid = 0x0000005F;
+	  x mesh_guid = 0x051006fe;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -22953,7 +22953,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC874063C;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23002,7 +23002,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC87A8C7C;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23027,7 +23027,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC89836C8;
-	  x mesh_guid = 0x00000073;
+	  x mesh_guid = 0x05100c01;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23046,7 +23046,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC8F61527;
-	  x mesh_guid = 0x00000024;
+	  x mesh_guid = 0x05100be4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23083,7 +23083,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC91FAE50;
-	  x mesh_guid = 0x00000064;
+	  x mesh_guid = 0x05100bdb;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23120,7 +23120,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC94406A5;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23163,7 +23163,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC9DF1709;
-	  x mesh_guid = 0x00000011;
+	  x mesh_guid = 0x051006ff;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23212,7 +23212,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xCA206755;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23249,7 +23249,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xCAA28BD5;
-	  x mesh_guid = 0x0000005F;
+	  x mesh_guid = 0x051006fe;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23310,7 +23310,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xCAAEF4F6;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000004;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23353,7 +23353,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xCAE4C266;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23402,7 +23402,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xCB6C66C5;
-	  x mesh_guid = 0x00000030;
+	  x mesh_guid = 0x05100308;
 	  x nodelevel = 0x00000008;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23463,7 +23463,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xCBA59323;
-	  x mesh_guid = 0x00000015;
+	  x mesh_guid = 0x05100c2a;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23500,7 +23500,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xCBB23BC8;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23549,7 +23549,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xCC004F6E;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23610,7 +23610,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xCCCB00A3;
-	  x mesh_guid = 0x00000003;
+	  x mesh_guid = 0x05100adc;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23647,7 +23647,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xCCF728F2;
-	  x mesh_guid = 0x0000002C;
+	  x mesh_guid = 0x05100ad7;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23684,7 +23684,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xCD1CA22C;
-	  x mesh_guid = 0x00000044;
+	  x mesh_guid = 0x051006ef;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23721,7 +23721,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xCD74F093;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23746,7 +23746,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xCE3610B6;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000004;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23807,7 +23807,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xCE751724;
-	  x mesh_guid = 0x00000074;
+	  x mesh_guid = 0x05100c2e;
 	  x nodelevel = 0x00000004;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23844,7 +23844,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xCF2B1F69;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23893,7 +23893,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD07E3130;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23954,7 +23954,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD0E7FB5D;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -23991,7 +23991,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD0FB0F25;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24028,7 +24028,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD12C9A92;
-	  x mesh_guid = 0x0000000C;
+	  x mesh_guid = 0x05100c19;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24077,7 +24077,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD22FC41A;
-	  x mesh_guid = 0x00000073;
+	  x mesh_guid = 0x05100c01;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24096,7 +24096,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD3093B2A;
-	  x mesh_guid = 0x00000013;
+	  x mesh_guid = 0x05100b29;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24139,7 +24139,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD3284FE3;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24176,7 +24176,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD3554292;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24237,7 +24237,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD35B4071;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24298,7 +24298,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD3D4ACED;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24323,7 +24323,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD45142CF;
-	  x mesh_guid = 0x0000005B;
+	  x mesh_guid = 0x05100c1d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24360,7 +24360,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD47D42C0;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24397,7 +24397,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD4DE1CCF;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24434,7 +24434,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD560E491;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000004;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24483,7 +24483,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD564D4D9;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24532,7 +24532,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD57F3E84;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24557,7 +24557,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD59B73F4;
-	  x mesh_guid = 0x0000002C;
+	  x mesh_guid = 0x05100ad7;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24594,7 +24594,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD59DECBA;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000004;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24619,7 +24619,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD5D62172;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24668,7 +24668,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD61822CC;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24711,7 +24711,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD676CDF2;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24760,7 +24760,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD6A0608E;
-	  x mesh_guid = 0x00000064;
+	  x mesh_guid = 0x05100bdb;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24797,7 +24797,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD6A8A24E;
-	  x mesh_guid = 0x00000045;
+	  x mesh_guid = 0x05100b89;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24840,7 +24840,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD7E41523;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24877,7 +24877,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD80A0A7A;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24926,7 +24926,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD8B6A4CB;
-	  x mesh_guid = 0x00000045;
+	  x mesh_guid = 0x05100b89;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -24969,7 +24969,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD8D16C6E;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25018,7 +25018,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD8EA0193;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25079,7 +25079,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD8FE238C;
-	  x mesh_guid = 0x0000001E;
+	  x mesh_guid = 0x05100bd4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25128,7 +25128,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD9239230;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25153,7 +25153,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xD9AA76DC;
-	  x mesh_guid = 0x00000075;
+	  x mesh_guid = 0x05100b37;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25190,7 +25190,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xDAB71FB3;
-	  x mesh_guid = 0x00000070;
+	  x mesh_guid = 0x05100c2d;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25233,7 +25233,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xDB2320B6;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25270,7 +25270,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xDB9E222F;
-	  x mesh_guid = 0x00000054;
+	  x mesh_guid = 0x05100ace;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25307,7 +25307,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xDC1F1B02;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25332,7 +25332,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xDC977B16;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25393,7 +25393,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xDCCF2DB7;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25442,7 +25442,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xDD1F3628;
-	  x mesh_guid = 0x00000061;
+	  x mesh_guid = 0x05100af8;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25479,7 +25479,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xDD6CEFE2;
-	  x mesh_guid = 0x00000044;
+	  x mesh_guid = 0x051006ef;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25516,7 +25516,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xDE8E15B6;
-	  x mesh_guid = 0x0000005A;
+	  x mesh_guid = 0x05100b7c;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25541,7 +25541,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xDE9ECA93;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25590,7 +25590,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xDF6DEC83;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25627,7 +25627,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xDFCA6BB7;
-	  x mesh_guid = 0x0000002F;
+	  x mesh_guid = 0x05100be9;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25670,7 +25670,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE0884A75;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25707,7 +25707,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE19F2A57;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25732,7 +25732,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE1C0CCB4;
-	  x mesh_guid = 0x00000009;
+	  x mesh_guid = 0x05100ade;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25775,7 +25775,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE1D1C80F;
-	  x mesh_guid = 0x00000041;
+	  x mesh_guid = 0x05100bdd;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25818,7 +25818,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE1F84A8E;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25867,7 +25867,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE264CF30;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25928,7 +25928,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE2AB2C77;
-	  x mesh_guid = 0x00000016;
+	  x mesh_guid = 0x05100c00;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25947,7 +25947,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE2D3B33B;
-	  x mesh_guid = 0x0000000A;
+	  x mesh_guid = 0x05100c29;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -25972,7 +25972,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = true;
 	  x guid = 0xE2F95248;
-	  x mesh_guid = 0x00000035;
+	  x mesh_guid = 0x05100b5d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0xFFFFFFFF;
@@ -25991,7 +25991,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE364C24A;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26040,7 +26040,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE4BFF9BB;
-	  x mesh_guid = 0x0000004B;
+	  x mesh_guid = 0x05100c2b;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26077,7 +26077,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE4D61D2E;
-	  x mesh_guid = 0x00000076;
+	  x mesh_guid = 0x05100b86;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26120,7 +26120,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE52DCFD4;
-	  x mesh_guid = 0x00000010;
+	  x mesh_guid = 0x05100afd;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26181,7 +26181,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE5FD2F01;
-	  x mesh_guid = 0x0000001F;
+	  x mesh_guid = 0x051006f4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26230,7 +26230,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE63A5D46;
-	  x mesh_guid = 0x0000001D;
+	  x mesh_guid = 0x05100bf6;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26261,7 +26261,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE63CA3C6;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26304,7 +26304,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE644EDDD;
-	  x mesh_guid = 0x00000013;
+	  x mesh_guid = 0x05100b29;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26347,7 +26347,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE65B4611;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26408,7 +26408,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE6A0ED4C;
-	  x mesh_guid = 0x00000072;
+	  x mesh_guid = 0x05100b1b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26469,7 +26469,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE6C18923;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26530,7 +26530,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE6E4DDBE;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26579,7 +26579,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE72C966C;
-	  x mesh_guid = 0x00000027;
+	  x mesh_guid = 0x051000e3;
 	  x nodelevel = 0x00000006;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26604,7 +26604,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE7F731DC;
-	  x mesh_guid = 0x0000001E;
+	  x mesh_guid = 0x05100bd4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26653,7 +26653,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE81934E6;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26702,7 +26702,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE828E911;
-	  x mesh_guid = 0x00000009;
+	  x mesh_guid = 0x05100ade;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26739,7 +26739,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE84094F5;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26764,7 +26764,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE8617692;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26789,7 +26789,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE86FF547;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26850,7 +26850,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE880B151;
-	  x mesh_guid = 0x0000000B;
+	  x mesh_guid = 0x05100b7d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26875,7 +26875,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE95E195B;
-	  x mesh_guid = 0x00000077;
+	  x mesh_guid = 0x05100377;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26912,7 +26912,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE9EF7EA1;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -26961,7 +26961,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xEA5BB947;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27022,7 +27022,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xEAB72348;
-	  x mesh_guid = 0x0000005A;
+	  x mesh_guid = 0x05100b7c;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27047,7 +27047,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xEABCC0DC;
-	  x mesh_guid = 0x00000078;
+	  x mesh_guid = 0x05100a50;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27108,7 +27108,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xEAC39A25;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27169,7 +27169,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xEACE1D95;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27206,7 +27206,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xEB2DB995;
-	  x mesh_guid = 0x00000003;
+	  x mesh_guid = 0x05100adc;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27243,7 +27243,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xEB647740;
-	  x mesh_guid = 0x00000054;
+	  x mesh_guid = 0x05100ace;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27280,7 +27280,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xEBF0A03F;
-	  x mesh_guid = 0x00000024;
+	  x mesh_guid = 0x05100be4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27317,7 +27317,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xED5DC624;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27378,7 +27378,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xEE01B396;
-	  x mesh_guid = 0x00000025;
+	  x mesh_guid = 0x0510068a;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27397,7 +27397,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xEE0205B4;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27434,7 +27434,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xEE224EA4;
-	  x mesh_guid = 0x00000079;
+	  x mesh_guid = 0x05100c0f;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27471,7 +27471,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xEE33C790;
-	  x mesh_guid = 0x0000000E;
+	  x mesh_guid = 0x05100c08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27502,7 +27502,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xEEB1B396;
-	  x mesh_guid = 0x0000003D;
+	  x mesh_guid = 0x05100b43;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0xFFFFFFFF;
@@ -27521,7 +27521,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xEEFAA076;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27558,7 +27558,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xEF12D218;
-	  x mesh_guid = 0x00000024;
+	  x mesh_guid = 0x05100be4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27601,7 +27601,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xEF53009D;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27650,7 +27650,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xEFBB49CE;
-	  x mesh_guid = 0x00000064;
+	  x mesh_guid = 0x05100bdb;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27687,7 +27687,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xEFD73611;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27730,7 +27730,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xEFDBBC54;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27779,7 +27779,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF066B0AF;
-	  x mesh_guid = 0x0000001F;
+	  x mesh_guid = 0x051006f4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27816,7 +27816,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF06E95DA;
-	  x mesh_guid = 0x0000000A;
+	  x mesh_guid = 0x05100c29;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27847,7 +27847,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF0D59619;
-	  x mesh_guid = 0x0000006E;
+	  x mesh_guid = 0x05100b14;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27884,7 +27884,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF0EBD03B;
-	  x mesh_guid = 0x0000007A;
+	  x mesh_guid = 0x05100776;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27921,7 +27921,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF1A5C3EB;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27946,7 +27946,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF27F1106;
-	  x mesh_guid = 0x00000025;
+	  x mesh_guid = 0x0510068a;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -27965,7 +27965,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF2821554;
-	  x mesh_guid = 0x0000007B;
+	  x mesh_guid = 0x05100b42;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28032,7 +28032,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF2ACDCE1;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28069,7 +28069,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF2DC776D;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28130,7 +28130,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF324BC37;
-	  x mesh_guid = 0x0000007C;
+	  x mesh_guid = 0x0510033e;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28161,7 +28161,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF44A388F;
-	  x mesh_guid = 0x0000001B;
+	  x mesh_guid = 0x05100c2c;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28222,7 +28222,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF55576C0;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28247,7 +28247,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF55DC867;
-	  x mesh_guid = 0x00000015;
+	  x mesh_guid = 0x05100c2a;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28284,7 +28284,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF63F239B;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28309,7 +28309,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF69E994C;
-	  x mesh_guid = 0x0000007B;
+	  x mesh_guid = 0x05100b42;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28376,7 +28376,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF6C1AC23;
-	  x mesh_guid = 0x00000024;
+	  x mesh_guid = 0x05100be4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28425,7 +28425,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF6DA91CA;
-	  x mesh_guid = 0x0000004B;
+	  x mesh_guid = 0x05100c2b;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28462,7 +28462,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF6F0E245;
-	  x mesh_guid = 0x0000000A;
+	  x mesh_guid = 0x05100c29;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28493,7 +28493,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF77F3A8B;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28530,7 +28530,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF789A40D;
-	  x mesh_guid = 0x0000007D;
+	  x mesh_guid = 0x05100b05;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28555,7 +28555,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF7A46DAE;
-	  x mesh_guid = 0x00000024;
+	  x mesh_guid = 0x05100be4;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28604,7 +28604,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF8340C42;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28641,7 +28641,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF84F6222;
-	  x mesh_guid = 0x00000006;
+	  x mesh_guid = 0x05100b0b;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28678,7 +28678,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF86F2070;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28727,7 +28727,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF9E0A64C;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28788,7 +28788,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF9EC05BC;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28825,7 +28825,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xFA4E9672;
-	  x mesh_guid = 0x00000027;
+	  x mesh_guid = 0x051000e3;
 	  x nodelevel = 0x00000006;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28850,7 +28850,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xFA8FBF52;
-	  x mesh_guid = 0x00000008;
+	  x mesh_guid = 0x05100b0d;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28911,7 +28911,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xFACF26AC;
-	  x mesh_guid = 0x00000017;
+	  x mesh_guid = 0x05100c12;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28948,7 +28948,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xFB24206C;
-	  x mesh_guid = 0x00000021;
+	  x mesh_guid = 0x05100b85;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -28991,7 +28991,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xFC1A5A55;
-	  x mesh_guid = 0x0000002D;
+	  x mesh_guid = 0x05100c31;
 	  x nodelevel = 0x00000001;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -29040,7 +29040,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xFC7C08F1;
-	  x mesh_guid = 0x0000007E;
+	  x mesh_guid = 0x05100b08;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -29077,7 +29077,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xFC8319C7;
-	  x mesh_guid = 0x00000021;
+	  x mesh_guid = 0x05100b85;
 	  x nodelevel = 0x00000064;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -29120,7 +29120,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xFC9754E7;
-	  x mesh_guid = 0x00000003;
+	  x mesh_guid = 0x05100adc;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -29157,7 +29157,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xFE19DD45;
-	  x mesh_guid = 0x00000005;
+	  x mesh_guid = 0x05100b07;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;
@@ -29194,7 +29194,7 @@
 	  b bounds_camera = true;
 	  b camera_fade = false;
 	  x guid = 0xFE2BC70A;
-	  x mesh_guid = 0x0000000D;
+	  x mesh_guid = 0x05100b77;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0xFFFFFFFF;
@@ -29213,7 +29213,7 @@
 	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xFEE983D0;
-	  x mesh_guid = 0x0000007F;
+	  x mesh_guid = 0x05100c17;
 	  x nodelevel = 0xFFFFFFFF;
 	  x nodeobject = 0xFFFFFFFF;
 	  x nodesection = 0x00000001;

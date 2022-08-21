@@ -1,17 +1,17 @@
 [node_mesh_index]
 {
-	0x00000001 = t_dc01_drglair_back-a;
-	0x00000002 = t_dc01_drglair-03;
-	0x00000003 = t_dc01_drglair-00-portal-top;
-	0x00000004 = t_dc01_drglair_inset;
-	0x00000005 = t_dc01_drglair-00-portalstrip;
-	0x00000006 = t_dc01_drglair-00;
-	0x00000007 = t_dc01_drglair-00-wallstrip-a;
-	0x00000008 = t_dc01_drglair-00-wall-top;
-	0x00000009 = t_dc01_drglair_back-b;
-	0x0000000A = t_dc01_drglair-00-ledge-strip;
-	0x0000000B = t_dc01_drglair-00-wallstrip-b;
-	0x0000000C = t_dc01_drglair-01;
-	0x0000000D = t_dc01_drglair-04;
-	0x0000000E = t_dc01_drglair-02;
+	0x00d0016c = t_dc01_drglair-00-ledge-strip;
+	0x00d0016d = t_dc01_drglair-00-portal-top;
+	0x00d0016e = t_dc01_drglair-00-portalstrip;
+	0x00d0016f = t_dc01_drglair-00-wall-top;
+	0x00d00170 = t_dc01_drglair-00-wallstrip-a;
+	0x00d00171 = t_dc01_drglair-00-wallstrip-b;
+	0x00d00172 = t_dc01_drglair-00;
+	0x00d00173 = t_dc01_drglair-01;
+	0x00d00174 = t_dc01_drglair-02;
+	0x00d00175 = t_dc01_drglair-03;
+	0x00d00176 = t_dc01_drglair-04;
+	0x00d00177 = t_dc01_drglair_back-a;
+	0x00d00178 = t_dc01_drglair_back-b;
+	0x00d0017b = t_dc01_drglair_inset;
 }

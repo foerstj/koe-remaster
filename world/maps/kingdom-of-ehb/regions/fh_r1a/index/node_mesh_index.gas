@@ -1,13 +1,13 @@
 [node_mesh_index]
 {
-	0x00000001 = t_xxx_flr_04x08-v0;
-	0x00000002 = t_xxx_ruin_flr-plate-08x04-a;
-	0x00000003 = t_xxx_ruin_flr-plate-04x04-a;
-	0x00000004 = t_xxx_flr_08x08-v0;
-	0x00000005 = t_xxx_ruin_flr-04x04-b;
-	0x00000006 = t_xxx_ruin_flr-plate-cncv-a;
-	0x00000007 = t_xxx_ruin_support-08x04-a;
-	0x00000008 = t_xxx_ruin_pillar-a;
-	0x00000009 = t_xxx_ruin_pillar-b;
-	0x0000000A = t_xxx_ruin_well-08x08-a;
+	0x08d006f3 = t_xxx_flr_04x08-v0;
+	0x08d006f4 = t_xxx_flr_08x08-v0;
+	0x08d0092b = t_xxx_ruin_flr-04x04-b;
+	0x08d0092d = t_xxx_ruin_flr-plate-04x04-a;
+	0x08d0092e = t_xxx_ruin_flr-plate-08x04-a;
+	0x08d0092f = t_xxx_ruin_flr-plate-cncv-a;
+	0x08d00944 = t_xxx_ruin_pillar-a;
+	0x08d00945 = t_xxx_ruin_pillar-b;
+	0x08d0094f = t_xxx_ruin_support-08x04-a;
+	0x08d00957 = t_xxx_ruin_well-08x08-a;
 }
