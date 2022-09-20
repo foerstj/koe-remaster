@@ -14,6 +14,13 @@ This map is re-buildable and editable. I opened & saved every region in Siege Ed
   The generated file name is *Dungeon Siege/Maps/Kingdom of Ehb.dsmap*.\
   The ingame name is *Kingdom of Ehb (remastered)*.
 
+## What I did (revisit)
+
+The "revisited" map variant is based on the remaster, with these changes applied:
+- Brushed up plants that had default scaling / orientation
+- Added veteran / elite world levels
+- Renamed map ingame to *Kingdom of Ehb (revisited)*.
+
 ## How to build
 
 GasPy repo: https://github.com/foerstj/gaspy
