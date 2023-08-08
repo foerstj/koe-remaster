@@ -1,17 +1,17 @@
 [node_mesh_index]
 {
-	0x061005bb = t_xxx_dgn_cnr_ex-ccav-c;
-	0x061005bf = t_xxx_dgn_cnr_ex-cnvx-c;
-	0x061005ec = t_xxx_dgn_flr_04x04-a;
-	0x0610061f = t_xxx_dgn_flr_mist-08x08-a;
-	0x06100621 = t_xxx_dgn_flr_mist-16x08-a;
-	0x06100622 = t_xxx_dgn_flr_mist-16x16-a;
-	0x06100627 = t_xxx_dgn_flr_stair-cncv-a;
-	0x0610062c = t_xxx_dgn_flr_stair-thin-a;
-	0x0610065b = t_xxx_dgn_wal_archway-b;
-	0x0610065c = t_xxx_dgn_wal_ex-alcove-a;
-	0x06100666 = t_xxx_dgn_wal_ex-thick-a;
-	0x06100667 = t_xxx_dgn_wal_ex-thin-a;
-	0x0610067f = t_xxx_dgn_cap-08x04-a;
-	0x06100684 = t_xxx_dgn_cap-archway-b;
+	0x06100571 = t_xxx_dgn_cnr_ex-ccav-c;
+	0x06100575 = t_xxx_dgn_cnr_ex-cnvx-c;
+	0x061005a2 = t_xxx_dgn_flr_04x04-a;
+	0x061005d5 = t_xxx_dgn_flr_mist-08x08-a;
+	0x061005d7 = t_xxx_dgn_flr_mist-16x08-a;
+	0x061005d8 = t_xxx_dgn_flr_mist-16x16-a;
+	0x061005dd = t_xxx_dgn_flr_stair-cncv-a;
+	0x061005e2 = t_xxx_dgn_flr_stair-thin-a;
+	0x06100611 = t_xxx_dgn_wal_archway-b;
+	0x06100612 = t_xxx_dgn_wal_ex-alcove-a;
+	0x0610061c = t_xxx_dgn_wal_ex-thick-a;
+	0x0610061d = t_xxx_dgn_wal_ex-thin-a;
+	0x06100635 = t_xxx_dgn_cap-08x04-a;
+	0x0610063a = t_xxx_dgn_cap-archway-b;
 }
