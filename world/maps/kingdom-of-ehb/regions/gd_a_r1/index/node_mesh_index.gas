@@ -145,15 +145,15 @@
 	0x01f003d0 = t_dgn02_lavacavern-entry-sides;
 	0x01f003d1 = t_dgn02_lavacavern-entry-top;
 	0x01f003d2 = t_dgn02_lavacavern-entry;
-	0x01f005fd = t_xxx_dgn_flr_ele-round-alpha-strip;
-	0x01f005ff = t_xxx_dgn_flr_ele-round-groundplate;
-	0x01f00600 = t_xxx_dgn_flr_ele-round-platform-01;
-	0x01f00606 = t_xxx_dgn_flr_ele-round-tube-bottom;
-	0x01f00607 = t_xxx_dgn_flr_ele-round-tube;
-	0x01f00688 = t_xxx_dgn_cap-vertical-04x04-a;
-	0x01f0068b = t_xxx_dgn_cap-vertical-04x08-b;
-	0x01f006ef = t_xxx_flr_04x04-v0;
-	0x01f006f3 = t_xxx_flr_04x08-v0;
-	0x01f006fd = t_xxx_flr_brdr-black-04x04-a;
-	0x01f006fe = t_xxx_flr_brdr-black-08x08-a;
+	0x01f005b3 = t_xxx_dgn_flr_ele-round-alpha-strip;
+	0x01f005b5 = t_xxx_dgn_flr_ele-round-groundplate;
+	0x01f005b6 = t_xxx_dgn_flr_ele-round-platform-01;
+	0x01f005bc = t_xxx_dgn_flr_ele-round-tube-bottom;
+	0x01f005bd = t_xxx_dgn_flr_ele-round-tube;
+	0x01f0063e = t_xxx_dgn_cap-vertical-04x04-a;
+	0x01f00641 = t_xxx_dgn_cap-vertical-04x08-b;
+	0x01f006a5 = t_xxx_flr_04x04-v0;
+	0x01f006a9 = t_xxx_flr_04x08-v0;
+	0x01f006b3 = t_xxx_flr_brdr-black-04x04-a;
+	0x01f006b4 = t_xxx_flr_brdr-black-08x08-a;
 }
