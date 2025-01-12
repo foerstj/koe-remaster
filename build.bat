@@ -20,11 +20,13 @@ robocopy "%bits%\world\maps\%map%" "%tmp%\Bits\world\maps\%map%" /E
 pushd %gaspy%
 venv\Scripts\python -m build.fix_start_positions_required_levels %map% --bits "%tmp%\Bits"
 if %errorlevel% neq 0 pause
+setlocal EnableDelayedExpansion
 if "%mode%"=="release" (
   venv\Scripts\python -m build.add_world_levels %map% --bits "%tmp%\Bits" --template-bits "%bits%"
   if !errorlevel! neq 0 pause
 )
 popd
+endlocal
 "%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\Maps\%map_cs%.dsmap" -copyright "GPG 2002" -title "%map_cs%" -author "Johannes Förstner"
 if %errorlevel% neq 0 pause
 
