@@ -2,8 +2,8 @@
 {
 	[generator_advanced_a2]
 	{
-		child_template_name = "klaw";
 	  x initial_command = 0x0270035E;
+	  i num_children_incubating = 0;
 	  x spawnpoint = 0x02700335;
 	}
 	[placement]

@@ -44,6 +44,10 @@
 }
 [t:wolf_white,n:0x0270035f]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.92388,0,0.382683;
@@ -52,6 +56,10 @@
 }
 [t:wolf_white,n:0x02700361]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,1,0,0;
@@ -60,6 +68,10 @@
 }
 [t:wolf_white,n:0x02700360]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.923879,0,0.382683;
