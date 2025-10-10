@@ -1,5 +1,9 @@
 [t:braak_magic,n:0x04c005b2]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.382683,0,0.92388;
@@ -8,6 +12,10 @@
 }
 [t:braak_magic,n:0x04c005b3]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.382683,0,0.92388;
@@ -16,6 +24,10 @@
 }
 [t:braak_magic,n:0x04c005b4]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.382683,0,0.92388;
@@ -24,6 +36,10 @@
 }
 [t:braak_magic,n:0x04c005b5]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.382683,0,0.92388;
@@ -32,6 +48,10 @@
 }
 [t:braak_magic,n:0x04c005ca]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.382683,0,0.92388;
@@ -40,6 +60,10 @@
 }
 [t:braak_magic,n:0x04c00399]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.382683,0,0.92388;
@@ -48,6 +72,10 @@
 }
 [t:braak_magic,n:0x04c005ad]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.382683,0,0.92388;
@@ -56,6 +84,10 @@
 }
 [t:braak_magic,n:0x04c005cc]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.382683,0,0.92388;
@@ -64,6 +96,10 @@
 }
 [t:braak_magic,n:0x04c005ae]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.382683,0,0.92388;
@@ -72,6 +108,10 @@
 }
 [t:klaw,n:0x04c005af]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  p position = 2.00703,0,-0.241165,0xa4609125;
@@ -79,6 +119,10 @@
 }
 [t:klaw,n:0x04c005b0]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.92388,0,0.382683;
@@ -87,6 +131,10 @@
 }
 [t:klaw,n:0x04c005b1]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.707107,0,0.707107;
@@ -95,6 +143,10 @@
 }
 [t:wolf_white,n:0x04c00527]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.707107,0,0.707107;
@@ -103,6 +155,10 @@
 }
 [t:wolf_white,n:0x04c005a9]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,-1,0,-1.49012e-007;
@@ -111,6 +167,10 @@
 }
 [t:wolf_white,n:0x04c005aa]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.707107,0,-0.707107;
@@ -119,6 +179,10 @@
 }
 [t:wolf_white,n:0x04c005ab]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.923879,0,-0.382684;
@@ -127,6 +191,10 @@
 }
 [t:wolf_white,n:0x04c005ac]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.382683,0,0.92388;
@@ -135,6 +203,10 @@
 }
 [t:wolf_white,n:0x04c000cf]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[mind]
 	{
 	  x initial_command = 0x04C000D1;
@@ -147,6 +219,10 @@
 }
 [t:wolf_white,n:0x04c000a8]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[mind]
 	{
 	  x initial_command = 0x04C00202;
@@ -158,6 +234,10 @@
 }
 [t:wolf_white,n:0x04c005a7]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.382683,0,0.92388;
@@ -166,6 +246,10 @@
 }
 [t:wolf_white,n:0x04c005a8]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.382683,0,0.92388;
@@ -174,6 +258,10 @@
 }
 [t:wolf_white,n:0x04c005be]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.92388,0,0.382683;
@@ -182,6 +270,10 @@
 }
 [t:wolf_white,n:0x04c005cb]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.707107,0,-0.707107;
@@ -190,6 +282,10 @@
 }
 [t:wolf_white,n:0x04c005b6]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  p position = 3.65666,0,0.294821,0xac7815ad;
@@ -197,6 +293,10 @@
 }
 [t:wolf_white,n:0x04c005b7]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,1,0,-1.49012e-007;
@@ -205,6 +305,10 @@
 }
 [t:wolf_white,n:0x04c005b8]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.707107,0,-0.707107;
@@ -213,6 +317,10 @@
 }
 [t:wolf_white,n:0x04c005b9]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.382683,0,0.92388;
@@ -221,6 +329,10 @@
 }
 [t:wolf_white,n:0x04c005ba]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.382683,0,0.92388;
@@ -229,6 +341,10 @@
 }
 [t:wolf_white,n:0x04c005bc]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.923879,0,-0.382684;
@@ -237,6 +353,10 @@
 }
 [t:furok,n:0x04c00395]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,5.96046e-007,0,1;
@@ -245,6 +365,10 @@
 }
 [t:klaw_boss_01,n:0x04c006b3]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.866026,0,-0.5;
@@ -253,6 +377,10 @@
 }
 [t:klaw,n:0x04c0035d]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,1,0,2.68221e-007;
@@ -261,6 +389,10 @@
 }
 [t:klaw,n:0x04c00349]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.382683,0,0.92388;
@@ -269,6 +401,10 @@
 }
 [t:klaw,n:0x04c00353]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,2.98023e-008,0,1;
@@ -277,6 +413,10 @@
 }
 [t:furok,n:0x04c003b8]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.382683,0,0.92388;
@@ -285,6 +425,10 @@
 }
 [t:furok,n:0x04c0035e]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.707107,0,0.707107;
@@ -293,6 +437,10 @@
 }
 [t:wolf_white,n:0x04c005bb]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  p position = 2.13327,1.90735e-006,1.92358,0x26f7dad1;
@@ -300,6 +448,10 @@
 }
 [t:wolf_white,n:0x04c005bd]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.382683,0,0.92388;
@@ -308,6 +460,10 @@
 }
 [t:braak_magic,n:0x04c0037d]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.707107,0,0.707107;
@@ -316,6 +472,10 @@
 }
 [t:braak_magic,n:0x04c00397]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.92388,0,0.382683;
@@ -324,6 +484,10 @@
 }
 [t:braak_magic,n:0x04c00378]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,-1,0,-1.49012e-007;
@@ -332,6 +496,10 @@
 }
 [t:braak_magic,n:0x04c00389]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,-3.57628e-007,0,-1;
@@ -340,6 +508,10 @@
 }
 [t:braak_magic,n:0x04c005bf]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  p position = -2.76437,0,0.904152,0x84f947d8;
@@ -347,6 +519,10 @@
 }
 [t:braak_magic,n:0x04c005c0]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  p position = -1.60677,0,0.941849,0x84f947d8;
@@ -354,6 +530,10 @@
 }
 [t:braak_magic,n:0x04c005c1]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  p position = -0.585144,0,0.553551,0x84f947d8;
@@ -361,6 +541,10 @@
 }
 [t:braak_magic,n:0x04c005c2]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  p position = -1.48144,0,0.11837,0x84f947d8;
@@ -368,6 +552,10 @@
 }
 [t:braak_magic,n:0x04c005c3]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.382683,0,0.92388;
@@ -376,6 +564,10 @@
 }
 [t:braak_magic,n:0x04c005c4]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.382683,0,0.92388;
@@ -384,6 +576,10 @@
 }
 [t:braak_magic,n:0x04c005c5]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.382683,0,0.92388;
@@ -392,6 +588,10 @@
 }
 [t:braak_magic,n:0x04c005c6]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.707107,0,0.707107;
@@ -400,6 +600,10 @@
 }
 [t:klaw,n:0x04c005c8]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.707107,0,0.707107;
@@ -408,6 +612,10 @@
 }
 [t:klaw,n:0x04c006ac]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.707107,0,0.707107;
@@ -416,6 +624,10 @@
 }
 [t:klaw,n:0x04c006b1]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.173648,0,0.984808;
@@ -424,6 +636,10 @@
 }
 [t:klaw,n:0x04c006b2]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.906308,0,0.422618;
@@ -432,6 +648,10 @@
 }
 [t:klaw,n:0x04c005c7]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.923879,0,-0.382684;
@@ -440,6 +660,10 @@
 }
 [t:klaw,n:0x04c005c9]
 {
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.923879,0,-0.382684;

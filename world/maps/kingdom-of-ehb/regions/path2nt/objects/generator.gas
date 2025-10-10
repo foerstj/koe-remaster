@@ -2,8 +2,8 @@
 {
 	[generator_advanced_a2]
 	{
-		child_template_name = "klaw";
 	  x initial_command = 0x04C003F9;
+	  i num_children_incubating = 0;
 	  x spawnpoint = 0x04C00366;
 	}
 	[placement]
@@ -15,10 +15,9 @@
 {
 	[generator_advanced_a2]
 	{
-		child_template_name = "klaw";
 	  x initial_command = 0x04C0049A;
 	  i max_alive_children = 2;
-	  i num_children_incubating = 3;
+	  i num_children_incubating = 0;
 	  x spawnpoint = 0x04C003B7;
 	}
 	[placement]
@@ -31,8 +30,8 @@
 {
 	[generator_advanced_a2]
 	{
-		child_template_name = "klaw";
 	  x initial_command = 0x04C003FC;
+	  i num_children_incubating = 0;
 	  x spawnpoint = 0x04C0038A;
 	}
 	[placement]
@@ -45,8 +44,8 @@
 {
 	[generator_advanced_a2]
 	{
-		child_template_name = "wolf_white";
 	  x initial_command = 0x04C003FA;
+	  i num_children_incubating = 0;
 	  x spawnpoint = 0x04C00386;
 	}
 	[placement]
@@ -58,10 +57,9 @@
 {
 	[generator_advanced_a2]
 	{
-		child_template_name = "klaw";
 	  x initial_command = 0x04C003FB;
 	  i max_alive_children = 2;
-	  i num_children_incubating = 2;
+	  i num_children_incubating = 0;
 	  x spawnpoint = 0x04C0038C;
 	}
 	[placement]
@@ -74,10 +72,9 @@
 {
 	[generator_advanced_a2]
 	{
-		child_template_name = "klaw";
 	  x initial_command = 0x04C0049B;
 	  i max_alive_children = 2;
-	  i num_children_incubating = 2;
+	  i num_children_incubating = 0;
 	  x spawnpoint = 0x04C003E5;
 	}
 	[placement]
@@ -90,10 +87,9 @@
 {
 	[generator_advanced_a2]
 	{
-		child_template_name = "wolf_white";
 	  x initial_command = 0x04C004A4;
 	  i max_alive_children = 3;
-	  i num_children_incubating = 5;
+	  i num_children_incubating = 0;
 	  x spawnpoint = 0x04C004A2;
 	}
 	[placement]
