@@ -2759,6 +2759,29 @@
 			}
 		}
 	}
+	[t:start_group,n:lucia]
+	{
+	  b default = false;
+		description = "Sankta Lucia starting point";
+	  b dev_only = false;
+	  i id = 1698412;
+		screen_name = "Sankta Lucia";
+		[start_position]
+		{
+		  i id = 1;
+			position = 0,-40,0,0xA612DBC8;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 0,-40,0,0xA612DBC8;
+			}
+		}
+		[world_levels]
+		{
+		}
+	}
 	[t:start_group,n:ruins_shop]
 	{
 	  b default = false;
