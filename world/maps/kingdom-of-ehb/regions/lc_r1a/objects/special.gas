@@ -110,7 +110,7 @@
 	}
 	[placement]
 	{
-	  p position = -0.0884399,-0.461335,-0.126557,0x78b439c6;
+	  p position = 0,-0.5,0,0x78b439c6;
 	}
 }
 [t:use_point,n:0x06b00123]

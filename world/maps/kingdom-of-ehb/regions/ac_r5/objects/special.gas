@@ -402,6 +402,6 @@
 	}
 	[placement]
 	{
-	  p position = 0.0261459,-0.0593371,-0.0845909,0x1ede73d2;
+	  p position = 0,0,0,0x1ede73d2;
 	}
 }

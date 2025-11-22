@@ -2387,8 +2387,7 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,-0.707107,0,0.707107;
-	  p position = -0.0123425,-0.50394,-0.0558624,0x21f7e7ac;
+	  p position = 0,-0.5,0,0x21f7e7ac;
 	}
 }
 [t:use_point,n:0x00a00337]

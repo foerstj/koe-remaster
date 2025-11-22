@@ -320,7 +320,7 @@
 	}
 	[placement]
 	{
-	  p position = 0.0318451,0.0536797,-0.0780258,0x2d1cbb6c;
+	  p position = 0,0,0,0x2d1cbb6c;
 	}
 }
 [t:trigger_mana_shrine,n:0x04e00234]

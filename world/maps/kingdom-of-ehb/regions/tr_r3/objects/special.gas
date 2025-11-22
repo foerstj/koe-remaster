@@ -594,8 +594,7 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,-0.861629,0,0.507539;
-	  p position = -0.0452881,-0.0335822,0.0291357,0x4342e614;
+	  p position = 0,0,0,0x4342e614;
 	}
 }
 [t:trigger_generic,n:0x06200941]

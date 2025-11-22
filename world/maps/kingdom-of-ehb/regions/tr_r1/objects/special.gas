@@ -144,7 +144,7 @@
 	}
 	[placement]
 	{
-	  p position = 0.00603676,-0.440358,-0.0280952,0x744c06d4;
+	  p position = 0,-0.5,0,0x744c06d4;
 	}
 }
 [t:trigger_fade_node_box,n:0x04d0000d]

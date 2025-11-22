@@ -296,7 +296,7 @@
 	}
 	[placement]
 	{
-	  p position = 0.059864,-0.441318,0.0944061,0x332ba15c;
+	  p position = 0,-0.5,0,0x332ba15c;
 	}
 }
 [t:event_manager,n:0x03a001b3]
