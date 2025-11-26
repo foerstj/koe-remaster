@@ -30,12 +30,12 @@
 	  p position = -3.65963,-4.33859,3.39437,0xe940973a;
 	}
 }
-[t:emt_sound,n:0x00600489]
+[t:emt_sound,n:0x0060048c]
 {
 	[placement]
 	{
 	  q orientation = 0,0.999657,0,0.0261768;
-	  p position = 1.70375,-13.7278,-36.1669,0x43c4255e;
+	  p position = -0.819931,-13.6825,-36.6148,0x296556b2;
 	}
 	[sound_emitter]
 	{
@@ -43,12 +43,12 @@
 		event_sound = "env_lakeside";
 	}
 }
-[t:emt_sound,n:0x0060048a]
+[t:emt_sound,n:0x0060048d]
 {
 	[placement]
 	{
 	  q orientation = 0,0.999657,0,0.0261768;
-	  p position = -19.5002,-13.75,-36.7802,0x43c4255e;
+	  p position = -15.0823,-13.7229,-36.3666,0x296556b2;
 	}
 	[sound_emitter]
 	{
@@ -67,40 +67,6 @@
 	{
 	  b continual_loop = true;
 		event_sound = "env_lakeside";
-	}
-}
-[t:emt_sound,n:0x00600490]
-{
-	[placement]
-	{
-	  q orientation = 0,-0.725374,0,0.688355;
-	  p position = 1.98034,0,-1.59298,0x5c29d5ea;
-	}
-	[sound_emitter]
-	{
-		event_sound = "amb_crickets";
-	  f max_repeat_rate = 15;
-	  f repeat_rate = 1;
-	  i start_hour = 1;
-	  i stop_hour = 4;
-	  i time_chunk = 1;
-	}
-}
-[t:emt_sound,n:0x0060048f]
-{
-	[placement]
-	{
-	  q orientation = 0,0.999657,0,0.0261768;
-	  p position = -0.719971,-1,-2.46857,0xd955064e;
-	}
-	[sound_emitter]
-	{
-		event_sound = "amb_crickets";
-	  f max_repeat_rate = 15;
-	  f repeat_rate = 1;
-	  i start_hour = 1;
-	  i stop_hour = 4;
-	  i time_chunk = 1;
 	}
 }
 [t:emt_sound,n:0x0060046c]
@@ -285,6 +251,66 @@
 	  p position = 4.37937,2,-4.53724,0x2dd51fe0;
 	}
 }
+[t:emt_sound,n:0x00600490]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.725374,0,0.688355;
+	  p position = 1.98034,0,-1.59298,0x5c29d5ea;
+	}
+	[sound_emitter]
+	{
+		event_sound = "amb_crickets";
+	  f max_repeat_rate = 15;
+	  f repeat_rate = 1;
+	  i start_hour = 1;
+	  i stop_hour = 4;
+	  i time_chunk = 1;
+	}
+}
+[t:emt_sound,n:0x00600489]
+{
+	[placement]
+	{
+	  q orientation = 0,0.999657,0,0.0261768;
+	  p position = 1.70375,-13.7278,-36.1669,0x43c4255e;
+	}
+	[sound_emitter]
+	{
+	  b continual_loop = true;
+		event_sound = "env_lakeside";
+	}
+}
+[t:emt_sound,n:0x0060048a]
+{
+	[placement]
+	{
+	  q orientation = 0,0.999657,0,0.0261768;
+	  p position = -19.5002,-13.75,-36.7802,0x43c4255e;
+	}
+	[sound_emitter]
+	{
+	  b continual_loop = true;
+		event_sound = "env_lakeside";
+	}
+}
+[t:emt_sound,n:0x0060048f]
+{
+	[placement]
+	{
+	  q orientation = 0,0.999657,0,0.0261768;
+	  p position = -0.719971,-1,-2.46857,0xd955064e;
+	}
+	[sound_emitter]
+	{
+		event_sound = "amb_crickets";
+	  f max_repeat_rate = 15;
+	  f repeat_rate = 1;
+	  i start_hour = 1;
+	  i stop_hour = 4;
+	  i time_chunk = 1;
+	}
+}
 [t:emt_sound,n:0x0060048e]
 {
 	[placement]
@@ -300,32 +326,6 @@
 	  i start_hour = 1;
 	  i stop_hour = 4;
 	  i time_chunk = 1;
-	}
-}
-[t:emt_sound,n:0x0060048c]
-{
-	[placement]
-	{
-	  q orientation = 0,0.999657,0,0.0261768;
-	  p position = -0.819931,-13.6825,-36.6148,0x296556b2;
-	}
-	[sound_emitter]
-	{
-	  b continual_loop = true;
-		event_sound = "env_lakeside";
-	}
-}
-[t:emt_sound,n:0x0060048d]
-{
-	[placement]
-	{
-	  q orientation = 0,0.999657,0,0.0261768;
-	  p position = -15.0823,-13.7229,-36.3666,0x296556b2;
-	}
-	[sound_emitter]
-	{
-	  b continual_loop = true;
-		event_sound = "env_lakeside";
 	}
 }
 [t:emitter_glb_smoke_01,n:0x0060037e]
