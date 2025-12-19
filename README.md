@@ -17,9 +17,13 @@ This map is re-buildable and editable. I opened & saved every region in Siege Ed
 ## What I did (revisit)
 
 The "revisited" map variant is based on the remaster, with these changes applied:
+- Renamed map ingame to *Kingdom of Ehb (revisited)*
 - Brushed up plants that had default scaling / orientation
 - Added veteran / elite world levels
-- Renamed map ingame to *Kingdom of Ehb (revisited)*.
+- Removed cam-blocking on some terrain nodes like rope bridges for smoother camera movement
+- Turned around North vector in Glacern cellar
+- Added more lake water terrain in Stonebridge for players using SeeFar
+- Added support for Thrillvilled's voices mod
 
 ## How to build
 
