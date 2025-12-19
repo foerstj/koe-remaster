@@ -50,7 +50,7 @@
 {
 	[text*]
 	{
-		//sample = s_v_greet_male_heythere;
+		sample = s_v_sb_guard_1;
 		screen_text = "Welcome to Stonebridge, stranger. You fought your way past all those Krug? I guess the mob that blew through here last night must have moved on to the farmlands.";
 	}
 }
@@ -58,7 +58,7 @@
 {
 	[text*]
 	{
-		//sample = s_v_greet_male_hello;
+		sample = s_v_sb_guard2_1;
 		screen_text = "You'll have to forgive the mess; we're still recovering from the last wave of Krug that broke through the gates. I think most of the shops are still open for business, but they won't have much left after the looting.";
 	}
 }
@@ -66,7 +66,7 @@
 {
 	[text*]
 	{
-		//sample = s_v_greet_male_hailmyfriend;
+		sample = s_v_sb_guard3_1;
         	activate_quest* = quest_open_gate;
 		screen_text = "If you're headed north, we haven't seen anything but Krug come from that direction since the attack last night. If you manage to clear Glitterdelve Pass, it's gonna be a lot easier for us to secure the road when Cap'n gives the word.";
 		quest_dialog = true;
@@ -76,7 +76,7 @@
 {
 	[text*]
 	{
-		//sample = s_v_greet_male_hi;
+		sample = s_v_sb_guard_captain;
 		screen_text = "You're safe enough here for now; I think the Krug have a bad taste for us after the slaughter we handed them last night.";
 	}
 }
@@ -273,18 +273,20 @@
 	[text*]
 	{
 		order = 0;
-		//sample = s_v_greet_female_hithere;
+		sample = s_v_xp_mara_1;
 		screen_text = "Why the Krug thought they would find magical artifacts in Stonebridge is beyond me. They came through breaking everything that didn't look magical and stealing everything that did. It was horrible!";
 		choice = more;
 	}
 	[text*]
 	{
 		order = 1;
+		sample = s_v_xp_mara_2;
 		screen_text = "A few pitchforks and rake handles aren't reason enough to put all of Stonebridge to the Tenstone!";
 		choice = more;
 	}
 	[text*]
 	{
+		sample = s_v_xp_mara_3;
 		screen_text = "Gresh say burn! Gresh say smash! If ever I find out who Gresh is, there will be some smashing and burning alright.";
 	}
 }
@@ -417,7 +419,7 @@
 {
 	[text*]
 	{
-		//sample = s_v_greet_female_young;	
+		sample = s_v_xp_ella_1;	
 		screen_text = "The raid last night was terrible! I barely escaped with my life. When my sister hears about what the Krug did to us here, she'll be furious! Oh! but she'll be worried that I was hurt. She's an archer in the Legion, stationed at Glacern. If you're going that way, could you tell her I'm all right? I'm sure she'll make it worth your while; her name is Ada.";
 		activate_quest* = quest_sister_message;
 		quest_dialog = true;
@@ -429,6 +431,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_ella_2;
 		screen_text = "Oh, I hope Ada's not worried about me.";
 	}
 }
@@ -437,12 +440,13 @@
 	[text*]
 	{
 		order = 0;
-		//sample = s_v_greet_female_howyadoin;	
+		sample = s_v_xp_kalice_1;	
 		screen_text = "Whoever taught those stupid Krug how to raise skeletons and set fire to good people's homes should be put to the Tenstone for what they have done.";
 		choice = more;
 	}
 	[text*]
 	{
+		sample = s_v_xp_kalice_2;
 		screen_text = "As if the raid weren't bad enough, those Krug vermin have brought those terrible insects from the mountains!";
 	}
 }
@@ -450,7 +454,7 @@
 {
 	[text*]
 	{
-		//sample = s_v_greet_male_howdy2;	
+		sample = s_v_xp_ordus_1;	
 		screen_text = "I was stationed at the northern guard tower when the Krug started hitting us in waves. If I hadn't been so blasted stubborn, I would have made it back in time to keep them from burning me out of my home. I'm sure the tower is overrun by now, but they might not have figured out the mechanism to enter the armory downstairs. I would hate to have any of our remaining weapons fall into Krug hands; if you are up to the task, you are welcome to them.";
        	button_1_text = "More";
        	button_1_value = talked_to_ordus;
@@ -461,6 +465,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_ordus_2;
 		screen_text = "As soon as I salvage what I can from my house, I'll be heading back to the tower.";
 	}
 }
@@ -469,24 +474,27 @@
 	[text*]
 	{
 		order = 0;
-		//sample = s_v_greet_female_newintown;	
+		sample = s_v_xp_alanna_1;	
 		screen_text = "You're the first farmer to come to our mill since those horrible Krug started their rampage. Oh, but you aren't coming to deliver grain, are you? If it is as bad as they say in the farmlands, we are in for hard times ahead.";
 		choice = more;
 	}
 	[text*]
 	{
 		order = 1;
+		sample = s_v_xp_alanna_2;
 		screen_text = "Since the Krug made off with most of our food stores, and the farmers aren't delivering their grain to the mill, we won't be able to feed ourselves for more than a week at best.";
 		choice = more;
 	}
 	[text*]
 	{
 		order = 2;
+		sample = s_v_xp_alanna_3;
 		screen_text = "I tried to get to the beach to catch some fish, but it looks like the Krug left behind some of those terrible skrubbs. I petitioned the Guard Captain to help clear the beach, but he doesn't seem to understand how much trouble we are in and he doesn't want to remove any guards from the gates until they are repaired.";
 		choice = more;
 		}
 	[text*]
 	{
+		sample = s_v_xp_alanna_4;
 		screen_text = "I could never do it, but if you are brave, and think you can clear off the beach, it would mean a lot to the townspeople.";
 	}
 }
@@ -494,6 +502,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_alanna_5;
 		screen_text = "Oh, thank you very much for clearing those horrible skrubb. At least now I can offer some help to my less fortunate neighbors.";
 	}
 }

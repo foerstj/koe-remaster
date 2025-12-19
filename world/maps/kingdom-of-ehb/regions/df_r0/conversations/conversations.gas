@@ -157,13 +157,14 @@
 	[text*]
 	{
 		order = 0;
-		//sample = s_v_greet_male_traveler;
+		sample = s_v_xp_male_traveler_1;
 		screen_text = "Vord travels fast of a hero braving ze perils of Fedwyrr's Vay despite ze Legion's withdrawal. Perhaps zhat hero is you? If so, ze Dark Sister would bid me tell you of our great peril, but you must promise not to vhisper a vord to any of ze vomen in our camp.";
 		choice = more;
 	}
 	[text*]
 	{
 		order = 1;
+		sample = s_v_xp_male_traveler_2;
 		screen_text = "In ze past, ze bandits tolerated us, as ve provided zhem with needed supplies, but since ze legion withdrew zheir patrols, ze bandits haf turned from robbing and pilfering caravans to murdering and plundering zhem. Zhis morning ve caught vone of zhem stealing from Yadze's tent. He stated zhat ze Bandit Boss now claims ownership of ze vomen and vares of our camp, and zhey will return zis evening in force to accept zheir payment. Zhe thought sickens me. Ve haf our backs against ze Green Range, but cannot brave Fedwyrr's Vay without Sikra and Boryev. If you are truly a hero, you must haf ze courage to confront ze Bandit Boss on our behalf. I have no bounty to offer in return, but he vill surely have amassed a fortune by now inside his bandit lair.";
 		choice = more;
 		scroll_rate = 6.8;
@@ -172,6 +173,7 @@
 	}
 	[text*]
 	{
+		sample = s_v_xp_male_traveler_3;
 		screen_text = "You are sworn to silence until you haf confronted ze Bandit Boss.";
 	}
 }
@@ -179,6 +181,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_male_traveler_4;
 		screen_text = "Your actions haf saved us from a fate vorse zhen death. On behalf of ze Travelers, ve are in your debt. May ze Dark Sister protect you in ze journeys ahead.";
 	}
 }
@@ -186,7 +189,7 @@
 {
 	[text*]
 	{
-		//sample = s_v_greet_female_traveler;
+		sample = s_v_xp_female_traveler_tent3_1;
 		order = 0;
 		screen_text = "It must be our lot in life to suffer cruel fate.";
 		choice = more;
@@ -194,11 +197,13 @@
 	[text*]
 	{
 		order = 1;
+		sample = s_v_xp_female_traveler_tent3_2;
 		screen_text = "Ze men of our camp concern themselves with ze bravado of ze harmless bandits, but I have foreseen dark visions far greater zhen ze bandits could ever be. Be warned if you are heading into ze swamps.";
 		choice = more;
 	}
 	[text*]
 	{
+		sample = s_v_xp_female_traveler_tent3_3;
 		screen_text = "For more zhen a month, my sisters and I haf been haunted by nightmares of a great army of goblins without souls. Zey bow before a great dark power zhat grows with every passing moment and feeds on ze vengeance and hatred of demons from ze abyss. I fear zhat ze goblin thirst for power may someday unleash terrors beyond zheir control.";
 	}
 }
@@ -206,13 +211,14 @@
 {
 	[text*]
 	{
-		//sample = s_v_greet_male_traveler;
+		sample = s_v_xp_male_traveler2_1;
 		order = 0;
 		screen_text = "Nong is so overvhelmed with grief about losing Sikra, he von't even acknowledge ze growing threat from ze bandits and goblins to ze east.";
 		choice = more;
 	}
 	[text*]
 	{
+		sample = s_v_xp_male_traveler2_2;
 		screen_text = "Ve haf made too many concessions to zhem ven all zhey vant is more. If ve still had Sikra and Boryev vith us ve could surely make a stand, but vithout zhem, zhey may kill us all.";
 	}
 }
@@ -220,7 +226,7 @@
 {
 	[text*]
 	{
-		//sample = s_v_greet_female_traveler;
+		sample = s_v_xp_female_traveler_tent4_1;
 		screen_text = "It is true ze bandits are using us for personal gain, but zey haf not openly attacked us. Ve are Travelers, not barbarians. Ve do not start fights, and zey would not dare to attack us.";
 	}
 }
@@ -229,11 +235,12 @@
 	[text*]
 	{
 		order = 0;
-		//sample = s_v_greet_male_traveler;
+		sample = s_v_xp_male_traveler3_1;
 		screen_text = "Ve are indeed beset by hard times. First sister Sikra is taken from us, and now ze bandits threaten us with bloodshed.";
 	}
 	[text*]
 	{
+		sample = s_v_xp_male_traveler3_2;
 		screen_text = "Ve had thought ze Legion patrols to be unfair in zheir delivery of justice. But now zhat zey are gone, ze bandits who once harbored us now greet us vith veiled threats.";
 	}
 }

@@ -43,12 +43,13 @@
 	[text*]
 	{
 		order = 0;
-		//sample = s_v_greet_male_startled;
+		sample = s_v_xp_trufus_1;
 		choice = more;
 		screen_text = "Well, I see the Seck ain't killt everyone at least. We weren't real sure if there was gonna be anyone left when we made our break.";
 	}
 	[text*]
 	{
+		sample = s_v_xp_trufus_2;
 		screen_text = "One thing's sure, we wasn't gonna take our chances any longer up there. Them Seck was lookin' at us like we was food.";
 	}
 }
@@ -58,11 +59,12 @@
 	{
 		order = 0;
 		choice = more;
-		//sample = s_v_greet_male_allochap;
+		sample = s_v_xp_deller_1;
 		screen_text = "Yer not gonna tell anyone we're down here, are ya? If the Seck don't eat us, Swanny probably will.";
 	}
 	[text*]
 	{
+		sample = s_v_xp_deller_2;
 		screen_text = "Old Swanny had it comin'. Serves 'im right to get tortured on 'is own racks. Them Seck musta broke him real quick though. I seen 'im prancin' up the hall with 'is bat in hand, yellin' fer gremals to play cricket wif.";
 	}
 }
@@ -72,11 +74,12 @@
 	{
 		order = 0;
 		choice = more;
-		//sample = s_v_greet_male_howdy;
+		sample = s_v_xp_mabdug_1;
 		screen_text = "Funny how ya get a lucky break once in a while. If'n that pack o' Seck hadn't broke into Deller's cell from these sewers, we never woulda known this place was down here.";
 	}
 	[text*]
 	{
+		sample = s_v_xp_mabdug_2;
 		screen_text = "Hein got us the picks and shovels, and gave us a shopping list to bring back if we made it out alive, can you believe that?";
 	}
 }

@@ -290,7 +290,7 @@
 {
 	[text*]
 	{
-		//sample = s_v_greet_male_howyadoin;
+		sample = s_v_fk_guard1_1;
 		screen_text = "You did mighty well out there with that necromancer Gresh. He's been terrorizing the region for days now. Ever since the last battle, he's been walking around calling us out to duel. We'd be crazy to go out there.";
 	}
 }
@@ -299,12 +299,13 @@
 	[text*]
 	{
 		order = 0;
-		//sample = s_v_greet_male_startled;
+		sample = s_v_fk_guard1_2;
 		screen_text = "This door leads to the shortest way into the desert; the Hall of Skulls is down there, so watch out. It's some kind of ancient shrine, and the Droog have been holding it for more than a week.";
 		choice = more;
 	}
 	[text*]
 	{
+		sample = s_v_fk_guard1_3;
 		screen_text = "A pike man saw the Droog drag a girl in through here during the battle; we sent a regiment after her, but they haven't returned. I'm sure they're all right; it's only Droog down there, after all, but they'd probably be glad of your help, all the same.";
 	}
 }
@@ -312,7 +313,7 @@
 {
 	[text*]
 	{
-		//sample = s_v_greet_male_howyadoin;
+		sample = s_v_fk_guard1_4;
 		screen_text = "You don't look Legion; are you our reinforcements? Whoever you are, welcome to Fortress Kroth, last bastion to Castle Ehb.";
 	}
 }
@@ -320,7 +321,7 @@
 {
 	[text*]
 	{
-		//sample = s_v_greet_dwarf_ahoythere;
+		sample = s_v_fk_guard_dwarf_1;
 		screen_text = "Go an' check in with Capn' Tarish. He'll be wantin' ta hear whatever news you got fer us.";
 	}
 }
@@ -328,7 +329,7 @@
 {
 	[text*]
 	{
-		//sample = s_v_greet_dwarf_heyhowyadoin;
+		sample = s_v_fk_guard_dwarf_2;
 		screen_text = "Oy was gettin' just aboot tired of hackin' at them skellies oll day long. Maybe they'll stay down fer good with that Krug-kisser Gresh gone.";
 	}
 }
@@ -336,7 +337,7 @@
 {
 	[text*]
 	{
-		//sample = s_v_greet_dwarf_surprise;
+		sample = s_v_fk_guard_dwarf_3;
 		screen_text = "Shhhh! I'm just waitin fer anuther one o' them skellies ta pop outa tha moat like they been doin all day. I just can't tell if I been shootin at the same one wot keeps gettin up, or if there's a big pile of 'em down there.";
 	}
 }
@@ -344,7 +345,7 @@
 {
 	[text*]
 	{
-		//sample = s_v_greet_male_hi;
+		sample = s_v_fk_guard1_5;
 		screen_text = "If you fought your way through Gresh's army, you should be more than able to get to the Hall of Skulls from here. The Captain sent a detachment down there to look for some woman he thinks is captured, but they were supposed to be back by now.";
 	}
 }
@@ -352,7 +353,7 @@
 {
 	[text*]
 	{
-		//sample = s_v_greet_dwarf_surprise;
+		sample = s_v_fk_guard_dwarf_4;
 		screen_text = "Captain Tarish has us all on alert while the detachment is away at the Hall of Skulls. I am just trying to stay awake with target practice until they come back.";
 	}
 }
@@ -360,7 +361,7 @@
 {
 	[text*]
 	{
-		//sample = s_v_greet_dwarf_ahoy;
+		sample = s_v_fk_guard_dwarf_5;
 		screen_text = "Talk aboot gratitude, sarge takes away me ale when I tell him I seen Seck, and when I finally tell Tarish, he puts me on fire watch fer a week. I shoulda just kept me mouth shut. Still, if Gresh wasn't Seck, I don't know what he was.";
 	}
 }
@@ -368,7 +369,7 @@
 {
 	[text*]
 	{
-		//sample = s_v_greet_dwarf_hello;
+		sample = s_v_fk_guard_dwarf_6;
 		screen_text = "I'm under strict orders ta make sure nobody disturbs the wounded. Make yer business quick with the Magus er I'll have ta ring yer bell.";
 	}
 }
@@ -376,7 +377,7 @@
 {
 	[text*]
 	{
-		//sample = s_v_greet_dwarf_ahoy;
+		sample = s_v_fk_guard_dwarf_7;
 		screen_text = "I don' know if them undead are down fer good, but you done a good thing out there all the same. Maybe this means I can finally get some sleep.";
 	}
 }
@@ -384,7 +385,7 @@
 {
 	[text*]
 	{
-		//sample = s_v_greet_male_hailmyfriend;
+		sample = s_v_fk_guard1_6;
 		screen_text = "There is nothing as horrible as having to fight the dead remains of our fellow Legionnaires. Thank Azunai you came when you did. I doubt we could have held the fort much more than a day without you.";
 	}
 }
