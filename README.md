@@ -24,6 +24,8 @@ The "revisited" map variant is based on the remaster, with these changes applied
 - Turned around North vector in Glacern cellar
 - Added more lake water terrain in Stonebridge for players using SeeFar
 - Added support for Thrillvilled's voices mod
+- Fixed water flow direction of a piece of river in Desert Canyon
+- Fixed tilted mushroom in Dark Forest, cleaned up clay pot inside wall in Dragon's Rathe
 
 ## How to build
 
