@@ -26,6 +26,7 @@ The "revisited" map variant is based on the remaster, with these changes applied
 - Added support for Thrillvilled's voices mod
 - Fixed water flow direction of a piece of river in Desert Canyon
 - Fixed tilted mushroom in Dark Forest, cleaned up clay pot inside wall in Dragon's Rathe
+- Fixed cap fading in goblin loop when entering from other side
 
 ## How to build
 
