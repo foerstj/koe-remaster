@@ -18,18 +18,6 @@
 	  p position = -14.6954,20.097,-39.3367,0x4a217ab7;
 	}
 }
-[t:pot_des_clay_05_dl_r1,n:0x00d0005f]
-{
-	[aspect]
-	{
-	  f scale_multiplier = 0.913709;
-	}
-	[placement]
-	{
-	  q orientation = 0,0.34202,0,-0.939693;
-	  p position = -15.5512,22.0931,-38.0854,0x4a217ab7;
-	}
-}
 [t:pot_des_clay_05_dl_r1,n:0x00d0006b]
 {
 	[aspect]
