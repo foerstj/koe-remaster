@@ -287,6 +287,65 @@
 	  p position = 1.13853,-5.72205e-006,0.0465908,0xfb8d1cce;
 	}
 }
+[t:trigger_fade_nodes_box,n:0x05500294]
+{
+	[common]
+	{
+		dev_instance_text = "FADE counter caps in loop when player enters from main direction";
+		[instance_triggers]
+		{
+			[*]
+			{
+				action* = fade_nodes_global(0xAAA50300,1,33,-1,"out:black");
+				action* = fade_nodes_global(0xAAA50300,1,44,-1,"out:black");
+			  b can_self_destruct = true;
+				condition* = party_member_within_bounding_box(1.000000,2.000000,7.000000,"on_every_enter");
+			  f delay = 0.000000;
+			  b flip_flop = false;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = true;
+			  b single_shot = false;
+			  b start_active = true;
+			}
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,1.73372e-015;
+	  p position = -1.65074,0,-0.227457,0xfb8d1cce;
+	}
+}
+[t:trigger_fade_nodes_box,n:0x05500296]
+{
+	[common]
+	{
+		[instance_triggers]
+		{
+			[*]
+			{
+				action* = fade_nodes_global(0xAAA50300,1,44,-1,"out:black");
+			  b can_self_destruct = true;
+				condition* = party_member_within_bounding_box(1.000000,2.000000,7.000000,"on_every_enter");
+			  f delay = 0.000000;
+			  b flip_flop = false;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = true;
+			  b single_shot = false;
+			  b start_active = true;
+			}
+		}
+	}
+	[placement]
+	{
+	  p position = -0.954155,0,-0.0913087,0x53d3d747;
+	}
+}
 [t:trigger_fade_nodes_box,n:0x055000f4]
 {
 	[common]
@@ -1130,17 +1189,15 @@
 	  p position = -1.64919,0,0.84504,0x18982588;
 	}
 }
-[t:trigger_fade_nodes_box,n:0x05500294]
+[t:trigger_fade_nodes_box,n:0x05500298]
 {
 	[common]
 	{
-		dev_instance_text = "FADE counter caps in loop when player enters from main direction";
 		[instance_triggers]
 		{
 			[*]
 			{
 				action* = fade_nodes_global(0xAAA50300,1,33,-1,"out:black");
-				action* = fade_nodes_global(0xAAA50300,1,44,-1,"out:black");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(1.000000,2.000000,7.000000,"on_every_enter");
 			  f delay = 0.000000;
@@ -1157,7 +1214,7 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,1,0,1.73372e-015;
-	  p position = -1.65074,0,-0.227457,0xfb8d1cce;
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = 0.0959168,0,-1.28601,0x5f5a2178;
 	}
 }
