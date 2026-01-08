@@ -154,6 +154,7 @@
 	}
 	[door_basic]
 	{
+	  x msg_scid_opening = 0x0550028A;
 	  x second_door = 0x05500282;
 	}
 	[placement]
@@ -170,6 +171,7 @@
 	}
 	[door_basic]
 	{
+	  x msg_scid_opening = 0x0550028A;
 	  x second_door = 0x05500060;
 	}
 	[placement]
