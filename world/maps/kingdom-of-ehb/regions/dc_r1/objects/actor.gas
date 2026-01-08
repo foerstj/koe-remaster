@@ -2363,8 +2363,8 @@
 {
 	[placement]
 	{
-	  q orientation = 0,-0.923879,0,0.382683;
-	  p position = 3.44488,0.55,-3.69175,0xa5af457d;
+	  q orientation = 0,0.382683,0,0.92388;
+	  p position = -6.30057,1.95,3.52573,0xa5af457d;
 	}
 }
 [t:gecko,n:0x00a001b8]

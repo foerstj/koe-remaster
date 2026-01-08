@@ -10276,8 +10276,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.0697562,0,-0.997564;
-	  p position = -0.886469,-0.456834,2.37414,0xa5af457d;
+	  q orientation = 0,0.997564,0,0.0697562;
+	  p position = -2.15535,0.94317,-2.19571,0xa5af457d;
 	}
 }
 [t:tree_des_pine_02,n:0x00a000d4]
