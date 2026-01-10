@@ -1,12 +1,12 @@
 [t:terrain_nodes,n:siege_node_list]
 {
-	actor_ambient_color = 0xffffffff;
-	actor_ambient_intensity = 0.350000;
-	ambient_color = 0xffffffff;
-	ambient_intensity = 0.200000;
+  x actor_ambient_color = 0xFFFFFFFF;
+  f actor_ambient_intensity = 0.350000;
+  x ambient_color = 0xFFFFFFFF;
+  f ambient_intensity = 0.200000;
 	environment_map = b_em_sphere;
-	object_ambient_color = 0xffffffff;
-	object_ambient_intensity = 0.250000;
+  x object_ambient_color = 0xFFFFFFFF;
+  f object_ambient_intensity = 0.250000;
   x targetnode = 0xF2070C9C;
 	[t:snode,n:0x00ccc0aa]
 	{
@@ -15803,7 +15803,7 @@
 	}
 	[t:snode,n:0x601e1752]
 	{
-	  b bounds_camera = false;
+	  b bounds_camera = true;
 	  b camera_fade = false;
 	  x guid = 0x601E1752;
 	  x mesh_guid = 0x01700F8B;
@@ -18894,7 +18894,7 @@
 	}
 	[t:snode,n:0x752e6dfd]
 	{
-	  b bounds_camera = false;
+	  b bounds_camera = true;
 	  b camera_fade = false;
 	  x guid = 0x752E6DFD;
 	  x mesh_guid = 0x01700F8B;
@@ -19408,7 +19408,7 @@
 	}
 	[t:snode,n:0x7922fada]
 	{
-	  b bounds_camera = false;
+	  b bounds_camera = true;
 	  b camera_fade = false;
 	  x guid = 0x7922FADA;
 	  x mesh_guid = 0x01700F8B;
@@ -25554,7 +25554,7 @@
 	}
 	[t:snode,n:0x9d1575a0]
 	{
-	  b bounds_camera = false;
+	  b bounds_camera = true;
 	  b camera_fade = false;
 	  x guid = 0x9D1575A0;
 	  x mesh_guid = 0x01700F8B;
@@ -25695,7 +25695,7 @@
 	}
 	[t:snode,n:0x9efa6b8c]
 	{
-	  b bounds_camera = false;
+	  b bounds_camera = true;
 	  b camera_fade = false;
 	  x guid = 0x9EFA6B8C;
 	  x mesh_guid = 0x01700F8B;
@@ -32645,7 +32645,7 @@
 	}
 	[t:snode,n:0xbfcf88a8]
 	{
-	  b bounds_camera = false;
+	  b bounds_camera = true;
 	  b camera_fade = false;
 	  x guid = 0xBFCF88A8;
 	  x mesh_guid = 0x01700F8B;
@@ -41956,7 +41956,7 @@
 	}
 	[t:snode,n:0xf22c1776]
 	{
-	  b bounds_camera = false;
+	  b bounds_camera = true;
 	  b camera_fade = false;
 	  x guid = 0xF22C1776;
 	  x mesh_guid = 0x01700F8B;
