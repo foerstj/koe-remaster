@@ -1080,7 +1080,6 @@
 	{
 		[conversations]
 		{
-			* = conversation_gresh_have_staff;
 			* = conversation_gresh_no_staff;
 		}
 	}

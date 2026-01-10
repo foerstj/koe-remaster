@@ -17,7 +17,7 @@
 		sample = s_v_fh_norick1;
 		nis = true;
 		screen_text = "The Krug are attacking! I couldn't hold them back...\nYou have long been my friend, but... you can do nothing more for old Norick.\nGo to Stonebridge. Find Gyorn. \nIf the Krug have elsewhere betrayed us, your bravery will be needed by the King.\nGo now!";
-        activate_quest* = Quest_for_Gyorn;
+        activate_quest* = quest_for_gyorn;
 		scroll_rate = 2.3;
 		quest_dialog = true;
 	}
@@ -29,7 +29,7 @@
 		order = 0;
 		sample = s_v_fh_norick1;
         screen_text = "The Krug are attacking! I couldn't hold them back... You have long been my friend, but... you can do nothing more for old Norick. Go to Stonebridge. Find Gyorn. If the Krug have elsewhere betrayed us, your bravery will be needed by the King. Go now!";
-        activate_quest* = Quest_for_Gyorn;
+        activate_quest* = quest_for_gyorn;
 		scroll_rate = 3.5;
 	}
 }
