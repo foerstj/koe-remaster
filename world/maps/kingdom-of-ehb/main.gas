@@ -1,51 +1,50 @@
-
 [t:map,n:map]
 {
-	description          	= "The original single-player campaign. Playable in both single and multiplayer modes.";
-	name                 	= map_world;
-	screen_name			 	= "Kingdom of Ehb (revisited)";
-	world_frustum_radius 	= 45;
-	world_interest_radius	= 10;
-	notes                	= none;
-	start_region_name    	= fh_r1;
-	show_intro			 	= true;
-	timeofday			 	= 22h00m;
-  b use_node_mesh_index 	= true;
-
+	description = "The original single-player campaign. Playable in both single and multiplayer modes.";
+  b dev_only = true;
+	name = map_world;
+	notes = none;
+	screen_name = "Kingdom of Ehb (revisited)";
+	show_intro = true;
+	start_region_name = fh_r1;
+	timeofday = 4h0m;
+  b use_node_mesh_index = true;
+  b use_player_journal = true;
+  f world_frustum_radius = 45.000000;
+  f world_interest_radius = 10.000000;
 	[camera]
 	{
-		azimuth 		= 70.000000;
-		distance 		= 13.000000;
-		farclip 		= 70.000000;
-		fov 			= 60.000000;
-		max_azimuth 	= 85.000000;
-		max_distance 	= 18.000000;
-		min_azimuth 	= 32.000000;
-		min_distance 	= 3.000000;
-		nearclip 		= 0.100000;
-		orbit 		= 0.000000;
-		position 		= 8.0000000, 4.000000, 14.000000, 0xf0ac542f;
+	  f azimuth = 70.000000;
+	  f distance = 13.000000;
+	  f farclip = 70.000000;
+	  f fov = 60.000000;
+	  f max_azimuth = 85.000000;
+	  f max_distance = 18.000000;
+	  f min_azimuth = 32.000000;
+	  f min_distance = 3.000000;
+	  f nearclip = 0.100000;
+	  f orbit = 0.000000;
+		position = 8.000000,4.000000,14.000000,0xF0AC542F;
 	}
-
 	[worlds]
 	{
+		[elite]
+		{
+			description = "You must be level 83 or higher to attempt this feat.";
+			required_level = 83;
+			screen_name = "Elite";
+		}
 		[regular]
 		{
-			screen_name = "Regular";
 			description = "Players of all levels can play here.";
 			required_level = 0;
+			screen_name = "Regular";
 		}
 		[veteran]
 		{
-			screen_name = "Veteran";
 			description = "Must be level 54 or higher to accept this challenge.";
 			required_level = 54;
-		}
-		[elite]
-		{
-			screen_name = "Elite";
-			description = "You must be level 83 or higher to attempt this feat.";
-			required_level = 83;
+			screen_name = "Veteran";
 		}
 	}
 }
